@@ -379,8 +379,8 @@ def equal(a, b):
         return a_val == b_val
 
     # Compare first byte of b with bits from first byte of a
-    if (da[a_byteoffset] & (
-            0xff >> a_bitoff)) >> shift != db[b_byteoffset] & (0xff >> b_bitoff):
+    if (da[a_byteoffset] & (0xff >> a_bitoff)
+            ) >> shift != db[b_byteoffset] & (0xff >> b_bitoff):
         return False
     # Now compare every full byte of b with bits from 2 bytes of a
     for x in range(1, b_bytelength - 1):
@@ -1275,7 +1275,8 @@ class Bits(object):
         """Check internal self consistency as a debugging aid."""
         assert self.len >= 0
         assert 0 <= self._offset, "offset={0}".format(self._offset)
-        assert (self.len + self._offset + 7) // 8 == self._datastore.bytelength + self._datastore.byteoffset
+        assert (self.len + self._offset +
+                7) // 8 == self._datastore.bytelength + self._datastore.byteoffset
         return True
 
     @classmethod
