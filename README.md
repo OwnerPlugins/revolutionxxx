@@ -1,6 +1,8 @@
-# 🔞 Tivustream Pro Revolution
+<h1 align="center">🔞 Tivustream Pro Revolution</h1>
 
-![](https://komarev.com/ghpvc/?username=Belfagor2005)
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
+
 
 <p align="center">
   <img src="https://github.com/Belfagor2005/revolutionxxx/blob/main/usr/lib/enigma2/python/Plugins/Extensions/revolutionx/logo.png" height="120">
