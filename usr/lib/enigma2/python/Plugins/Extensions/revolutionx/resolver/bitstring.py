@@ -2942,7 +2942,7 @@ class Bits(object):
                 p += length
             if not 0 <= p < length:
                 raise IndexError("Bit position {0} out of range.".format(p))
-            if not self._datastore.getbit(p) is value:
+            if self._datastore.getbit(p) is not value:
                 return False
         return True
 
