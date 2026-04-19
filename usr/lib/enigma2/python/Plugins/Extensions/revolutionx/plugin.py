@@ -1075,7 +1075,6 @@ class live_streamX(Screen):
         self.__layoutFinished()
 
     def okRun(self):
-        global search
         i = len(self.names)
         if i < 0:
             return
