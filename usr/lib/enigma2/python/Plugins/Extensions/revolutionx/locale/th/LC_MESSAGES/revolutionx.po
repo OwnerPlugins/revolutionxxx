@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:58+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Thai <(nothing)>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d จาก %d กิโลไบต์"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= สนับสนุน: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== ยินดีต้อนรับ ==========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "ห้ามโดยเด็ดขาดในการใช้รายการนี้โดยไม่ได้รับอนุญาต\n"
+
+msgid "All cache fold are empty!"
+msgstr "พับแคชทั้งหมดว่างเปล่า!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "ห้ามมิให้ใช้รายการเหล่านี้โดยไม่ได้รับอนุญาตโดยเด็ดขาด\n"
+
+msgid "Back"
+msgstr "กลับ"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "ไม่สามารถอ่านแพ็คเก็ต RTMP:"
+
+msgid "Cache folder"
+msgstr "โฟลเดอร์แคช"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Cancel execution?"
+msgstr "ยกเลิกการดำเนินการใช่ไหม"
+
+msgid "Choice"
+msgstr "ทางเลือก"
+
+msgid "Choose Directory"
+msgstr "เลือกไดเรกทอรี"
+
+msgid "Choose Directory:"
+msgstr "เลือกไดเรกทอรี:"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Configure Service Player Reference"
+msgstr "กำหนดค่าการอ้างอิงผู้เล่นบริการ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "ยินดีด้วย! คุณมีเวอร์ชันล่าสุดแล้ว..."
+
+msgid "Console"
+msgstr "คอนโซล"
+
+msgid "DISCLAIMER: \n"
+msgstr "การปฏิเสธความรับผิด: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ไฟล์ที่ดาวน์โหลดเสียหาย:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "คุณต้องการติดตั้งการอัปเดต ( %s ) ตอนนี้หรือไม่?"
+
+msgid "Do you want to remove %s ?"
+msgstr "คุณต้องการลบ %s หรือไม่"
+
+msgid "Download Failed !!"
+msgstr "ดาวน์โหลดไม่สำเร็จ !!"
+
+msgid "Download Failed!!!"
+msgstr "ดาวน์โหลดไม่สำเร็จ!!!"
+
+msgid "Download..."
+msgstr "ดาวน์โหลด..."
+
+msgid "Downloading"
+msgstr "กำลังดาวน์โหลด"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "ดีวีบี(1)"
+
+msgid "Empty Cache"
+msgstr "แคชว่างเปล่า"
+
+msgid "Exit"
+msgstr "ออก"
+
+msgid "Exteplayer3(5002)"
+msgstr "เอ็กซ์เทเพลเยอร์3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "ดาวน์โหลดไฟล์แล้ว..."
+
+msgid "Finished"
+msgstr "ที่เสร็จเรียบร้อย"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "เส้นทางภาพยนตร์ของโฟลเดอร์ (เช่น: /media/hdd/movie) กดตกลง - ต้องรีสตาร์ท Enigma"
+
+msgid "Gstreamer(5001)"
+msgstr "กสตรีมเมอร์(5001)"
+
+msgid "Hide/Show"
+msgstr "ซ่อน/แสดง"
+
+msgid "IPTV(4097)"
+msgstr "ไอพีทีวี(4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "เซิร์ฟเวอร์อ้างอิงเชิงโครงสร้างสำหรับโปรเจ็กต์ที่เผยแพร่\n"
+
+msgid "Install Streamlink first"
+msgstr "ติดตั้ง Streamlink ก่อน"
+
+msgid "Is Directory or file not exist"
+msgstr "ไม่มีไดเรกทอรีหรือไฟล์อยู่"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "รายการที่สร้างขึ้นโดยเฉพาะ HOC มีที่อยู่อย่างอิสระและไม่มีค่าใช้จ่าย\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ดาวน์โหลดภาพยนตร์ล้มเหลว!"
+
+msgid "Movie"
+msgstr "ภาพยนตร์"
+
+msgid "NOTA BENE:\n"
+msgstr "โปรดทราบ:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "อนุญาตเฉพาะภาพยนตร์ VOD หรือไม่ .ext กรอง!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "มิฉะนั้นให้ใช้ปลั๊กอิน Freearhey ของฉัน"
+
+msgid "Personal Password"
+msgstr "รหัสผ่านส่วนตัว"
+
+msgid "Please select ..."
+msgstr "กรุณาเลือก..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "กดตกลงเพื่อเลือกโฟลเดอร์ที่มีไฟล์ picons"
+
+msgid "Really close without saving settings?"
+msgstr "ปิดโดยไม่บันทึกการตั้งค่าจริงหรือ"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Restart"
+msgstr "รีสตาร์ท"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ข้อผิดพลาดในการแบ่งส่วน:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "เลือกตัวเลือกของคุณ"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "ข้อผิดพลาดในการส่งคืนเซิร์ฟเวอร์:"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Select"
+msgstr "เลือก"
+
+msgid "Services Player Reference type"
+msgstr "ประเภทการอ้างอิงผู้เล่นบริการ"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "ตั้งรหัสผ่าน - สอบถามทางอีเมลไปที่ tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "กำหนดเส้นทางโฟลเดอร์ภาพยนตร์"
+
+msgid "Set the path to the Cache folder"
+msgstr "กำหนดเส้นทางไปยังโฟลเดอร์แคช"
+
+msgid "Settings saved correctly!"
+msgstr "บันทึกการตั้งค่าอย่างถูกต้อง!"
+
+msgid "Streamlink(5002)"
+msgstr "สตรีมลิงก์(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "รายการที่สร้างที่ HOC มีที่อยู่อย่างอิสระและพบได้อย่างอิสระบน\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "เซิร์ฟเวอร์อ้างอิงเชิงโครงสร้างสำหรับโครงการที่เผยแพร่\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ข้อผิดพลาดที่ไม่รู้จัก:"
+
+msgid "Update"
+msgstr "อัปเดต"
+
+msgid "Update Aborted!"
+msgstr "การอัปเดตถูกยกเลิก!"
+
+msgid "You are already downloading!!!"
+msgstr "คุณกำลังดาวน์โหลดแล้ว!!!"
+
+msgid "You are not allowed!"
+msgstr "คุณไม่ได้รับอนุญาต!"
+
+msgid "check SERVER in config"
+msgstr "ตรวจสอบ SERVER ใน config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ไม่ใช่แหล่งที่มาของกระแส/กระแสใดๆ\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "มันไม่ใช่แหล่งที่มาของกระแสใดๆ\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "เน็ตและไม่ได้รับการคุ้มครองโดยการสมัครสมาชิกหรือการสมัครสมาชิก\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "พบได้ทางออนไลน์และไม่ได้รับการคุ้มครองโดยการสมัครสมาชิกหรือการสมัครสมาชิก\n"

@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:54+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d av %d kByte"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= SUPPORT PÅ: ===========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== VÄLKOMMEN ===========\n"
+
+msgid "========================================\n"
+msgstr "============================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Absolut förbjudet att använda dessa listor utan tillstånd\n"
+
+msgid "All cache fold are empty!"
+msgstr "Alla cacheminnar är tomma!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Det är absolut FÖRBJUDET att använda dessa listor utan tillstånd.\n"
+
+msgid "Back"
+msgstr "Tillbaka"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "KUNDE INTE LÄSA RTMP-PAKET:"
+
+msgid "Cache folder"
+msgstr "Cache-mapp"
+
+msgid "Cancel"
+msgstr "Avboka"
+
+msgid "Cancel execution?"
+msgstr "Avbryt körning?"
+
+msgid "Choice"
+msgstr "Val"
+
+msgid "Choose Directory"
+msgstr "Välj Katalog"
+
+msgid "Choose Directory:"
+msgstr "Välj katalog:"
+
+msgid "Close"
+msgstr "Nära"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurera Service Player Reference"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "grattis! Du har redan den senaste versionen..."
+
+msgid "Console"
+msgstr "Trösta"
+
+msgid "DISCLAIMER: \n"
+msgstr "ANSVARSFRISKRIVNING: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "NEDLADDAD FIL SKADAD:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Vill du installera uppdateringen ( %s ) nu?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Vill du ta bort %s?"
+
+msgid "Download Failed !!"
+msgstr "Nedladdningen misslyckades!!"
+
+msgid "Download Failed!!!"
+msgstr "Nedladdning misslyckades!!!"
+
+msgid "Download..."
+msgstr "Ladda ner..."
+
+msgid "Downloading"
+msgstr "Laddar ner"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Töm cache"
+
+msgid "Exit"
+msgstr "Utgång"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Fil nedladdad..."
+
+msgid "Finished"
+msgstr "Färdig"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Mapp Filmsökväg (t.ex.: /media/hdd/movie), Tryck på OK - Enigma omstart krävs"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Göm/Visa"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Den strukturella referensservern för släppta projekt\n"
+
+msgid "Install Streamlink first"
+msgstr "Installera Streamlink först"
+
+msgid "Is Directory or file not exist"
+msgstr "Är katalog eller fil inte existerar"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Listorna som skapats specifikt HOC innehåller adresser fritt och kostnadsfritt\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "FILMEN MISSLYCKades!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "OBS:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Endast VOD-film tillåten eller inte .ext filtrerad!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Annars använd min plugin Freearhey"
+
+msgid "Personal Password"
+msgstr "Personligt lösenord"
+
+msgid "Please select ..."
+msgstr "Vänligen välj..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Tryck på Ok för att välja mappen som innehåller ikonfilerna"
+
+msgid "Really close without saving settings?"
+msgstr "Stäng verkligen utan att spara inställningar?"
+
+msgid "Remove"
+msgstr "Ta bort"
+
+msgid "Restart"
+msgstr "Starta om"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTERINGSFEL:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "VÄLJ DITT VAL"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVER RETURNED FEL:"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Select"
+msgstr "Välja"
+
+msgid "Services Player Reference type"
+msgstr "Tjänster Spelarreferenstyp"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Ange lösenord - fråga via e-post till tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Ställ in sökvägen Filmmappen"
+
+msgid "Set the path to the Cache folder"
+msgstr "Ställ in sökvägen till Cache-mappen"
+
+msgid "Settings saved correctly!"
+msgstr "Inställningarna har sparats korrekt!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Listorna som skapats på HOC innehåller adresser fritt och fritt tillgängliga på\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Den strukturella referensservern för släppta projekt\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "OKÄNT FEL:"
+
+msgid "Update"
+msgstr "Uppdatera"
+
+msgid "Update Aborted!"
+msgstr "Uppdatering avbröts!"
+
+msgid "You are already downloading!!!"
+msgstr "Du laddar redan ned!!!"
+
+msgid "You are not allowed!"
+msgstr "Du är inte tillåten!"
+
+msgid "check SERVER in config"
+msgstr "kontrollera SERVER i config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "är inte en källa till någon ström/flöde.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "det är inte källan till någon ström.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "nätet och inte skyddas av prenumeration eller prenumeration.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "hittas online och inte skyddas av prenumeration eller prenumeration.\n"

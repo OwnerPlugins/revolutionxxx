@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:59+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkmen\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "% d% kBaýt"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+ WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG + \ n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= GÖRNÜŞ: ========== \ n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== WELCOME ========== \ n"
+
+msgid "========================================\n"
+msgstr "======================================== \ n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Bu sanawlary rugsatsyz ulanmak düýbünden gadagan"
+
+msgid "All cache fold are empty!"
+msgstr "Keş bukjasynyň hemmesi boş!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Bu sanawlary rugsatsyz ulanmak düýbünden gadagan. \ N."
+
+msgid "Back"
+msgstr "Yzyna"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP paketini okap bolmaz:"
+
+msgid "Cache folder"
+msgstr "Keş bukjasy"
+
+msgid "Cancel"
+msgstr "Elatyr"
+
+msgid "Cancel execution?"
+msgstr "Executionerine ýetirmekligi ýatyrmalymy?"
+
+msgid "Choice"
+msgstr "Saýlamak"
+
+msgid "Choose Directory"
+msgstr "Katalog saýlaň"
+
+msgid "Choose Directory:"
+msgstr "Katalogy saýlaň:"
+
+msgid "Close"
+msgstr ".Akyn"
+
+msgid "Configure Service Player Reference"
+msgstr "Hyzmat pleýer salgylanmasyny sazlaň"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gutlaýarys! Sizde iň soňky wersiýa bar ..."
+
+msgid "Console"
+msgstr "Konsol"
+
+msgid "DISCLAIMER: \n"
+msgstr "Jedeller: \ n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "OWüklenen faýl korrupsiýa:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Indi täzelenme (% s) gurmak isleýärsiňizmi?"
+
+msgid "Do you want to remove %s ?"
+msgstr "% S aýyrmak isleýärsiňizmi?"
+
+msgid "Download Failed !!"
+msgstr "Downloadüklemek şowsuz !!"
+
+msgid "Download Failed!!!"
+msgstr "Downloadüklemek şowsuz !!!"
+
+msgid "Download..."
+msgstr "Göçürip al ..."
+
+msgid "Downloading"
+msgstr "Ingüklemek"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "“DreamOS GStreamer” (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "Boş keş"
+
+msgid "Exit"
+msgstr "Çyk"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Faýl göçürildi ..."
+
+msgid "Finished"
+msgstr "Tamamlandy"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Papka film ýoly (meselem: / media / hdd / film), OK basyň - Enigma täzeden açmaly"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Gizlemek / görkezmek"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Çykarylan taslamalar üçin gurluş salgy serweri \ n"
+
+msgid "Install Streamlink first"
+msgstr "Ilki bilen “Streamlink” -i guruň"
+
+msgid "Is Directory or file not exist"
+msgstr "Katalog ýa-da faýl ýokmy?"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Hörite döredilen sanawlarda erkin we mugt salgylar bar"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "SÖ! GI OWükläň!"
+
+msgid "Movie"
+msgstr "Kino"
+
+msgid "NOTA BENE:\n"
+msgstr "ÜNS BERI .: \ N"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Diňe VOD filmine rugsat berildi ýa-da ýok .Sekst süzüldi !!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Otherwiseogsam, “Plugin Freearhey” ulanyň"
+
+msgid "Personal Password"
+msgstr "Şahsy parol"
+
+msgid "Please select ..."
+msgstr "Saýlaň ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Pikon faýllaryny öz içine alýan bukjany saýlamak üçin Ok basyň"
+
+msgid "Really close without saving settings?"
+msgstr "Sazlamalary tygşytlamazdan hakykatdanam ýapykmy?"
+
+msgid "Remove"
+msgstr "Aýyr"
+
+msgid "Restart"
+msgstr "Gaýtadan açyň"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "BÖLÜM FAAL .YŞLYGY:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "Saýlawyňyzy saýlaň"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "HYZMAT Gaýtadan ýalňyşlyk:"
+
+msgid "Save"
+msgstr "Saklaň"
+
+msgid "Select"
+msgstr "Saýlaň"
+
+msgid "Services Player Reference type"
+msgstr "Hyzmatlar Pleýeriň salgylanma görnüşi"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Paroly düzüň - e-poçta bilen tivustream@gmail.com adresine soraň"
+
+msgid "Set the path Movie folder"
+msgstr "Movieol bukjasyny düzüň"
+
+msgid "Set the path to the Cache folder"
+msgstr "Keş bukjasyna ýol düzüň"
+
+msgid "Settings saved correctly!"
+msgstr "Sazlamalar dogry saklandy!"
+
+msgid "Streamlink(5002)"
+msgstr "Akym baglanyşygy (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC-da döredilen sanawlarda erkin we erkin tapylan salgylar bar"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Çykarylan taslamalar üçin gurluş salgy serweri \ n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "Bilmedik ýalňyşlyk:"
+
+msgid "Update"
+msgstr "Täzelen"
+
+msgid "Update Aborted!"
+msgstr "Täzelenme ýatyryldy!"
+
+msgid "You are already downloading!!!"
+msgstr "Siz eýýäm göçürip alýarsyňyz !!!"
+
+msgid "You are not allowed!"
+msgstr "Size rugsat berilmeýär"
+
+msgid "check SERVER in config"
+msgstr "konfigurasiýada SERVER-i barlaň"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "haýsydyr bir akymyň / akymyň çeşmesi däl. \ n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "haýsydyr bir akymyň çeşmesi däl. \ n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "tor we abunalyk ýa-da abunalyk bilen goralmaýar. \ n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "onlaýn tapyldy we abunalyk ýa-da abunalyk bilen goralmaýar. \ n"

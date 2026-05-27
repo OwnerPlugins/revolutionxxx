@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:43+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Occitan\n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d de %d koctets"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+WWW.TIVUSTREM.COM - WWW.CORVOBOYS.ORG+\n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= SUPPORT ON: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== BENVEnguda ==========\n"
+
+msgid "========================================\n"
+msgstr "======================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Absoludament ENEBUT d'utilizar aquestas listas sens autorizacion\n"
+
+msgid "All cache fold are empty!"
+msgstr "Totes los plecs de cache son voids!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Es absoludament ENEBIT d'utilizar aquestas listas sens permission.\n"
+
+msgid "Back"
+msgstr "Arrièr"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "PODIÈT PAS LEGIR LO PAQUET RTMP :"
+
+msgid "Cache folder"
+msgstr "Dòrsièr de cache"
+
+msgid "Cancel"
+msgstr "Anullar"
+
+msgid "Cancel execution?"
+msgstr "Anullar l'execucion?"
+
+msgid "Choice"
+msgstr "Causida"
+
+msgid "Choose Directory"
+msgstr "Causissètz Repertòri"
+
+msgid "Choose Directory:"
+msgstr "Causissètz Repertòri :"
+
+msgid "Close"
+msgstr "Barrar"
+
+msgid "Configure Service Player Reference"
+msgstr "Configurar la referéncia del jogaire de servici"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Felicitacions! Avètz ja la darrièra version..."
+
+msgid "Console"
+msgstr "Consòla"
+
+msgid "DISCLAIMER: \n"
+msgstr "AVISO: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "FICHIÈR TELECARGAT CORROMPUT :"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Volètz installar la mesa a jorn ( %s ) ara ?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Volètz suprimir %s ?"
+
+msgid "Download Failed !!"
+msgstr "Telecargament fracassat !!"
+
+msgid "Download Failed!!!"
+msgstr "La telecargament fracassat!!!"
+
+msgid "Download..."
+msgstr "Descargar..."
+
+msgid "Downloading"
+msgstr "Telecargament"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Cache vuèg"
+
+msgid "Exit"
+msgstr "Sortida"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Fichièr telecargat ..."
+
+msgid "Finished"
+msgstr "Acabat"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Camin del filme del dorsièr (per exemple: /media/hdd/movie), quichatz sus D'acòrdi - Reaviada d'Enigma es obligatòria"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Amagar/Afichar"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Lo servidor de referéncia estructurala pels projèctes publicats\n"
+
+msgid "Install Streamlink first"
+msgstr "Installatz Streamlink d'en primièr"
+
+msgid "Is Directory or file not exist"
+msgstr "Existisson pas un repertòri o un fichièr"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Las listas creadas especificament HOC contenon d'adreças liurament e gratuitament\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "LA DESCARGA DE PELICULA A FRACASSAT!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "NOTA:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Sonque lo film VOD autorizat o pas .ext filtrat!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Autrament utilizatz mon ensamblador Freearhey"
+
+msgid "Personal Password"
+msgstr "Senhal personal"
+
+msgid "Please select ..."
+msgstr "Seleccionatz ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Quichatz sus D'acòrdi per seleccionar lo dorsièr que conten los fichièrs picons"
+
+msgid "Really close without saving settings?"
+msgstr "Barrar vertadièrament sens enregistrar los paramètres?"
+
+msgid "Remove"
+msgstr "Levar"
+
+msgid "Restart"
+msgstr "Reaviar"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "FAUTA DE SEGMENTACION:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "SELECCIONATZ VÒSTRA CAUSSION"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "ERROR RETORNADA DEL SERVIDOR:"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Select"
+msgstr "Causir"
+
+msgid "Services Player Reference type"
+msgstr "Tipe de referéncia del jogaire dels servicis"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Definir lo senhal - demandatz per corrièl a tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Definir lo camin del dorsièr filme"
+
+msgid "Set the path to the Cache folder"
+msgstr "Definir lo camin cap al dorsièr Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Los paramètres enregistrats corrèctament !"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Las listas creadas a HOC contenon d'adreças liurament e liurament trobadas sus\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Lo servidor de referéncia estructurala pels projèctes publicats\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ERROR DESCONEGUDA :"
+
+msgid "Update"
+msgstr "Metre al jorn"
+
+msgid "Update Aborted!"
+msgstr "Mesa a jorn avortada!"
+
+msgid "You are already downloading!!!"
+msgstr "Ja estàs a descargar!!!"
+
+msgid "You are not allowed!"
+msgstr "Sètz pas autorizat!"
+
+msgid "check SERVER in config"
+msgstr "verificatz SERVIDOR dins la configuracion"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "es pas una font de cap de flux/flux.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "es pas la font de cap de flux.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "lo net e pas protegit per soscripcion o soscripcion.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "trobat en linha e pas protegit per abonament o abonament.\n"

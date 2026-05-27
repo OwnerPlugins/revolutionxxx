@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:56+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d ከ %d ኪባይቶች"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "===== ድጋፍ በርቷል: =========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======= እንኳን ደህና መጣህ ===========\n"
+
+msgid "========================================\n"
+msgstr "=============================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "ይህንን ዝርዝሮች ያለፍቃድ ለመጠቀም በፍጹም የተከለከለ\n"
+
+msgid "All cache fold are empty!"
+msgstr "ሁሉም የመሸጎጫ እጥፎች ባዶ ናቸው!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "እነዚህን ዝርዝሮች ያለፈቃድ መጠቀም ፈጽሞ የተከለከለ ነው።\n"
+
+msgid "Back"
+msgstr "ተመለስ"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "የ RTMP ፓኬት ማንበብ አልተቻለም፡-"
+
+msgid "Cache folder"
+msgstr "መሸጎጫ አቃፊ"
+
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+msgid "Cancel execution?"
+msgstr "ማስፈጸሚያ ይሰረዝ?"
+
+msgid "Choice"
+msgstr "ምርጫ"
+
+msgid "Choose Directory"
+msgstr "ማውጫ ይምረጡ"
+
+msgid "Choose Directory:"
+msgstr "ማውጫ ይምረጡ፡-"
+
+msgid "Close"
+msgstr "ገጠመ"
+
+msgid "Configure Service Player Reference"
+msgstr "የአገልግሎት ማጫወቻ ማጣቀሻን ያዋቅሩ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "እንኳን ደስ ያለህ! ቀድሞውንም የቅርብ ጊዜ ስሪት አለህ..."
+
+msgid "Console"
+msgstr "ኮንሶል"
+
+msgid "DISCLAIMER: \n"
+msgstr "የክህደት ቃል፡ \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "የወረደ ፋይል ተበላሽቷል፡-"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ማሻሻያ (%s) አሁን መጫን ይፈልጋሉ?"
+
+msgid "Do you want to remove %s ?"
+msgstr "%sን ማስወገድ ይፈልጋሉ?"
+
+msgid "Download Failed !!"
+msgstr "ማውረድ አልተሳካም !!"
+
+msgid "Download Failed!!!"
+msgstr "ማውረድ አልተሳካም !!!"
+
+msgid "Download..."
+msgstr "አውርድ..."
+
+msgid "Downloading"
+msgstr "በማውረድ ላይ"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr "ዲቪቢ(1)"
+
+msgid "Empty Cache"
+msgstr "ባዶ መሸጎጫ"
+
+msgid "Exit"
+msgstr "ውጣ"
+
+msgid "Exteplayer3(5002)"
+msgstr "ኤክስቴፕለር 3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "ፋይል ወርዷል..."
+
+msgid "Finished"
+msgstr "ጨርሷል"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "የአቃፊ ፊልም ዱካ (ለምሳሌ፡ /ሚዲያ/ኤችዲዲ/ፊልም)፣ እሺን ይጫኑ - Enigma ዳግም ማስጀመር ያስፈልጋል"
+
+msgid "Gstreamer(5001)"
+msgstr "ጂስትሬተር (5001)"
+
+msgid "Hide/Show"
+msgstr "ደብቅ/ አሳይ"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "ለተለቀቁ ፕሮጀክቶች መዋቅራዊ ዋቢ አገልጋይ\n"
+
+msgid "Install Streamlink first"
+msgstr "መጀመሪያ Streamlink ጫን"
+
+msgid "Is Directory or file not exist"
+msgstr "ማውጫ ወይም ፋይል የለም።"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "በተለይ የተፈጠሩት ዝርዝሮች በነጻ እና ከክፍያ ነጻ\n አድራሻዎችን ይይዛሉ"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ፊልም ማውረድ አልተሳካም!"
+
+msgid "Movie"
+msgstr "ፊልም"
+
+msgid "NOTA BENE:\n"
+msgstr "እባክዎን ያስተውሉ፡\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "ቪኦዲ ፊልም ብቻ ይፈቀዳል ወይም አይፈቀድም .ext ተጣርቶ !!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "አለበለዚያ የእኔን Plugin Freearhey ተጠቀም"
+
+msgid "Personal Password"
+msgstr "የግል የይለፍ ቃል"
+
+msgid "Please select ..."
+msgstr "እባክህ ምረጥ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "ፒኮን ፋይሎችን የያዘውን አቃፊ ለመምረጥ እሺን ይጫኑ"
+
+msgid "Really close without saving settings?"
+msgstr "ቅንብሮችን ሳታስቀምጥ በእርግጥ ይዘጋል?"
+
+msgid "Remove"
+msgstr "አስወግድ"
+
+msgid "Restart"
+msgstr "እንደገና ጀምር"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "የመከፋፈል ስህተት፡-"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ምርጫዎን ይምረጡ"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "አገልጋይ የተመለሰ ስህተት፡-"
+
+msgid "Save"
+msgstr "አስቀምጥ"
+
+msgid "Select"
+msgstr "ይምረጡ"
+
+msgid "Services Player Reference type"
+msgstr "የአገልግሎቶች ማጫወቻ ማጣቀሻ አይነት"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "የይለፍ ቃል ያዘጋጁ - በኢሜል ወደ tivustream@gmail.com ይጠይቁ"
+
+msgid "Set the path Movie folder"
+msgstr "የፊልም አቃፊውን ዱካ ያዘጋጁ"
+
+msgid "Set the path to the Cache folder"
+msgstr "ወደ መሸጎጫ አቃፊ የሚወስደውን መንገድ ያዘጋጁ"
+
+msgid "Settings saved correctly!"
+msgstr "ቅንብሮች በትክክል ተቀምጠዋል!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "በHOC የተፈጠሩት ዝርዝሮች በነጻ እና በነፃነት\n ላይ የሚገኙ አድራሻዎችን ይይዛሉ"
+
+msgid "The structural reference server for projects released\n"
+msgstr "የፕሮጀክቶች መዋቅራዊ ማመሳከሪያ አገልጋይ ተለቋል\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ያልታወቀ ስህተት፡-"
+
+msgid "Update"
+msgstr "አዘምን"
+
+msgid "Update Aborted!"
+msgstr "ዝማኔ ተቋርጧል!"
+
+msgid "You are already downloading!!!"
+msgstr "ቀድሞውንም እያወረዱ ነው!!!"
+
+msgid "You are not allowed!"
+msgstr "እርስዎ አይፈቀዱም!"
+
+msgid "check SERVER in config"
+msgstr "በውቅረት ውስጥ SERVERን ያረጋግጡ"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "የማንኛውም ዥረት/ፍሰት ምንጭ አይደለም።\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "የየትኛውም ጅረት ምንጭ አይደለም።\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "መረቡ እና በደንበኝነት ወይም በደንበኝነት አልተጠበቁም።\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "በመስመር ላይ የተገኘ እና በደንበኝነት ወይም በደንበኝነት አልተጠበቀም።\n"

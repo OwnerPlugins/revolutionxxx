@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d o %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= CEFNOGAETH AR: =========="
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======= CROESO ==========\n"
+
+msgid "========================================\n"
+msgstr "================================"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "GWAHARDDWYD yn llwyr i ddefnyddio'r rhestrau hyn heb awdurdodiad\n"
+
+msgid "All cache fold are empty!"
+msgstr "Mae pob plygiad cache yn wag!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Gwaherddir defnyddio'r rhestrau hyn heb ganiatâd.\n"
+
+msgid "Back"
+msgstr "Yn ol"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "NI ALLAI DDARLLEN PECYN RTMP:"
+
+msgid "Cache folder"
+msgstr "Ffolder storfa"
+
+msgid "Cancel"
+msgstr "Canslo"
+
+msgid "Cancel execution?"
+msgstr "Canslo gweithrediad?"
+
+msgid "Choice"
+msgstr "Dewis"
+
+msgid "Choose Directory"
+msgstr "Dewiswch Cyfeiriadur"
+
+msgid "Choose Directory:"
+msgstr "Dewiswch Cyfeiriadur:"
+
+msgid "Close"
+msgstr "Cau"
+
+msgid "Configure Service Player Reference"
+msgstr "Ffurfweddu Cyfeirnod Chwaraewr Gwasanaeth"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Llongyfarchiadau! Mae gennych y fersiwn diweddaraf yn barod..."
+
+msgid "Console"
+msgstr "Consol"
+
+msgid "DISCLAIMER: \n"
+msgstr "YMWADIAD: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "FFEIL WEDI'I LWYTHO WEDI'I LLYGREDIG:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ydych chi am osod diweddariad ( %s ) nawr?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Ydych chi am ddileu %s ?"
+
+msgid "Download Failed !!"
+msgstr "Lawrlwytho Wedi methu!!"
+
+msgid "Download Failed!!!"
+msgstr "Wedi methu llwytho i lawr!!!"
+
+msgid "Download..."
+msgstr "Lawrlwythwch..."
+
+msgid "Downloading"
+msgstr "Wrthi'n llwytho i lawr"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Cache Gwag"
+
+msgid "Exit"
+msgstr "Ymadael"
+
+msgid "Exteplayer3(5002)"
+msgstr "Chwaraewr Exte3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "Ffeil wedi'i Lawrlwytho ..."
+
+msgid "Finished"
+msgstr "Wedi gorffen"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Llwybr Ffilm Ffolder (ee.: /media/hdd/movie), Pwyswch OK - Mae angen ailgychwyn Enigma"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Cuddio/Dangos"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Y gweinydd cyfeirio strwythurol ar gyfer prosiectau a ryddhawyd\n"
+
+msgid "Install Streamlink first"
+msgstr "Gosod Streamlink yn gyntaf"
+
+msgid "Is Directory or file not exist"
+msgstr "A yw Cyfeiriadur neu ffeil ddim yn bodoli"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Mae'r rhestrau a grëwyd yn benodol HOC yn cynnwys cyfeiriadau yn rhydd ac yn rhad ac am ddim\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "METHU LWYTHO FFILMIO!"
+
+msgid "Movie"
+msgstr "Ffilm"
+
+msgid "NOTA BENE:\n"
+msgstr "SYLWCH:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Dim ond VOD Movie a ganiateir neu beidio. est Hidlo!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Fel arall Defnyddiwch fy Ategyn Freearhey"
+
+msgid "Personal Password"
+msgstr "Cyfrinair Personol"
+
+msgid "Please select ..."
+msgstr "Dewiswch ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Pwyswch Ok i ddewis y ffolder sy'n cynnwys y ffeiliau picons"
+
+msgid "Really close without saving settings?"
+msgstr "Cau iawn heb gadw gosodiadau?"
+
+msgid "Remove"
+msgstr "Dileu"
+
+msgid "Restart"
+msgstr "Ailgychwyn"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "BAI SEGMENTU:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "DEWISWCH EICH DEWIS"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "GWALL DYCHWELWYD Y GWASANAETH:"
+
+msgid "Save"
+msgstr "Arbed"
+
+msgid "Select"
+msgstr "Dewiswch"
+
+msgid "Services Player Reference type"
+msgstr "Gwasanaethau Chwaraewr Math o gyfeirnod"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Gosod Cyfrinair - gofynnwch trwy e-bost i tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Gosodwch y ffolder Movie llwybr"
+
+msgid "Set the path to the Cache folder"
+msgstr "Gosodwch y llwybr i'r ffolder Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Gosodiadau wedi'u cadw'n gywir!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Mae'r rhestrau a grëwyd yn HOC yn cynnwys cyfeiriadau y gellir eu canfod yn rhwydd ac yn rhydd ar\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Y gweinydd cyfeirio strwythurol ar gyfer prosiectau a ryddhawyd\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "GWALL ANHYSBYS:"
+
+msgid "Update"
+msgstr "Diweddariad"
+
+msgid "Update Aborted!"
+msgstr "Diweddariad wedi'i Erthylu!"
+
+msgid "You are already downloading!!!"
+msgstr "Rydych chi'n llwytho i lawr yn barod!!!"
+
+msgid "You are not allowed!"
+msgstr "Ni chaniateir i chi!"
+
+msgid "check SERVER in config"
+msgstr "gwiriwch SERVER yn config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "nid yw'n ffynhonnell unrhyw ffrwd/llif.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "nid dyma ffynhonnell unrhyw ffrwd.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "y rhwyd ​​a heb ei warchod gan danysgrifiad neu danysgrifiad.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "dod o hyd ar-lein ac nid yw wedi'i ddiogelu gan danysgrifiad neu danysgrifiad.\n"

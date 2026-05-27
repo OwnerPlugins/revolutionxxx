@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:46+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Pashto\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d د %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ملاتړ پر: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== ښه راغلاست ==========\n"
+
+msgid "========================================\n"
+msgstr "======================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "د اجازې پرته د دې لیستونو کارول په بشپړ ډول منع دي\n"
+
+msgid "All cache fold are empty!"
+msgstr "ټول کیچ فولډ خالي دي!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "د اجازې پرته د دې لیستونو کارول بالکل منع دي.\n"
+
+msgid "Back"
+msgstr "شاته"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "د RTMP کڅوړه نشي لوستلی:"
+
+msgid "Cache folder"
+msgstr "د کیچ فولډر"
+
+msgid "Cancel"
+msgstr "لغوه کړئ"
+
+msgid "Cancel execution?"
+msgstr "اعدام لغوه کړئ؟"
+
+msgid "Choice"
+msgstr "انتخاب"
+
+msgid "Choose Directory"
+msgstr "لارښود غوره کړئ"
+
+msgid "Choose Directory:"
+msgstr "لارښود غوره کړئ:"
+
+msgid "Close"
+msgstr "تړل"
+
+msgid "Configure Service Player Reference"
+msgstr "د خدمت پلیر حواله ترتیب کړئ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "مبارک شه! تاسو لا دمخه وروستۍ نسخه لرئ ..."
+
+msgid "Console"
+msgstr "کنسول"
+
+msgid "DISCLAIMER: \n"
+msgstr "ردونکی: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ډاونلوډ شوی فایل فاسد شوی:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ایا تاسو غواړئ اوسمهال (%s) نصب کړئ؟"
+
+msgid "Do you want to remove %s ?"
+msgstr "ایا تاسو غواړئ چې %s لرې کړئ؟"
+
+msgid "Download Failed !!"
+msgstr "ډاونلوډ ناکام شو !!"
+
+msgid "Download Failed!!!"
+msgstr "ډاونلوډ ناکام شو !!!"
+
+msgid "Download..."
+msgstr "ډاونلوډ کړئ..."
+
+msgid "Downloading"
+msgstr "کښته کول"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "خالي کیچ"
+
+msgid "Exit"
+msgstr "وتل"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "فایل ډاونلوډ شوی ..."
+
+msgid "Finished"
+msgstr "ختم شو"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "د فولډر فلم لاره (د مثال په توګه: /media/hdd/movie)، OK فشار ورکړئ - Enigma بیا پیل کول اړین دي"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "پټول / ښکاره کول"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "د خوشې شویو پروژو لپاره ساختماني حوالې سرور\n"
+
+msgid "Install Streamlink first"
+msgstr "لومړی سټریم لینک نصب کړئ"
+
+msgid "Is Directory or file not exist"
+msgstr "ایا لارښود یا فایل شتون نلري"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "په ځانګړي ډول HOC جوړ شوي لیستونه په وړیا ډول او وړیا پتې لري\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "د فلم ډاونلوډ ناکام شو!"
+
+msgid "Movie"
+msgstr "فلم"
+
+msgid "NOTA BENE:\n"
+msgstr "مهرباني وکړئ یادونه وکړئ:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "یوازې د VOD فلم اجازه لري یا نه .ext فلټر شوی!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "که نه نو زما پلگ ان Freearhey وکاروئ"
+
+msgid "Personal Password"
+msgstr "شخصي پټنوم"
+
+msgid "Please select ..."
+msgstr "مهرباني وکړئ غوره کړئ ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "د پکون فایلونو لرونکی فولډر غوره کولو لپاره Ok فشار ورکړئ"
+
+msgid "Really close without saving settings?"
+msgstr "واقعیا د تنظیماتو خوندي کولو پرته تړل؟"
+
+msgid "Remove"
+msgstr "لرې کړئ"
+
+msgid "Restart"
+msgstr "بیا پیل کړئ"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "د ویشلو تېروتنه:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "خپل انتخاب وټاکئ"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "سرور راګرځول شوی تېروتنه:"
+
+msgid "Save"
+msgstr "خوندي کړئ"
+
+msgid "Select"
+msgstr "وټاکئ"
+
+msgid "Services Player Reference type"
+msgstr "د خدماتو پلیر حوالې ډول"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "پاسورډ تنظیم کړئ - د بریښنالیک له لارې tivustream@gmail.com ته وغواړئ"
+
+msgid "Set the path Movie folder"
+msgstr "د لارې فلم فولډر تنظیم کړئ"
+
+msgid "Set the path to the Cache folder"
+msgstr "د کیچ فولډر ته لاره تنظیم کړئ"
+
+msgid "Settings saved correctly!"
+msgstr "تنظیمات په سمه توګه خوندي شوي!"
+
+msgid "Streamlink(5002)"
+msgstr "سټریم لینک (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "په HOC کې جوړ شوي لیستونه په آزاده توګه او په آزاده توګه موندل شوي پتې لري\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "د پروژو لپاره د ساختماني حوالې سرور خپور شوی\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "نامعلومه تېروتنه:"
+
+msgid "Update"
+msgstr "تازه کول"
+
+msgid "Update Aborted!"
+msgstr "تازه کول لغوه شوي!"
+
+msgid "You are already downloading!!!"
+msgstr "تاسو لا دمخه ډاونلوډ کوئ !!!"
+
+msgid "You are not allowed!"
+msgstr "تاسو اجازه نه لرئ!"
+
+msgid "check SERVER in config"
+msgstr "په ترتیب کې سرور چیک کړئ"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "د هیڅ جریان/ جریان سرچینه نه ده.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "دا د کوم جریان سرچینه نه ده.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "جال او د ګډون یا ګډون لخوا خوندي نه دی.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "آنلاین موندل شوي او د ګډون یا ګډون لخوا خوندي ندي.\n"

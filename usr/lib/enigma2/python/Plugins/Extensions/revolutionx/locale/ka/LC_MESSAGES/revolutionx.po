@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:26+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d %d კბაიტიდან"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= მხარდაჭერა: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== მოგესალმებით ==========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "აბსოლუტურად აკრძალულია ამ სიების გამოყენება ავტორიზაციის გარეშე\n"
+
+msgid "All cache fold are empty!"
+msgstr "ქეშის ყველა ნაკეცი ცარიელია!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "აბსოლუტურად აკრძალულია ამ სიების ნებართვის გარეშე გამოყენება.\n"
+
+msgid "Back"
+msgstr "უკან"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP პაკეტის წაკითხვა ვერ მოხერხდა:"
+
+msgid "Cache folder"
+msgstr "ქეშის საქაღალდე"
+
+msgid "Cancel"
+msgstr "გაუქმება"
+
+msgid "Cancel execution?"
+msgstr "გააუქმოს შესრულება?"
+
+msgid "Choice"
+msgstr "არჩევანი"
+
+msgid "Choose Directory"
+msgstr "აირჩიეთ დირექტორია"
+
+msgid "Choose Directory:"
+msgstr "აირჩიეთ დირექტორია:"
+
+msgid "Close"
+msgstr "დახურვა"
+
+msgid "Configure Service Player Reference"
+msgstr "სერვისის მოთამაშის მითითების კონფიგურაცია"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "გილოცავ! თქვენ უკვე გაქვთ უახლესი ვერსია..."
+
+msgid "Console"
+msgstr "კონსოლი"
+
+msgid "DISCLAIMER: \n"
+msgstr "პასუხისმგებლობის უარყოფა: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ჩამოტვირთული ფაილი დაზიანებულია:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "გსურთ განახლების ( %s ) ინსტალაცია ახლა?"
+
+msgid "Do you want to remove %s ?"
+msgstr "გსურთ წაშალოთ %s ?"
+
+msgid "Download Failed !!"
+msgstr "ჩამოტვირთვა ვერ მოხერხდა !!"
+
+msgid "Download Failed!!!"
+msgstr "ჩამოტვირთვა ვერ მოხერხდა!!!"
+
+msgid "Download..."
+msgstr "ჩამოტვირთვა..."
+
+msgid "Downloading"
+msgstr "ჩამოტვირთვა"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "ცარიელი ქეში"
+
+msgid "Exit"
+msgstr "გასვლა"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "ფაილი ჩამოტვირთულია..."
+
+msgid "Finished"
+msgstr "დასრულდა"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "საქაღალდის ფილმის გზა (მაგ.: /media/hdd/movie), დააჭირეთ OK - საჭიროა Enigma გადატვირთვა"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "დამალვა/ჩვენება"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "გამოშვებული პროექტების სტრუქტურული საცნობარო სერვერი\n"
+
+msgid "Install Streamlink first"
+msgstr "ჯერ დააინსტალირეთ Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "დირექტორია ან ფაილი არ არსებობს"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "სპეციალურად HOC-ში შექმნილი სიები შეიცავს მისამართებს თავისუფლად და უფასოდ\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ფილმის ჩამოტვირთვა ვერ მოხერხდა!"
+
+msgid "Movie"
+msgstr "ფილმი"
+
+msgid "NOTA BENE:\n"
+msgstr "გთხოვთ გაითვალისწინოთ:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "მხოლოდ VOD ფილმი დაშვებულია თუ არა .ext Filtered!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "წინააღმდეგ შემთხვევაში გამოიყენეთ ჩემი მოდული Freearhey"
+
+msgid "Personal Password"
+msgstr "პირადი პაროლი"
+
+msgid "Please select ..."
+msgstr "გთხოვთ, აირჩიოთ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "დააჭირეთ ღილაკს OK, რათა აირჩიოთ საქაღალდე, რომელიც შეიცავს პიკონების ფაილებს"
+
+msgid "Really close without saving settings?"
+msgstr "ნამდვილად დაიხურება პარამეტრების შენახვის გარეშე?"
+
+msgid "Remove"
+msgstr "ამოღება"
+
+msgid "Restart"
+msgstr "გადატვირთეთ"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "სეგმენტაციის შეცდომა:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "აირჩიეთ თქვენი არჩევანი"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "სერვერის დაბრუნების შეცდომა:"
+
+msgid "Save"
+msgstr "შენახვა"
+
+msgid "Select"
+msgstr "აირჩიეთ"
+
+msgid "Services Player Reference type"
+msgstr "სერვისების მოთამაშის მითითების ტიპი"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "დააყენეთ პაროლი - მოითხოვეთ ელექტრონული ფოსტით tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "დააყენეთ ბილიკი Movie საქაღალდე"
+
+msgid "Set the path to the Cache folder"
+msgstr "დააყენეთ გზა ქეშის საქაღალდეში"
+
+msgid "Settings saved correctly!"
+msgstr "პარამეტრები შენახულია სწორად!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC-ში შექმნილი სიები შეიცავს მისამართებს თავისუფლად და თავისუფლად ნაპოვნი\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "გამოშვებული პროექტების სტრუქტურული საცნობარო სერვერი\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "უცნობი შეცდომა:"
+
+msgid "Update"
+msgstr "განახლება"
+
+msgid "Update Aborted!"
+msgstr "განახლება შეწყდა!"
+
+msgid "You are already downloading!!!"
+msgstr "თქვენ უკვე ტვირთავთ!!!"
+
+msgid "You are not allowed!"
+msgstr "არ გიშვებენ!"
+
+msgid "check SERVER in config"
+msgstr "შეამოწმეთ სერვერი კონფიგურაციაში"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "არ არის რაიმე ნაკადის/ნაკადის წყარო.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ეს არ არის რაიმე ნაკადის წყარო.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "net და არ არის დაცული გამოწერით ან გამოწერით.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "ნაპოვნია ონლაინ და არ არის დაცული გამოწერით ან გამოწერით.\n"

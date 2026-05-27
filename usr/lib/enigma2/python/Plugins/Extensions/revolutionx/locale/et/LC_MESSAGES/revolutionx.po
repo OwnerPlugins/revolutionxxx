@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d / %d kbaiti"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+WWW.TIVUSTREAM.COM – WWW.CORVOBOYS.ORG+\n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= TUGI: ===========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== TERE TULEMAST ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Täiesti KEELATUD neid loendeid ilma loata kasutada\n"
+
+msgid "All cache fold are empty!"
+msgstr "Kõik vahemälu voltid on tühjad!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Nende nimekirjade kasutamine ilma loata on täiesti KEELATUD.\n"
+
+msgid "Back"
+msgstr "Tagasi"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP-PAKETI EI SAANUD LUGEDA:"
+
+msgid "Cache folder"
+msgstr "Vahemälu kaust"
+
+msgid "Cancel"
+msgstr "Tühista"
+
+msgid "Cancel execution?"
+msgstr "Kas tühistada täitmine?"
+
+msgid "Choice"
+msgstr "Valik"
+
+msgid "Choose Directory"
+msgstr "Valige Kataloog"
+
+msgid "Choose Directory:"
+msgstr "Valige kataloog:"
+
+msgid "Close"
+msgstr "Sule"
+
+msgid "Configure Service Player Reference"
+msgstr "Seadistage Service Playeri viide"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Õnnitlused! Teil on juba uusim versioon..."
+
+msgid "Console"
+msgstr "konsool"
+
+msgid "DISCLAIMER: \n"
+msgstr "LAHTIÜTLEMINE: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ALLALAADETUD FAIL RIKUTUS:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Kas soovite värskenduse ( %s ) kohe installida?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Kas soovite eemaldada %s?"
+
+msgid "Download Failed !!"
+msgstr "Allalaadimine ebaõnnestus!!"
+
+msgid "Download Failed!!!"
+msgstr "Allalaadimine ebaõnnestus!!!"
+
+msgid "Download..."
+msgstr "Laadi alla..."
+
+msgid "Downloading"
+msgstr "Allalaadimine"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "Tühjenda vahemälu"
+
+msgid "Exit"
+msgstr "Välju"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Fail alla laaditud..."
+
+msgid "Finished"
+msgstr "Valmis"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Kausta filmitee (nt: /media/hdd/movie), vajutage nuppu OK – nõutav on Enigma taaskäivitamine"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Peida/Kuva"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Välja antud projektide struktuurne viiteserver\n"
+
+msgid "Install Streamlink first"
+msgstr "Installige esmalt Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Kas kataloogi või faili pole olemas"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Spetsiaalselt HOC loodud loendid sisaldavad aadresse vabalt ja tasuta\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "FILMI ALLALAADIMINE EBAÕNNUS!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "PALUN MÄRKUS:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Ainult VOD film on lubatud või mitte .ext Filtreeritud!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Vastasel juhul kasutage minu pluginat Freearhey"
+
+msgid "Personal Password"
+msgstr "Isiklik parool"
+
+msgid "Please select ..."
+msgstr "Palun valige..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Picon-faile sisaldava kausta valimiseks vajutage nuppu Ok"
+
+msgid "Really close without saving settings?"
+msgstr "Kas tõesti sulgeda seadeid salvestamata?"
+
+msgid "Remove"
+msgstr "Eemalda"
+
+msgid "Restart"
+msgstr "Taaskäivitage"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTERIMISVIGA:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "VALI OMA VALIK"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVER TAGASTAS VIGA:"
+
+msgid "Save"
+msgstr "Salvesta"
+
+msgid "Select"
+msgstr "Valige"
+
+msgid "Services Player Reference type"
+msgstr "Teenused Mängija viitetüüp"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Määra parool – küsi meili teel tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Määrake tee Movie kaust"
+
+msgid "Set the path to the Cache folder"
+msgstr "Määrake vahemälu kausta tee"
+
+msgid "Settings saved correctly!"
+msgstr "Seaded salvestati õigesti!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC-is loodud loendid sisaldavad aadresse, mis on vabalt ja vabalt leitavad\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Välja antud projektide struktuurne viiteserver\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "TUNDMATU VIGA:"
+
+msgid "Update"
+msgstr "Värskenda"
+
+msgid "Update Aborted!"
+msgstr "Värskendus katkestatud!"
+
+msgid "You are already downloading!!!"
+msgstr "Te juba laadite alla!!!"
+
+msgid "You are not allowed!"
+msgstr "Teid ei lubata!"
+
+msgid "check SERVER in config"
+msgstr "kontrollige konfiguratsioonis SERVER"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ei ole ühegi voolu/voolu allikas.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "see ei ole ühegi voo allikas.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "võrku ja ei ole abonemendi või tellimusega kaitstud.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "leiti võrgust ja pole tellimuse ega tellimusega kaitstud.\n"

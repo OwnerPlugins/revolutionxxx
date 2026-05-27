@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:28+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Central Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d នៃ %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= គាំទ្រលើ៖ ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== សូមស្វាគមន៍ ==========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "ហាមដាច់ខាតក្នុងការប្រើបញ្ជីនេះដោយគ្មានការអនុញ្ញាត\n"
+
+msgid "All cache fold are empty!"
+msgstr "ឃ្លាំងសម្ងាត់ទាំងអស់គឺទទេ!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "វាត្រូវបានហាមឃាត់ជាដាច់ខាតក្នុងការប្រើប្រាស់បញ្ជីទាំងនេះដោយគ្មានការអនុញ្ញាត។\n"
+
+msgid "Back"
+msgstr "ត្រឡប់មកវិញ"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "មិនអាចអានកញ្ចប់ RTMP៖"
+
+msgid "Cache folder"
+msgstr "ថតឃ្លាំងសម្ងាត់"
+
+msgid "Cancel"
+msgstr "បោះបង់"
+
+msgid "Cancel execution?"
+msgstr "បោះបង់ការប្រតិបត្តិ?"
+
+msgid "Choice"
+msgstr "ជម្រើស"
+
+msgid "Choose Directory"
+msgstr "ជ្រើសរើសថត"
+
+msgid "Choose Directory:"
+msgstr "ជ្រើសរើស​ថត៖"
+
+msgid "Close"
+msgstr "បិទ"
+
+msgid "Configure Service Player Reference"
+msgstr "កំណត់រចនាសម្ព័ន្ធឯកសារយោងអ្នកលេងសេវាកម្ម"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "អបអរសាទរ! អ្នកមានកំណែចុងក្រោយបង្អស់..."
+
+msgid "Console"
+msgstr "កុងសូល។"
+
+msgid "DISCLAIMER: \n"
+msgstr "ការបដិសេធ៖ \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ឯកសារដែលបានទាញយកខូច៖"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "តើអ្នកចង់ដំឡើងអាប់ដេត (%s) ឥឡូវនេះទេ?"
+
+msgid "Do you want to remove %s ?"
+msgstr "តើអ្នកចង់លុប %s ទេ?"
+
+msgid "Download Failed !!"
+msgstr "Download បរាជ័យ!!"
+
+msgid "Download Failed!!!"
+msgstr "Download បរាជ័យ!!!"
+
+msgid "Download..."
+msgstr "ទាញយក..."
+
+msgid "Downloading"
+msgstr "កំពុងទាញយក"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GSStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "ឃ្លាំងសម្ងាត់ទទេ"
+
+msgid "Exit"
+msgstr "ចេញ"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "ឯកសារត្រូវបានទាញយក..."
+
+msgid "Finished"
+msgstr "ចប់"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Folder Movie Path (ឧ.៖ /media/hdd/movie), ចុច OK - Enigma restart ទាមទារ"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "លាក់/បង្ហាញ"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "ម៉ាស៊ីនមេយោងរចនាសម្ព័ន្ធសម្រាប់គម្រោងដែលបានចេញផ្សាយ\n"
+
+msgid "Install Streamlink first"
+msgstr "ដំឡើង Streamlink ជាមុនសិន"
+
+msgid "Is Directory or file not exist"
+msgstr "បញ្ជីឈ្មោះ ឬឯកសារមិនមានទេ។"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "បញ្ជីដែលបានបង្កើតជាពិសេស HOC មានអាសយដ្ឋានដោយសេរី និងឥតគិតថ្លៃ\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ការទាញយកភាពយន្តបរាជ័យ!"
+
+msgid "Movie"
+msgstr "ភាពយន្ត"
+
+msgid "NOTA BENE:\n"
+msgstr "សូមចំណាំ៖\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "អនុញ្ញាតិតែ VOD Movie ឬអត់ .ext Filtered!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "បើមិនដូច្នោះទេសូមប្រើកម្មវិធីជំនួយរបស់ខ្ញុំ Freearhey"
+
+msgid "Personal Password"
+msgstr "ពាក្យសម្ងាត់ផ្ទាល់ខ្លួន"
+
+msgid "Please select ..."
+msgstr "សូមជ្រើសរើស..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "ចុច យល់ព្រម ដើម្បីជ្រើសរើសថតដែលមានឯកសារ picons"
+
+msgid "Really close without saving settings?"
+msgstr "ពិតជាបិទដោយមិនរក្សាទុកការកំណត់មែនទេ?"
+
+msgid "Remove"
+msgstr "ដកចេញ"
+
+msgid "Restart"
+msgstr "ចាប់ផ្តើមឡើងវិញ"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "កំហុសផ្នែក៖"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ជ្រើសរើសជម្រើសរបស់អ្នក។"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "កំហុស​ដែល​បាន​ត្រឡប់​ម៉ាស៊ីន​បម្រើ៖"
+
+msgid "Save"
+msgstr "រក្សាទុក"
+
+msgid "Select"
+msgstr "ជ្រើសរើស"
+
+msgid "Services Player Reference type"
+msgstr "សេវាកម្មអ្នកលេងប្រភេទយោង"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "កំណត់ពាក្យសម្ងាត់ - សួរតាមអ៊ីមែលទៅ tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "កំណត់ផ្លូវថតភាពយន្ត"
+
+msgid "Set the path to the Cache folder"
+msgstr "កំណត់ផ្លូវទៅកាន់ថតឃ្លាំងសម្ងាត់"
+
+msgid "Settings saved correctly!"
+msgstr "ការកំណត់ត្រូវបានរក្សាទុកយ៉ាងត្រឹមត្រូវ!"
+
+msgid "Streamlink(5002)"
+msgstr "តំណភ្ជាប់ស្ទ្រីម (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "បញ្ជីដែលបានបង្កើតនៅ HOC មានអាសយដ្ឋានដោយសេរី និងបានរកឃើញដោយសេរីនៅលើ\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "ម៉ាស៊ីនមេយោងរចនាសម្ព័ន្ធសម្រាប់គម្រោងដែលបានចេញផ្សាយ\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "កំហុសមិនស្គាល់៖"
+
+msgid "Update"
+msgstr "ធ្វើបច្ចុប្បន្នភាព"
+
+msgid "Update Aborted!"
+msgstr "ការអាប់ដេតត្រូវបានលុបចោល!"
+
+msgid "You are already downloading!!!"
+msgstr "អ្នកកំពុងទាញយកហើយ!!!"
+
+msgid "You are not allowed!"
+msgstr "អ្នកមិនត្រូវបានអនុញ្ញាតទេ!"
+
+msgid "check SERVER in config"
+msgstr "ពិនិត្យ SERVER ក្នុងការកំណត់"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "មិនមែនជាប្រភពនៃស្ទ្រីម/លំហូរណាមួយទេ។\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "វាមិនមែនជាប្រភពនៃស្ទ្រីមណាមួយទេ។\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "សុទ្ធ និងមិនត្រូវបានការពារដោយការជាវ ឬការជាវ។\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "បានរកឃើញនៅលើអ៊ីនធឺណិត និងមិនត្រូវបានការពារដោយការជាវ ឬការជាវ។\n"

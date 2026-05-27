@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:06+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d von %d kByte"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= UNTERSTÜTZUNG AUF: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== WILLKOMMEN ==========\n"
+
+msgid "========================================\n"
+msgstr "=======================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Es ist absolut VERBOTEN, diese Listen ohne Genehmigung zu verwenden\n"
+
+msgid "All cache fold are empty!"
+msgstr "Alle Cache-Fächer sind leer!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Es ist absolut VERBOTEN, diese Listen ohne Genehmigung zu verwenden.\n"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP-PAKET KONNTE NICHT LESEN:"
+
+msgid "Cache folder"
+msgstr "Cache-Ordner"
+
+msgid "Cancel"
+msgstr "Stornieren"
+
+msgid "Cancel execution?"
+msgstr "Ausführung abbrechen?"
+
+msgid "Choice"
+msgstr "Auswahl"
+
+msgid "Choose Directory"
+msgstr "Wählen Sie Verzeichnis"
+
+msgid "Choose Directory:"
+msgstr "Wählen Sie Verzeichnis:"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurieren Sie die Service-Player-Referenz"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Glückwunsch! Sie haben bereits die neueste Version..."
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "DISCLAIMER: \n"
+msgstr "HAFTUNGSAUSSCHLUSS: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "HERUNTERGELADENE DATEI BESCHÄDIGT:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Möchten Sie das Update ( %s ) jetzt installieren?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Möchten Sie %s entfernen?"
+
+msgid "Download Failed !!"
+msgstr "Download fehlgeschlagen!!"
+
+msgid "Download Failed!!!"
+msgstr "Download fehlgeschlagen!!!"
+
+msgid "Download..."
+msgstr "Herunterladen..."
+
+msgid "Downloading"
+msgstr "Herunterladen"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "DVB(1)"
+
+msgid "Empty Cache"
+msgstr "Leerer Cache"
+
+msgid "Exit"
+msgstr "Ausfahrt"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Datei heruntergeladen ..."
+
+msgid "Finished"
+msgstr "Fertig"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Ordner „Filmpfad“ (z. B. /media/hdd/movie), drücken Sie OK – Enigma-Neustart erforderlich"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Ausblenden/Einblenden"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Der strukturelle Referenzserver für veröffentlichte Projekte\n"
+
+msgid "Install Streamlink first"
+msgstr "Installieren Sie zuerst Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Ist das Verzeichnis oder die Datei nicht vorhanden?"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Die speziell für HOC erstellten Listen enthalten Adressen frei und unentgeltlich\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "Film-Download fehlgeschlagen!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "BITTE BEACHTEN:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Nur VOD-Filme erlaubt oder nicht. .ext-gefiltert!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Ansonsten verwende mein Plugin Freearhey"
+
+msgid "Personal Password"
+msgstr "Persönliches Passwort"
+
+msgid "Please select ..."
+msgstr "Bitte wählen Sie ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Drücken Sie OK, um den Ordner auszuwählen, der die Picons-Dateien enthält"
+
+msgid "Really close without saving settings?"
+msgstr "Wirklich schließen, ohne die Einstellungen zu speichern?"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Restart"
+msgstr "Neustart"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTIERUNGSFEHLER:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "WÄHLEN SIE IHRE WAHL"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "Vom Server zurückgegebener Fehler:"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Select"
+msgstr "Wählen"
+
+msgid "Services Player Reference type"
+msgstr "Referenztyp des Dienste-Players"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Passwort festlegen – fragen Sie per E-Mail an tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Legen Sie den Pfad zum Filmordner fest"
+
+msgid "Set the path to the Cache folder"
+msgstr "Legen Sie den Pfad zum Cache-Ordner fest"
+
+msgid "Settings saved correctly!"
+msgstr "Einstellungen korrekt gespeichert!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Die bei HOC erstellten Listen enthalten Adressen, die frei und frei auf\n zu finden sind"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Der strukturelle Referenzserver für veröffentlichte Projekte\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "UNBEKANNTER FEHLER:"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Update Aborted!"
+msgstr "Update abgebrochen!"
+
+msgid "You are already downloading!!!"
+msgstr "Sie laden bereits herunter!!!"
+
+msgid "You are not allowed!"
+msgstr "Du darfst nicht!"
+
+msgid "check SERVER in config"
+msgstr "Überprüfen Sie den SERVER in der Konfiguration"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ist keine Quelle eines Streams/Flows.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "Es ist nicht die Quelle eines Streams.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "im Netz und nicht durch Abonnement oder Abonnement geschützt.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "online gefunden und nicht durch Abonnement oder Abonnement geschützt.\n"

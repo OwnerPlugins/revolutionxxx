@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:35+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d / %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= പിന്തുണ ഓൺ: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== സ്വാഗതം ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "അംഗീകാരമില്ലാതെ ഈ ലിസ്‌റ്റുകൾ ഉപയോഗിക്കുന്നത് തീർത്തും നിരോധിച്ചിരിക്കുന്നു\n"
+
+msgid "All cache fold are empty!"
+msgstr "എല്ലാ കാഷെ ഫോളും ശൂന്യമാണ്!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "അനുമതിയില്ലാതെ ഈ ലിസ്റ്റുകൾ ഉപയോഗിക്കുന്നത് തീർത്തും നിരോധിച്ചിരിക്കുന്നു.\n"
+
+msgid "Back"
+msgstr "തിരികെ"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP പാക്കറ്റ് വായിക്കാൻ കഴിഞ്ഞില്ല:"
+
+msgid "Cache folder"
+msgstr "കാഷെ ഫോൾഡർ"
+
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+msgid "Cancel execution?"
+msgstr "നിർവ്വഹണം റദ്ദാക്കണോ?"
+
+msgid "Choice"
+msgstr "ചോയ്സ്"
+
+msgid "Choose Directory"
+msgstr "ഡയറക്ടറി തിരഞ്ഞെടുക്കുക"
+
+msgid "Choose Directory:"
+msgstr "ഡയറക്ടറി തിരഞ്ഞെടുക്കുക:"
+
+msgid "Close"
+msgstr "അടയ്ക്കുക"
+
+msgid "Configure Service Player Reference"
+msgstr "സർവീസ് പ്ലെയർ റഫറൻസ് കോൺഫിഗർ ചെയ്യുക"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "അഭിനന്ദനങ്ങൾ! നിങ്ങൾക്ക് ഇതിനകം ഏറ്റവും പുതിയ പതിപ്പുണ്ട്..."
+
+msgid "Console"
+msgstr "കൺസോൾ"
+
+msgid "DISCLAIMER: \n"
+msgstr "നിരാകരണം: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ഡൗൺലോഡ് ചെയ്ത ഫയൽ കേടായി:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "നിങ്ങൾക്ക് ഇപ്പോൾ അപ്ഡേറ്റ് (%s ) ഇൻസ്റ്റാൾ ചെയ്യണോ?"
+
+msgid "Do you want to remove %s ?"
+msgstr "നിങ്ങൾക്ക് %s നീക്കം ചെയ്യണോ?"
+
+msgid "Download Failed !!"
+msgstr "ഡൗൺലോഡ് പരാജയപ്പെട്ടു !!"
+
+msgid "Download Failed!!!"
+msgstr "ഡൗൺലോഡ് പരാജയപ്പെട്ടു!!!"
+
+msgid "Download..."
+msgstr "ഡൗൺലോഡ്..."
+
+msgid "Downloading"
+msgstr "ഡൗൺലോഡ് ചെയ്യുന്നു"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "ശൂന്യമായ കാഷെ"
+
+msgid "Exit"
+msgstr "പുറത്ത്"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "ഫയൽ ഡൗൺലോഡ് ചെയ്തു..."
+
+msgid "Finished"
+msgstr "തീർന്നു"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "ഫോൾഡർ മൂവി പാത്ത് (ഉദാ: /media/hdd/movie), ശരി അമർത്തുക - എനിഗ്മ പുനരാരംഭിക്കേണ്ടതുണ്ട്"
+
+msgid "Gstreamer(5001)"
+msgstr "ജിസ്ട്രീമർ(5001)"
+
+msgid "Hide/Show"
+msgstr "മറയ്ക്കുക/കാണിക്കുക"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "റിലീസ് ചെയ്ത പ്രോജക്റ്റുകൾക്കുള്ള ഘടനാപരമായ റഫറൻസ് സെർവർ\n"
+
+msgid "Install Streamlink first"
+msgstr "ആദ്യം Streamlink ഇൻസ്റ്റാൾ ചെയ്യുക"
+
+msgid "Is Directory or file not exist"
+msgstr "ഡയറക്ടറിയോ ഫയലോ നിലവിലില്ല"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "പ്രത്യേകമായി HOC സൃഷ്‌ടിച്ച ലിസ്റ്റുകളിൽ സൗജന്യമായും സൗജന്യമായും വിലാസങ്ങൾ അടങ്ങിയിരിക്കുന്നു\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "മൂവി ഡൗൺലോഡ് പരാജയപ്പെട്ടു!"
+
+msgid "Movie"
+msgstr "സിനിമ"
+
+msgid "NOTA BENE:\n"
+msgstr "ദയവായി ശ്രദ്ധിക്കുക:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD മൂവി മാത്രം അനുവദനീയമോ ഇല്ലയോ .ext ഫിൽട്ടർ ചെയ്‌തു!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "അല്ലെങ്കിൽ എൻ്റെ പ്ലഗിൻ Freearhey ഉപയോഗിക്കുക"
+
+msgid "Personal Password"
+msgstr "വ്യക്തിഗത പാസ്‌വേഡ്"
+
+msgid "Please select ..."
+msgstr "ദയവായി തിരഞ്ഞെടുക്കുക..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "പിക്കോൺ ഫയലുകൾ അടങ്ങിയ ഫോൾഡർ തിരഞ്ഞെടുക്കാൻ ശരി അമർത്തുക"
+
+msgid "Really close without saving settings?"
+msgstr "ക്രമീകരണങ്ങൾ സംരക്ഷിക്കാതെ ശരിക്കും അടയ്ക്കണോ?"
+
+msgid "Remove"
+msgstr "നീക്കം ചെയ്യുക"
+
+msgid "Restart"
+msgstr "പുനരാരംഭിക്കുക"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "സെഗ്മെൻ്റേഷൻ തകരാർ:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "നിങ്ങളുടെ ചോയ്സ് തിരഞ്ഞെടുക്കുക"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "സെർവർ തിരികെ നൽകിയ പിശക്:"
+
+msgid "Save"
+msgstr "സംരക്ഷിക്കുക"
+
+msgid "Select"
+msgstr "തിരഞ്ഞെടുക്കുക"
+
+msgid "Services Player Reference type"
+msgstr "സേവനങ്ങൾ പ്ലേയർ റഫറൻസ് തരം"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "പാസ്‌വേഡ് സജ്ജമാക്കുക - tivustream@gmail.com എന്ന വിലാസത്തിലേക്ക് ഇമെയിൽ വഴി ചോദിക്കുക"
+
+msgid "Set the path Movie folder"
+msgstr "പാത്ത് മൂവി ഫോൾഡർ സജ്ജമാക്കുക"
+
+msgid "Set the path to the Cache folder"
+msgstr "കാഷെ ഫോൾഡറിലേക്കുള്ള പാത സജ്ജമാക്കുക"
+
+msgid "Settings saved correctly!"
+msgstr "ക്രമീകരണങ്ങൾ ശരിയായി സംരക്ഷിച്ചു!"
+
+msgid "Streamlink(5002)"
+msgstr "സ്ട്രീംലിങ്ക്(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC-ൽ സൃഷ്‌ടിച്ച ലിസ്റ്റുകളിൽ\n എന്നതിൽ സ്വതന്ത്രമായും സ്വതന്ത്രമായും കാണുന്ന വിലാസങ്ങൾ അടങ്ങിയിരിക്കുന്നു"
+
+msgid "The structural reference server for projects released\n"
+msgstr "റിലീസ് ചെയ്ത പ്രോജക്റ്റുകൾക്കുള്ള ഘടനാപരമായ റഫറൻസ് സെർവർ\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "അജ്ഞാത പിശക്:"
+
+msgid "Update"
+msgstr "അപ്ഡേറ്റ്"
+
+msgid "Update Aborted!"
+msgstr "അപ്‌ഡേറ്റ് നിർത്തലാക്കി!"
+
+msgid "You are already downloading!!!"
+msgstr "നിങ്ങൾ ഇതിനകം ഡൗൺലോഡ് ചെയ്യുന്നു!!!"
+
+msgid "You are not allowed!"
+msgstr "നിങ്ങൾക്ക് അനുവദനീയമല്ല!"
+
+msgid "check SERVER in config"
+msgstr "കോൺഫിഗറേഷനിൽ സെർവർ പരിശോധിക്കുക"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ഒരു സ്ട്രീമിൻ്റെയും/പ്രവാഹത്തിൻ്റെയും ഉറവിടമല്ല.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "അത് ഒരു പ്രവാഹത്തിൻ്റെയും ഉറവിടമല്ല.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "നെറ്റ്, സബ്‌സ്‌ക്രിപ്‌ഷനോ സബ്‌സ്‌ക്രിപ്‌ഷനോ പരിരക്ഷിച്ചിട്ടില്ല.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "ഓൺലൈനിൽ കണ്ടെത്തി, സബ്‌സ്‌ക്രിപ്‌ഷനോ സബ്‌സ്‌ക്രിപ്‌ഷനോ പരിരക്ഷിച്ചിട്ടില്ല.\n"

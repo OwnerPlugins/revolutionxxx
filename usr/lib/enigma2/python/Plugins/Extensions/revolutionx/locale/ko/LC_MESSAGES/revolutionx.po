@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d/%dKB"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= 지원 여부: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== 환영합니다 ==========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "승인 없이 이 목록을 사용하는 것은 절대 금지됩니다.\n"
+
+msgid "All cache fold are empty!"
+msgstr "모든 캐시 폴더가 비어 있습니다!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "허가 없이 이 목록을 사용하는 것은 절대 금지되어 있습니다.\n"
+
+msgid "Back"
+msgstr "뒤쪽에"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP 패킷을 읽을 수 없습니다:"
+
+msgid "Cache folder"
+msgstr "캐시 폴더"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cancel execution?"
+msgstr "실행을 취소하시겠습니까?"
+
+msgid "Choice"
+msgstr "선택"
+
+msgid "Choose Directory"
+msgstr "디렉토리 선택"
+
+msgid "Choose Directory:"
+msgstr "디렉토리 선택:"
+
+msgid "Close"
+msgstr "닫다"
+
+msgid "Configure Service Player Reference"
+msgstr "서비스 플레이어 참조 구성"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "축하해요! 이미 최신 버전이 있습니다..."
+
+msgid "Console"
+msgstr "콘솔"
+
+msgid "DISCLAIMER: \n"
+msgstr "면책조항: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "다운로드한 파일이 손상됨:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "지금 업데이트( %s )를 설치하시겠습니까?"
+
+msgid "Do you want to remove %s ?"
+msgstr "%s을(를) 제거하시겠습니까?"
+
+msgid "Download Failed !!"
+msgstr "다운로드 실패!!"
+
+msgid "Download Failed!!!"
+msgstr "다운로드 실패!!!"
+
+msgid "Download..."
+msgstr "다운로드..."
+
+msgid "Downloading"
+msgstr "다운로드 중"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "드림OS GStreamer(8193)"
+
+msgid "Dvb(1)"
+msgstr "DVD(1)"
+
+msgid "Empty Cache"
+msgstr "캐시 비우기"
+
+msgid "Exit"
+msgstr "출구"
+
+msgid "Exteplayer3(5002)"
+msgstr "익스테플레이어3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "파일 다운로드됨..."
+
+msgid "Finished"
+msgstr "완성된"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "폴더 동영상 경로(예: /media/hdd/movie), 확인을 누르세요. - Enigma를 다시 시작해야 합니다."
+
+msgid "Gstreamer(5001)"
+msgstr "지스트리머(5001)"
+
+msgid "Hide/Show"
+msgstr "숨기기/보이기"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "릴리스된 프로젝트의 구조 참조 서버\n"
+
+msgid "Install Streamlink first"
+msgstr "Streamlink를 먼저 설치하세요"
+
+msgid "Is Directory or file not exist"
+msgstr "디렉터리 또는 파일이 존재하지 않습니까?"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "특별히 HOC로 생성된 목록에는 주소가 무료로 포함되어 있습니다.\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "영화 다운로드에 실패했습니다!"
+
+msgid "Movie"
+msgstr "영화"
+
+msgid "NOTA BENE:\n"
+msgstr "참고하세요:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD 영화만 허용되거나 .ext 필터링되지 않습니다!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "그렇지 않으면 내 플러그인 Freearhey를 사용하세요"
+
+msgid "Personal Password"
+msgstr "개인 비밀번호"
+
+msgid "Please select ..."
+msgstr "선택하세요 ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "확인을 눌러 picons 파일이 포함된 폴더를 선택하세요."
+
+msgid "Really close without saving settings?"
+msgstr "설정을 저장하지 않고 닫으시겠습니까?"
+
+msgid "Remove"
+msgstr "제거하다"
+
+msgid "Restart"
+msgstr "다시 시작"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "분할 오류:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "원하는 것을 선택하세요"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "서버에서 오류를 반환했습니다:"
+
+msgid "Save"
+msgstr "구하다"
+
+msgid "Select"
+msgstr "선택하다"
+
+msgid "Services Player Reference type"
+msgstr "서비스 플레이어 참조 유형"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "비밀번호 설정 - tivustream@gmail.com으로 이메일로 문의하세요."
+
+msgid "Set the path Movie folder"
+msgstr "영화 폴더 경로 설정"
+
+msgid "Set the path to the Cache folder"
+msgstr "캐시 폴더의 경로를 설정하세요."
+
+msgid "Settings saved correctly!"
+msgstr "설정이 올바르게 저장되었습니다!"
+
+msgid "Streamlink(5002)"
+msgstr "스트림링크(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC에서 생성된 목록에는 다음에서 자유롭게 찾을 수 있는 주소가 포함되어 있습니다.\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "릴리스된 프로젝트의 구조적 참조 서버\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "알 수 없는 오류:"
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Update Aborted!"
+msgstr "업데이트가 중단되었습니다!"
+
+msgid "You are already downloading!!!"
+msgstr "이미 다운로드 중입니다!!!"
+
+msgid "You are not allowed!"
+msgstr "당신은 허용되지 않습니다!"
+
+msgid "check SERVER in config"
+msgstr "구성에서 서버를 확인하세요."
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "스트림/흐름의 소스가 아닙니다.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "스트림의 소스가 아닙니다.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "네트워크에 속하며 가입이나 가입으로 보호되지 않습니다.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "온라인에서 찾을 수 있으며 구독이나 구독으로 보호되지 않습니다.\n"

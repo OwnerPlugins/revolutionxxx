@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:08+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d el %d kBajtoj"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= SUBTENO ĈU: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== BONVENON ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Tute MALpermesita uzi ĉi tiujn listojn sen rajtigo\n"
+
+msgid "All cache fold are empty!"
+msgstr "Ĉiuj kaŝmemorfaldoj estas malplenaj!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Estas absolute MENDITA uzi ĉi tiujn listojn sen permeso.\n"
+
+msgid "Back"
+msgstr "Reen"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "NE POVIS LEGI RTMP-PAKETON:"
+
+msgid "Cache folder"
+msgstr "Cache dosierujo"
+
+msgid "Cancel"
+msgstr "Nuligi"
+
+msgid "Cancel execution?"
+msgstr "Ĉu nuligi ekzekuton?"
+
+msgid "Choice"
+msgstr "Elekto"
+
+msgid "Choose Directory"
+msgstr "Elektu Dosierujon"
+
+msgid "Choose Directory:"
+msgstr "Elektu Dosierujon:"
+
+msgid "Close"
+msgstr "Fermu"
+
+msgid "Configure Service Player Reference"
+msgstr "Agordi Servan Ludantan Referencon"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gratulon! Vi jam havas la lastan version..."
+
+msgid "Console"
+msgstr "Konzolo"
+
+msgid "DISCLAIMER: \n"
+msgstr "Malgarantio: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ELŜUTITA DOSIERO KORPITA:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ĉu vi volas instali ĝisdatigon ( %s ) nun?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Ĉu vi volas forigi %s?"
+
+msgid "Download Failed !!"
+msgstr "Elŝuto malsukcesis !!"
+
+msgid "Download Failed!!!"
+msgstr "Elŝuto malsukcesis!!!"
+
+msgid "Download..."
+msgstr "Elŝutu..."
+
+msgid "Downloading"
+msgstr "Elŝutante"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "Malplena Kaŝmemoro"
+
+msgid "Exit"
+msgstr "Eliro"
+
+msgid "Exteplayer3(5002)"
+msgstr "Eksteludanto3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Dosiero Elŝutita..."
+
+msgid "Finished"
+msgstr "Finita"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Dosierujo Film Vojo (ekz.: /media/hdd/movie), Premu OK - Enigma rekomenco necesas"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Kaŝi/Montri"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "La struktura referenca servilo por publikigitaj projektoj\n"
+
+msgid "Install Streamlink first"
+msgstr "Instalu Streamlink unue"
+
+msgid "Is Directory or file not exist"
+msgstr "Ĉu Dosierujo aŭ dosiero ne ekzistas"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "La listoj kreitaj specife HOC enhavas adresojn libere kaj senpage\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ELŜUTO DE FILMO FIsKIS!"
+
+msgid "Movie"
+msgstr "Filmo"
+
+msgid "NOTA BENE:\n"
+msgstr "BONVOLU NOTI:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Nur VOD-Filmo permesita aŭ ne .ext Filtrita!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Alie Uzu mian Kromprogramon Freearhey"
+
+msgid "Personal Password"
+msgstr "Persona Pasvorto"
+
+msgid "Please select ..."
+msgstr "Bonvolu elekti..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Premu Ok por elekti la dosierujon enhavantan la pikondosierojn"
+
+msgid "Really close without saving settings?"
+msgstr "Ĉu vere fermi sen konservi agordojn?"
+
+msgid "Remove"
+msgstr "Forigi"
+
+msgid "Restart"
+msgstr "Rekomencu"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTA FALSO:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ELEKTU VIAN ELEKTON"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVILO REVENITA ERARO:"
+
+msgid "Save"
+msgstr "Konservu"
+
+msgid "Select"
+msgstr "Elektu"
+
+msgid "Services Player Reference type"
+msgstr "Servoj Ludanta Referenca tipo"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Agordu Pasvorton - petu retpoŝte al tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Agordu la vojon Filmdosierujon"
+
+msgid "Set the path to the Cache folder"
+msgstr "Agordu la vojon al la Cache-dosierujo"
+
+msgid "Settings saved correctly!"
+msgstr "Agordoj ĝuste konservitaj!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "La listoj kreitaj ĉe HOC enhavas adresojn libere kaj libere trovitajn sur\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "La struktura referencservilo por projektoj liberigita\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "NEKONATA ERARO:"
+
+msgid "Update"
+msgstr "Ĝisdatigo"
+
+msgid "Update Aborted!"
+msgstr "Ĝisdatigo interrompita!"
+
+msgid "You are already downloading!!!"
+msgstr "Vi jam elŝutas!!!"
+
+msgid "You are not allowed!"
+msgstr "Vi ne rajtas!"
+
+msgid "check SERVER in config"
+msgstr "kontrolu SERVilon en agordo"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ne estas fonto de iu ajn fluo/fluo.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ĝi ne estas la fonto de iu ajn rivereto.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "la reto kaj ne protektita per abono aŭ abono.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "trovita interrete kaj ne protektita per abono aŭ abono.\n"

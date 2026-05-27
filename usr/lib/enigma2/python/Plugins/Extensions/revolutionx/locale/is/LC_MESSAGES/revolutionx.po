@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d af %d kBæti"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= STUÐNING Á: ===========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== VELKOMIN ===========\n"
+
+msgid "========================================\n"
+msgstr "===========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Alveg BANNAÐ að nota þessa lista án heimildar\n"
+
+msgid "All cache fold are empty!"
+msgstr "Öll skyndiminni fold er tóm!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Það er algjörlega BANNAÐ að nota þessa lista án leyfis.\n"
+
+msgid "Back"
+msgstr "Til baka"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "GÆTTI EKKI LESIÐ RTMP PAKKA:"
+
+msgid "Cache folder"
+msgstr "Skyndimöppu"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Cancel execution?"
+msgstr "Hætta við framkvæmd?"
+
+msgid "Choice"
+msgstr "Val"
+
+msgid "Choose Directory"
+msgstr "Veldu Directory"
+
+msgid "Choose Directory:"
+msgstr "Veldu möppu:"
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "Configure Service Player Reference"
+msgstr "Stilla tilvísun þjónustuspilara"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Til hamingju! Þú ert nú þegar með nýjustu útgáfuna..."
+
+msgid "Console"
+msgstr "Stjórnborð"
+
+msgid "DISCLAIMER: \n"
+msgstr "FYRIRVARI: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "NIÐURHALDÐ SKRÁ SKILT:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Viltu setja upp uppfærslu ( %s ) núna?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Viltu fjarlægja %s?"
+
+msgid "Download Failed !!"
+msgstr "Niðurhal mistókst!!"
+
+msgid "Download Failed!!!"
+msgstr "Niðurhal mistókst!!!"
+
+msgid "Download..."
+msgstr "Sækja..."
+
+msgid "Downloading"
+msgstr "Niðurhal"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Tæmdu skyndiminni"
+
+msgid "Exit"
+msgstr "Hætta"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Skrá niðurhal..."
+
+msgid "Finished"
+msgstr "Lokið"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Folder Movie Path (td: /media/hdd/movie), Ýttu á OK - Enigma endurræsa krafist"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Fela/Sýna"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Byggingarviðmiðunarþjónn fyrir útgefin verkefni\n"
+
+msgid "Install Streamlink first"
+msgstr "Settu upp Streamlink fyrst"
+
+msgid "Is Directory or file not exist"
+msgstr "Er Directory eða skrá ekki til"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Listarnir sem eru búnir til sérstaklega HOC innihalda heimilisföng ókeypis og ókeypis\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "NIÐURHALDUN KVIKMYNDAR mistókst!"
+
+msgid "Movie"
+msgstr "Kvikmynd"
+
+msgid "NOTA BENE:\n"
+msgstr "ATHUGIÐ:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Aðeins VOD kvikmynd leyfð eða ekki .ext síuð!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Annars Notaðu viðbótina mína Freearhey"
+
+msgid "Personal Password"
+msgstr "Persónulegt lykilorð"
+
+msgid "Please select ..."
+msgstr "Vinsamlegast veldu..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Ýttu á Ok til að velja möppuna sem inniheldur picons skrárnar"
+
+msgid "Really close without saving settings?"
+msgstr "Virkilega loka án þess að vista stillingar?"
+
+msgid "Remove"
+msgstr "Fjarlægja"
+
+msgid "Restart"
+msgstr "Endurræstu"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SKIPULAGNING:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "VELDU ÞITT VAL"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "VILLA SEM SKILT ÞJÓNAR:"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "Select"
+msgstr "Veldu"
+
+msgid "Services Player Reference type"
+msgstr "Þjónusta Player Reference tegund"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Stilltu lykilorð - spyrðu með tölvupósti á tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Stilltu slóðina Movie mappa"
+
+msgid "Set the path to the Cache folder"
+msgstr "Stilltu slóðina að Cache möppunni"
+
+msgid "Settings saved correctly!"
+msgstr "Stillingar vistaðar rétt!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Listarnir sem búnir eru til hjá HOC innihalda heimilisföng að vild og frjálst að finna á\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Byggingarviðmiðunarþjónn fyrir útgefin verkefni\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ÓÞEKKT VILLA:"
+
+msgid "Update"
+msgstr "Uppfærsla"
+
+msgid "Update Aborted!"
+msgstr "Uppfærsla hætt!"
+
+msgid "You are already downloading!!!"
+msgstr "Þú ert nú þegar að hlaða niður!!!"
+
+msgid "You are not allowed!"
+msgstr "Þú mátt ekki!"
+
+msgid "check SERVER in config"
+msgstr "athugaðu SERVER í config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "er ekki uppspretta neins straums/rennslis.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "það er ekki uppspretta neins straums.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "netið og ekki varið með áskrift eða áskrift.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "finnast á netinu og ekki varið með áskrift eða áskrift.\n"

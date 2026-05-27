@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d no %d kbaitiem"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+WWW.TIVUSTREAM.COM — WWW.CORVOBOYS.ORG+\n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ATBALSTS: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== Laipni lūdzam ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Pilnīgi AIZLIEGTS izmantot šos sarakstus bez atļaujas\n"
+
+msgid "All cache fold are empty!"
+msgstr "Viss kešatmiņas pārsegs ir tukšs!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Šo sarakstu izmantošana bez atļaujas ir absolūti AIZLIEGTA.\n"
+
+msgid "Back"
+msgstr "Atpakaļ"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "NEVARĒJA LASĪT RTMP PAKETI:"
+
+msgid "Cache folder"
+msgstr "Kešatmiņas mape"
+
+msgid "Cancel"
+msgstr "Atcelt"
+
+msgid "Cancel execution?"
+msgstr "Vai atcelt izpildi?"
+
+msgid "Choice"
+msgstr "Izvēle"
+
+msgid "Choose Directory"
+msgstr "Izvēlieties direktoriju"
+
+msgid "Choose Directory:"
+msgstr "Izvēlieties direktoriju:"
+
+msgid "Close"
+msgstr "Aizvērt"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurējiet pakalpojuma atskaņotāja atsauci"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Apsveicam! Jums jau ir jaunākā versija..."
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "DISCLAIMER: \n"
+msgstr "ATRUNA: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "LEJUPIELĀDĒTAIS FAILS BOJĀTS:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Vai vēlaties instalēt atjauninājumu ( %s ) tūlīt?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Vai vēlaties noņemt %s?"
+
+msgid "Download Failed !!"
+msgstr "Lejupielāde neizdevās!!"
+
+msgid "Download Failed!!!"
+msgstr "Lejupielāde neizdevās!!!"
+
+msgid "Download..."
+msgstr "Lejupielādēt..."
+
+msgid "Downloading"
+msgstr "Notiek lejupielāde"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "Iztukšojiet kešatmiņu"
+
+msgid "Exit"
+msgstr "Iziet"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Fails lejupielādēts..."
+
+msgid "Finished"
+msgstr "Pabeigts"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Mapes filmas ceļš (piemēram, /media/hdd/movie), nospiediet OK — nepieciešama Enigma restartēšana"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Paslēpt/rādīt"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Izlaisto projektu strukturālais atsauces serveris\n"
+
+msgid "Install Streamlink first"
+msgstr "Vispirms instalējiet Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Vai direktorijs vai fails neeksistē"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Īpaši HOC izveidotie saraksti satur adreses brīvi un bez maksas\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "FILMAS LEJUPIELĀDE NEizdevās!"
+
+msgid "Movie"
+msgstr "Filma"
+
+msgid "NOTA BENE:\n"
+msgstr "LŪDZU, ŅEMIET VĒRĀ:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Atļauts vai nav atļauts tikai VOD filmas .ext Filtrēts!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Pretējā gadījumā izmantojiet manu spraudni Freearhey"
+
+msgid "Personal Password"
+msgstr "Personiskā parole"
+
+msgid "Please select ..."
+msgstr "Lūdzu, atlasiet..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Nospiediet Labi, lai atlasītu mapi, kurā ir picon faili"
+
+msgid "Really close without saving settings?"
+msgstr "Vai tiešām aizvērt, nesaglabājot iestatījumus?"
+
+msgid "Remove"
+msgstr "Noņemt"
+
+msgid "Restart"
+msgstr "Restartēt"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTĀCIJAS KĻŪME:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "IZVĒLIES SAVU IZVĒLI"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVERA ATGRIEZTA KĻŪDA:"
+
+msgid "Save"
+msgstr "Saglabāt"
+
+msgid "Select"
+msgstr "Izvēlieties"
+
+msgid "Services Player Reference type"
+msgstr "Pakalpojumi Spēlētāja atsauces veids"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Iestatīt paroli - jautājiet pa e-pastu uz tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Iestatiet ceļu Filmas mapei"
+
+msgid "Set the path to the Cache folder"
+msgstr "Iestatiet ceļu uz mapi Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Iestatījumi saglabāti pareizi!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Vietnē HOC izveidotie saraksti satur adreses, kas brīvi un brīvi atrodamas\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Izlaists projektu strukturālais atsauces serveris\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "NEZINĀMA KĻŪDA:"
+
+msgid "Update"
+msgstr "Atjaunināt"
+
+msgid "Update Aborted!"
+msgstr "Atjaunināšana pārtraukta!"
+
+msgid "You are already downloading!!!"
+msgstr "Jūs jau lejupielādējat!!!"
+
+msgid "You are not allowed!"
+msgstr "Jums nav atļauts!"
+
+msgid "check SERVER in config"
+msgstr "pārbaudiet SERVER konfigurācijā"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "nav nevienas straumes/plūsmas avots.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "tas nav nevienas straumes avots.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "tīklā un nav aizsargāts ar abonementu vai abonementu.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "atrasts tiešsaistē un nav aizsargāts ar abonementu vai abonementu.\n"

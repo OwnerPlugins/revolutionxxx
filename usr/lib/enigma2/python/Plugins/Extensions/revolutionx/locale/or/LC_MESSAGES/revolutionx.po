@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:44+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "% d kBytes ର% d"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+ WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG + \ n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ସମର୍ଥନ ଅନ୍: ========== \ n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== WELCOME ========== \ n"
+
+msgid "========================================\n"
+msgstr "======================================== \ n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "ବିନା ଅନୁମତିରେ ଏହି ତାଲିକାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାକୁ ସମ୍ପୂର୍ଣ୍ଣ ନିଷେଧ |"
+
+msgid "All cache fold are empty!"
+msgstr "ସମସ୍ତ କ୍ୟାଚ୍ ଫୋଲ୍ଡ ଖାଲି ଅଛି!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "ବିନା ଅନୁମତିରେ ଏହି ତାଲିକାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବା ସମ୍ପୂର୍ଣ୍ଣ ନିଷେଧ | \ n"
+
+msgid "Back"
+msgstr "ପଛକୁ"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP ପ୍ୟାକେଟ୍ ପ AD ିପାରିବ ନାହିଁ:"
+
+msgid "Cache folder"
+msgstr "କ୍ୟାଚ୍ ଫୋଲ୍ଡର୍ |"
+
+msgid "Cancel"
+msgstr "ବାତିଲ୍ କରନ୍ତୁ |"
+
+msgid "Cancel execution?"
+msgstr "ନିଷ୍ପାଦନ ବାତିଲ କରନ୍ତୁ?"
+
+msgid "Choice"
+msgstr "ପସନ୍ଦ"
+
+msgid "Choose Directory"
+msgstr "ଡିରେକ୍ଟୋରୀ ବାଛନ୍ତୁ |"
+
+msgid "Choose Directory:"
+msgstr "ଡିରେକ୍ଟୋରୀ ବାଛନ୍ତୁ:"
+
+msgid "Close"
+msgstr "ବନ୍ଦ"
+
+msgid "Configure Service Player Reference"
+msgstr "ସେବା ପ୍ଲେୟାର ସନ୍ଦର୍ଭକୁ ବିନ୍ୟାସ କରନ୍ତୁ |"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "ଅଭିନନ୍ଦନ! ଆପଣଙ୍କ ପାଖରେ ସର୍ବଶେଷ ସଂସ୍କରଣ ଅଛି ..."
+
+msgid "Console"
+msgstr "କନସୋଲ୍"
+
+msgid "DISCLAIMER: \n"
+msgstr "ପ୍ରତିକାର: \ n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ଡାଉନଲୋଡ୍ ଫାଇଲ୍ କର୍ପଟେଡ୍:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ଆପଣ ବର୍ତ୍ତମାନ ଅଦ୍ୟତନ (% s) ସଂସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+msgid "Do you want to remove %s ?"
+msgstr "ଆପଣ% s ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+msgid "Download Failed !!"
+msgstr "ଡାଉନଲୋଡ୍ ବିଫଳ !!"
+
+msgid "Download Failed!!!"
+msgstr "ଡାଉନଲୋଡ୍ ବିଫଳ !!!"
+
+msgid "Download..."
+msgstr "ଡାଉନଲୋଡ୍ ..."
+
+msgid "Downloading"
+msgstr "ଡାଉନଲୋଡ୍ କରୁଛି |"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "ଖାଲି କ୍ୟାଚ୍ |"
+
+msgid "Exit"
+msgstr "ପ୍ରସ୍ଥାନ"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "ଫାଇଲ୍ ଡାଉନଲୋଡ୍ ..."
+
+msgid "Finished"
+msgstr "ସମାପ୍ତ"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "ଫୋଲ୍ଡର ଚଳଚ୍ଚିତ୍ର ପଥ (ଯଥା: / ମିଡିଆ / hdd / ଚଳଚ୍ଚିତ୍ର), ଓକେ ଦବାନ୍ତୁ - ଏନିଗମା ପୁନ rest ଆରମ୍ଭ ଆବଶ୍ୟକ |"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "ଲୁଚାନ୍ତୁ / ଦେଖାନ୍ତୁ |"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "ପ୍ରକାଶିତ ପ୍ରକଳ୍ପଗୁଡ଼ିକ ପାଇଁ ଗଠନମୂଳକ ରେଫରେନ୍ସ ସର୍ଭର \ n"
+
+msgid "Install Streamlink first"
+msgstr "ପ୍ରଥମେ ଷ୍ଟ୍ରିମ୍ ଲିଙ୍କ୍ ସଂସ୍ଥାପନ କରନ୍ତୁ |"
+
+msgid "Is Directory or file not exist"
+msgstr "ଡିରେକ୍ଟୋରୀ କିମ୍ବା ଫାଇଲ୍ ବିଦ୍ୟମାନ ନାହିଁ |"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ HOC ସୃଷ୍ଟି ହୋଇଥିବା ତାଲିକାଗୁଡ଼ିକ ମୁକ୍ତ ଏବଂ ମାଗଣାରେ ଠିକଣା ଧାରଣ କରିଥାଏ |"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ଚଳଚ୍ଚିତ୍ର ଡାଉନଲୋଡ୍ ବିଫଳ!"
+
+msgid "Movie"
+msgstr "ଚଳଚ୍ଚିତ୍ର"
+
+msgid "NOTA BENE:\n"
+msgstr "ଦୟାକରି ଟିପ୍ପଣୀ: \ n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "କେବଳ VOD ଚଳଚ୍ଚିତ୍ର ଅନୁମୋଦିତ କି ନୁହେଁ .ଏକ୍ସ ଫିଲ୍ଟର୍ !!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "ଅନ୍ୟଥା ମୋର ପ୍ଲଗଇନ୍ ଫ୍ରିହେ ବ୍ୟବହାର କରନ୍ତୁ |"
+
+msgid "Personal Password"
+msgstr "ବ୍ୟକ୍ତିଗତ ପାସୱାର୍ଡ |"
+
+msgid "Please select ..."
+msgstr "ଦୟାକରି ଚୟନ କରନ୍ତୁ ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "ପିକନ୍ ଫାଇଲ୍ ଧାରଣ କରିଥିବା ଫୋଲ୍ଡର୍ ବାଛିବା ପାଇଁ ଓକେ ଦବାନ୍ତୁ |"
+
+msgid "Really close without saving settings?"
+msgstr "ସେଟିଂ ସେଭ୍ ନକରି ପ୍ରକୃତରେ ବନ୍ଦ?"
+
+msgid "Remove"
+msgstr "ଅପସାରଣ କରନ୍ତୁ |"
+
+msgid "Restart"
+msgstr "ପୁନ Rest ଆରମ୍ଭ କରନ୍ତୁ |"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ସେଗମେଣ୍ଟେସନ୍ ଫଲ୍ଟ:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ଆପଣଙ୍କର ପସନ୍ଦ ଚୟନ କରନ୍ତୁ |"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "ସର୍ଭର ପ୍ରତ୍ୟାବର୍ତ୍ତନ ତ୍ରୁଟି:"
+
+msgid "Save"
+msgstr "ସଞ୍ଚୟ କରନ୍ତୁ |"
+
+msgid "Select"
+msgstr "ଚୟନ କରନ୍ତୁ |"
+
+msgid "Services Player Reference type"
+msgstr "ସେବା ପ୍ଲେୟାର୍ ରେଫରେନ୍ସ ପ୍ରକାର |"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "ପାସୱାର୍ଡ ସେଟ୍ କରନ୍ତୁ - tivustream@gmail.com କୁ ଇମେଲ ମାଧ୍ୟମରେ ପଚାରନ୍ତୁ |"
+
+msgid "Set the path Movie folder"
+msgstr "ଚଳଚ୍ଚିତ୍ର ଫୋଲ୍ଡର୍ ସେଟ୍ କରନ୍ତୁ |"
+
+msgid "Set the path to the Cache folder"
+msgstr "କ୍ୟାଚ୍ ଫୋଲ୍ଡରକୁ ପଥ ସେଟ୍ କରନ୍ତୁ |"
+
+msgid "Settings saved correctly!"
+msgstr "ସେଟିଂସମୂହ ସଠିକ୍ ଭାବରେ ସଞ୍ଚୟ ହୋଇଛି!"
+
+msgid "Streamlink(5002)"
+msgstr "ଷ୍ଟ୍ରିମ୍ ଲିଙ୍କ୍ (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC ରେ ସୃଷ୍ଟି ହୋଇଥିବା ତାଲିକାଗୁଡ଼ିକ ମୁକ୍ତ ଭାବରେ ଏବଂ n ରେ ମିଳୁଥିବା ଠିକଣାଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ |"
+
+msgid "The structural reference server for projects released\n"
+msgstr "ପ୍ରକାଶିତ ପ୍ରକଳ୍ପଗୁଡ଼ିକ ପାଇଁ ଗଠନମୂଳକ ରେଫରେନ୍ସ ସର୍ଭର \ n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ଅଜ୍ଞାତ ତ୍ରୁଟି:"
+
+msgid "Update"
+msgstr "ଅଦ୍ୟତନ କରନ୍ତୁ |"
+
+msgid "Update Aborted!"
+msgstr "ପରିତ୍ୟାଗ କରାଯାଇଥିବା ଅଦ୍ୟତନ!"
+
+msgid "You are already downloading!!!"
+msgstr "ଆପଣ ପୂର୍ବରୁ ଡାଉନଲୋଡ୍ କରୁଛନ୍ତି !!!"
+
+msgid "You are not allowed!"
+msgstr "ଆପଣଙ୍କୁ ଅନୁମତି ନାହିଁ!"
+
+msgid "check SERVER in config"
+msgstr "କନଫିଗରେ SERVER ଯାଞ୍ଚ କରନ୍ତୁ |"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "କ stream ଣସି ଷ୍ଟ୍ରିମ୍ / ପ୍ରବାହର ଉତ୍ସ ନୁହେଁ | \ n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ଏହା କ any ଣସି ସ୍ରୋତର ଉତ୍ସ ନୁହେଁ | \ n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "ନେଟ୍ ଏବଂ ସଦସ୍ୟତା କିମ୍ବା ସଦସ୍ୟତା ଦ୍ୱାରା ସୁରକ୍ଷିତ ନୁହେଁ | \ n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "ଅନଲାଇନ୍ ମିଳିଲା ଏବଂ ସଦସ୍ୟତା କିମ୍ବା ସଦସ୍ୟତା ଦ୍ୱାରା ସୁରକ୍ଷିତ ନୁହେଁ | \ n"

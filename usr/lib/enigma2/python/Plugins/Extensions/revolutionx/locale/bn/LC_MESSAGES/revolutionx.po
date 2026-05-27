@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:00+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali <(nothing)>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d kBytes-এর মধ্যে %d"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= সাপোর্ট চালু: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== স্বাগত ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "অনুমোদন ছাড়া এই তালিকাগুলি ব্যবহার করা সম্পূর্ণরূপে নিষিদ্ধ\n"
+
+msgid "All cache fold are empty!"
+msgstr "সব ক্যাশ ভাঁজ খালি!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "অনুমতি ছাড়া এই তালিকাগুলি ব্যবহার করা একেবারেই নিষিদ্ধ৷\n"
+
+msgid "Back"
+msgstr "ব্যাক"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP প্যাকেট পড়া যায়নি:"
+
+msgid "Cache folder"
+msgstr "ক্যাশে ফোল্ডার"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Cancel execution?"
+msgstr "মৃত্যুদণ্ড বাতিল করবেন?"
+
+msgid "Choice"
+msgstr "পছন্দ"
+
+msgid "Choose Directory"
+msgstr "ডিরেক্টরি নির্বাচন করুন"
+
+msgid "Choose Directory:"
+msgstr "ডিরেক্টরি নির্বাচন করুন:"
+
+msgid "Close"
+msgstr "বন্ধ"
+
+msgid "Configure Service Player Reference"
+msgstr "সার্ভিস প্লেয়ার রেফারেন্স কনফিগার করুন"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "অভিনন্দন! আপনার কাছে ইতিমধ্যেই সর্বশেষ সংস্করণ আছে..."
+
+msgid "Console"
+msgstr "কনসোল"
+
+msgid "DISCLAIMER: \n"
+msgstr "দাবিত্যাগ: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ডাউনলোড করা ফাইল দূষিত:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "আপনি কি এখন আপডেট (%s) ইনস্টল করতে চান?"
+
+msgid "Do you want to remove %s ?"
+msgstr "আপনি কি %s কে সরাতে চান?"
+
+msgid "Download Failed !!"
+msgstr "ডাউনলোড ব্যর্থ!!"
+
+msgid "Download Failed!!!"
+msgstr "ডাউনলোড ব্যর্থ!!!"
+
+msgid "Download..."
+msgstr "ডাউনলোড করুন..."
+
+msgid "Downloading"
+msgstr "ডাউনলোড হচ্ছে"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "খালি ক্যাশে"
+
+msgid "Exit"
+msgstr "প্রস্থান করুন"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "ফাইল ডাউনলোড হয়েছে..."
+
+msgid "Finished"
+msgstr "সমাপ্ত"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "ফোল্ডার মুভি পাথ (যেমন: /media/hdd/movie), ঠিক আছে টিপুন - এনিগমা রিস্টার্ট প্রয়োজন"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "লুকান/দেখান"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "রিলিজ করা প্রজেক্টের জন্য স্ট্রাকচারাল রেফারেন্স সার্ভার\n"
+
+msgid "Install Streamlink first"
+msgstr "প্রথমে Streamlink ইন্সটল করুন"
+
+msgid "Is Directory or file not exist"
+msgstr "ডিরেক্টরি বা ফাইল বিদ্যমান নেই"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "বিশেষভাবে HOC তৈরি করা তালিকায় ঠিকানা রয়েছে অবাধে এবং বিনামূল্যে"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "মুভি ডাউনলোড ব্যর্থ!"
+
+msgid "Movie"
+msgstr "মুভি"
+
+msgid "NOTA BENE:\n"
+msgstr "দয়া করে নোট করুন:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "শুধুমাত্র VOD মুভি অনুমোদিত বা না .ext ফিল্টার করা!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "অন্যথায় আমার প্লাগইন Freearhey ব্যবহার করুন"
+
+msgid "Personal Password"
+msgstr "ব্যক্তিগত পাসওয়ার্ড"
+
+msgid "Please select ..."
+msgstr "অনুগ্রহ করে নির্বাচন করুন..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "পিকন ফাইল ধারণকারী ফোল্ডার নির্বাচন করতে ওকে টিপুন"
+
+msgid "Really close without saving settings?"
+msgstr "সেটিংস সংরক্ষণ ছাড়া সত্যিই বন্ধ?"
+
+msgid "Remove"
+msgstr "সরান"
+
+msgid "Restart"
+msgstr "রিস্টার্ট করুন"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "সেগমেন্টেশন ফল্ট:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "আপনার পছন্দ নির্বাচন করুন"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "সার্ভার ত্রুটি ফিরিয়ে দিয়েছে:"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Select"
+msgstr "নির্বাচন করুন"
+
+msgid "Services Player Reference type"
+msgstr "পরিষেবা প্লেয়ার রেফারেন্স প্রকার"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "পাসওয়ার্ড সেট করুন - tivustream@gmail.com এ ইমেলের মাধ্যমে জিজ্ঞাসা করুন"
+
+msgid "Set the path Movie folder"
+msgstr "পাথ মুভি ফোল্ডার সেট করুন"
+
+msgid "Set the path to the Cache folder"
+msgstr "ক্যাশে ফোল্ডারে পাথ সেট করুন"
+
+msgid "Settings saved correctly!"
+msgstr "সেটিংস সঠিকভাবে সংরক্ষিত!"
+
+msgid "Streamlink(5002)"
+msgstr "স্ট্রীমলিংক(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC-তে তৈরি করা তালিকায় ঠিকানাগুলি অবাধে এবং অবাধে পাওয়া যায়"
+
+msgid "The structural reference server for projects released\n"
+msgstr "প্রজেক্টের জন্য স্ট্রাকচারাল রেফারেন্স সার্ভার প্রকাশিত হয়েছে\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "অজানা ত্রুটি:"
+
+msgid "Update"
+msgstr "আপডেট"
+
+msgid "Update Aborted!"
+msgstr "আপডেট বাতিল করা হয়েছে!"
+
+msgid "You are already downloading!!!"
+msgstr "আপনি ইতিমধ্যে ডাউনলোড করছেন!!!"
+
+msgid "You are not allowed!"
+msgstr "তোমার অনুমতি নেই!"
+
+msgid "check SERVER in config"
+msgstr "কনফিগারেশনে সার্ভার চেক করুন"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "কোনো প্রবাহ/প্রবাহের উৎস নয়।\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "এটি কোনো স্ট্রিমের উৎস নয়।\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "নেট এবং সদস্যতা বা সদস্যতা দ্বারা সুরক্ষিত নয়।\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "অনলাইনে পাওয়া গেছে এবং সদস্যতা বা সদস্যতা দ্বারা সুরক্ষিত নয়।\n"

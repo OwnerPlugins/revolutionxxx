@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:51+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d od %d kB"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= PODPORA NA: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== DOBRODOŠLI ==========\n"
+
+msgid "========================================\n"
+msgstr "==========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Absolutno PREPOVEDANA uporaba teh seznamov brez pooblastila\n"
+
+msgid "All cache fold are empty!"
+msgstr "Vsi predpomnilniki so prazni!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Absolutno PREPOVEDANO je uporabljati te sezname brez dovoljenja.\n"
+
+msgid "Back"
+msgstr "Nazaj"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "PAKETA RTMP NI MOGLO PREBRATI:"
+
+msgid "Cache folder"
+msgstr "Mapa predpomnilnika"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Cancel execution?"
+msgstr "Preklic izvršitve?"
+
+msgid "Choice"
+msgstr "Izbira"
+
+msgid "Choose Directory"
+msgstr "Izberite Imenik"
+
+msgid "Choose Directory:"
+msgstr "Izberite imenik:"
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurirajte sklic predvajalnika storitev"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "čestitke Najnovejšo različico že imate..."
+
+msgid "Console"
+msgstr "Konzola"
+
+msgid "DISCLAIMER: \n"
+msgstr "ODPOVED ODGOVORNOSTI: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "PRENESENA DATOTEKA JE POKODOVANA:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ali želite zdaj namestiti posodobitev ( %s )?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Ali želite odstraniti %s?"
+
+msgid "Download Failed !!"
+msgstr "Prenos ni uspel!!"
+
+msgid "Download Failed!!!"
+msgstr "Prenos ni uspel!!!"
+
+msgid "Download..."
+msgstr "Prenos ..."
+
+msgid "Downloading"
+msgstr "Prenašanje"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "Izprazni predpomnilnik"
+
+msgid "Exit"
+msgstr "Izhod"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Prenesena datoteka ..."
+
+msgid "Finished"
+msgstr "Končano"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Mapa Filmska pot (npr.: /media/hdd/movie), pritisnite OK - potreben ponovni zagon Enigme"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Skrij/prikaži"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Strukturni referenčni strežnik za izdane projekte\n"
+
+msgid "Install Streamlink first"
+msgstr "Najprej namestite Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Imenik ali datoteka ne obstaja"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Seznami, ustvarjeni posebej za HOC, vsebujejo naslove prosto in brezplačno\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "PRENOS FILMA NI USPEŠEN!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "UPOŠTEVAJTE:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Dovoljen je samo film VOD ali ne Filtrirano .ext!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "V nasprotnem primeru uporabite moj vtičnik Freearhey"
+
+msgid "Personal Password"
+msgstr "Osebno geslo"
+
+msgid "Please select ..."
+msgstr "Prosim izberite ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Pritisnite OK, da izberete mapo, ki vsebuje datoteke picons"
+
+msgid "Really close without saving settings?"
+msgstr "Ali res zaprete brez shranjevanja nastavitev?"
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "Restart"
+msgstr "Znova zaženite"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "NAPAKA SEGMENTACIJE:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "IZBERITE SVOJO IZBIRO"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "STREŽNIK JE VRNIL NAPAKO:"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "Select"
+msgstr "Izberite"
+
+msgid "Services Player Reference type"
+msgstr "Vrsta reference predvajalnika storitev"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Nastavite geslo - vprašajte po e-pošti na tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Nastavite pot do mape Film"
+
+msgid "Set the path to the Cache folder"
+msgstr "Nastavite pot do mape Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Nastavitve pravilno shranjene!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Seznami, ustvarjeni pri HOC, vsebujejo naslove, ki jih prosto najdete na\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Izdan strukturni referenčni strežnik za projekte\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "NEZNANA NAPAKA:"
+
+msgid "Update"
+msgstr "posodobitev"
+
+msgid "Update Aborted!"
+msgstr "Posodobitev prekinjena!"
+
+msgid "You are already downloading!!!"
+msgstr "Že prenašate!!!"
+
+msgid "You are not allowed!"
+msgstr "Ni vam dovoljeno!"
+
+msgid "check SERVER in config"
+msgstr "preveri SERVER v config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ni vir nobenega toka/toka.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ni vir nobenega toka.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "omrežju in ni zaščiten z naročnino ali naročnino.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "najdeno na spletu in ni zaščiteno z naročnino ali naročnino.\n"

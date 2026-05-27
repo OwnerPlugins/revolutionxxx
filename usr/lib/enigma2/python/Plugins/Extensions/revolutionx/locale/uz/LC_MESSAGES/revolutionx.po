@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:06+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d dan %d kbayt"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= QO'LLAB-QUVVAT: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== Xush kelibsiz ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Bu roʻyxatlardan ruxsatsiz foydalanish mutlaqo TAqiqlangan.\n"
+
+msgid "All cache fold are empty!"
+msgstr "Barcha kesh katlamalari bo'sh!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Bu roʻyxatlardan ruxsatsiz foydalanish mutlaqo TANIQLANILGAN.\n"
+
+msgid "Back"
+msgstr "Orqaga"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP PAKETNI O'QIB OLMADIM:"
+
+msgid "Cache folder"
+msgstr "Kesh papkasi"
+
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+msgid "Cancel execution?"
+msgstr "Bajarish bekor qilinsinmi?"
+
+msgid "Choice"
+msgstr "Tanlov"
+
+msgid "Choose Directory"
+msgstr "Katalogni tanlang"
+
+msgid "Choose Directory:"
+msgstr "Katalogni tanlang:"
+
+msgid "Close"
+msgstr "Yopish"
+
+msgid "Configure Service Player Reference"
+msgstr "Xizmat pleyeri ma'lumotnomasini sozlang"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Tabriklaymiz! Sizda allaqachon oxirgi versiya mavjud..."
+
+msgid "Console"
+msgstr "Konsol"
+
+msgid "DISCLAIMER: \n"
+msgstr "Ogohlantirish: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "YUKLANILGAN FAYL BUZILGAN:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Yangilanishni ( %s ) hozir oʻrnatmoqchimisiz?"
+
+msgid "Do you want to remove %s ?"
+msgstr "%s ni olib tashlamoqchimisiz?"
+
+msgid "Download Failed !!"
+msgstr "Yuklab bo'lmadi!!"
+
+msgid "Download Failed!!!"
+msgstr "Yuklab olish amalga oshmadi!!!"
+
+msgid "Download..."
+msgstr "Yuklab olish..."
+
+msgid "Downloading"
+msgstr "Yuklab olinmoqda"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Keshni bo'sh"
+
+msgid "Exit"
+msgstr "Chiqish"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Fayl yuklab olindi..."
+
+msgid "Finished"
+msgstr "Tugallandi"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Film yoʻli papkasi (masalan: /media/hdd/movie), OK tugmasini bosing - Enigmani qayta ishga tushirish kerak"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Yashirish/Ko‘rsatish"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Chiqarilgan loyihalar uchun tizimli ma'lumotnoma serveri\n"
+
+msgid "Install Streamlink first"
+msgstr "Avval Streamlink-ni o'rnating"
+
+msgid "Is Directory or file not exist"
+msgstr "Katalog yoki fayl mavjud emas"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Maxsus HOC roʻyxatlarida manzillar bepul va bepul\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "FILMNI YUKLAB OLIB OLMAYDI!"
+
+msgid "Movie"
+msgstr "Kino"
+
+msgid "NOTA BENE:\n"
+msgstr "DIQQAT:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Faqat VOD filmiga ruxsat beriladi yoki yo'q .ext Filtrlangan!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Aks holda mening Freearhey plaginimdan foydalaning"
+
+msgid "Personal Password"
+msgstr "Shaxsiy parol"
+
+msgid "Please select ..."
+msgstr "Iltimos, tanlang ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Picon fayllari joylashgan jildni tanlash uchun Ok tugmasini bosing"
+
+msgid "Really close without saving settings?"
+msgstr "Haqiqatan ham sozlamalarni saqlamasdan yopilsinmi?"
+
+msgid "Remove"
+msgstr "O'chirish"
+
+msgid "Restart"
+msgstr "Qayta ishga tushirish"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMANTALASHTIRISH XATOSI:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "TANLOVINGIZNI TANlang"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVER QAYTIRISH XATOSI:"
+
+msgid "Save"
+msgstr "Saqlash"
+
+msgid "Select"
+msgstr "Tanlang"
+
+msgid "Services Player Reference type"
+msgstr "Xizmatlar o'yinchisiga havola turi"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Parolni o'rnatish - tivustream@gmail.com manziliga elektron pochta orqali so'rang"
+
+msgid "Set the path Movie folder"
+msgstr "Film papkasining yo'lini o'rnating"
+
+msgid "Set the path to the Cache folder"
+msgstr "Kesh jildiga yo'lni o'rnating"
+
+msgid "Settings saved correctly!"
+msgstr "Sozlamalar toʻgʻri saqlangan!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOCda yaratilgan roʻyxatlar manzillarni oʻz ichiga oladi:\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Loyihalar uchun tizimli maʼlumotnoma serveri chiqarildi\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "noma'lum XATO:"
+
+msgid "Update"
+msgstr "Yangilash"
+
+msgid "Update Aborted!"
+msgstr "Yangilash bekor qilindi!"
+
+msgid "You are already downloading!!!"
+msgstr "Siz allaqachon yuklab olyapsiz!!!"
+
+msgid "You are not allowed!"
+msgstr "Sizga ruxsat berilmagan!"
+
+msgid "check SERVER in config"
+msgstr "konfiguratsiyada SERVERni tekshiring"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "hech qanday oqim/oqim manbai emas.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "u hech qanday oqim manbai emas.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "tarmoq va obuna yoki obuna bilan himoyalanmagan.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "Internetda topilgan va obuna yoki obuna bilan himoyalanmagan.\n"

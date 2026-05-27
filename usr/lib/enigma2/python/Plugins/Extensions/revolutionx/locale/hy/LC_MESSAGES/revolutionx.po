@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d %d կբայթից"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ԱՋԱԿՑՈՒԹՅՈՒՆԸ ՄԻԱՑՎԱԾ Է. ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== Բարի գալուստ ==========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Բացարձակապես ԱՐԳԵԼՎՈՒՄ Է օգտագործել այս ցուցակներն առանց թույլտվության\n"
+
+msgid "All cache fold are empty!"
+msgstr "Քեշի բոլոր ծալքերը դատարկ են:"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Բացարձակապես ԱՐԳԵԼՎՈՒՄ Է օգտագործել այս ցուցակներն առանց թույլտվության:\n"
+
+msgid "Back"
+msgstr "Ետ"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "ՉԿԱՐՈՂ ԿԱՐԴԱԼ RTMP ՓԱԹԵԹԸ."
+
+msgid "Cache folder"
+msgstr "Քեշի թղթապանակ"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Cancel execution?"
+msgstr "Չեղարկե՞լ կատարումը:"
+
+msgid "Choice"
+msgstr "Ընտրություն"
+
+msgid "Choose Directory"
+msgstr "Ընտրեք տեղեկատու"
+
+msgid "Choose Directory:"
+msgstr "Ընտրեք տեղեկատու."
+
+msgid "Close"
+msgstr "Փակել"
+
+msgid "Configure Service Player Reference"
+msgstr "Կարգավորել ծառայության նվագարկչի տեղեկանքը"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Շնորհավորում եմ Դուք արդեն ունեք վերջին տարբերակը..."
+
+msgid "Console"
+msgstr "Վահանակ"
+
+msgid "DISCLAIMER: \n"
+msgstr "ՀՐԱԺԱՐՈՒՄ՝ \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ՆԵՐԲԵՌՆՎԱԾ ՖԱՅԼԸ ԿՈՌՈՒՄԱՑՎԱԾ Է."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ցանկանու՞մ եք տեղադրել թարմացում ( %s ) հիմա:"
+
+msgid "Do you want to remove %s ?"
+msgstr "Ցանկանու՞մ եք հեռացնել %s-ը:"
+
+msgid "Download Failed !!"
+msgstr "Ներբեռնումը ձախողվեց !!"
+
+msgid "Download Failed!!!"
+msgstr "Ներբեռնումը ձախողվեց!!!"
+
+msgid "Download..."
+msgstr "Ներբեռնել..."
+
+msgid "Downloading"
+msgstr "Ներբեռնում"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "Դատարկ քեշը"
+
+msgid "Exit"
+msgstr "Ելք"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Ֆայլը ներբեռնված է..."
+
+msgid "Finished"
+msgstr "Ավարտված"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Թղթապանակ ֆիլմի ուղի (օրինակ՝ /media/hdd/movie), սեղմեք OK – Enigma-ի վերագործարկումը պահանջվում է"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Թաքցնել/Ցուցադրել"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Թողարկված նախագծերի կառուցվածքային տեղեկատու սերվերը\n"
+
+msgid "Install Streamlink first"
+msgstr "Նախ տեղադրեք Streamlink-ը"
+
+msgid "Is Directory or file not exist"
+msgstr "Գրացուցակը կամ ֆայլը գոյություն չունի"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Հատուկ HOC-ի ստեղծված ցուցակները պարունակում են հասցեներ ազատ և անվճար\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ՖԻԼՄԻ ՆԵՐԲԵՐՈՒՄԸ ՉԱՓՈԽՎԵՑ:"
+
+msgid "Movie"
+msgstr "Ֆիլմ"
+
+msgid "NOTA BENE:\n"
+msgstr "ԽՆԴՐՈՒՄ ԵՄ ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Միայն VOD ֆիլմը թույլատրվում է, թե ոչ .ext Filtered!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Հակառակ դեպքում Օգտագործեք իմ Plugin Freearhey-ը"
+
+msgid "Personal Password"
+msgstr "Անձնական գաղտնաբառ"
+
+msgid "Please select ..."
+msgstr "Խնդրում ենք ընտրել..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Սեղմեք Ok՝ պիկոնների ֆայլերը պարունակող թղթապանակը ընտրելու համար"
+
+msgid "Really close without saving settings?"
+msgstr "Իսկապե՞ս փակել առանց կարգավորումները պահելու:"
+
+msgid "Remove"
+msgstr "Հեռացնել"
+
+msgid "Restart"
+msgstr "Վերագործարկեք"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ՍԳԵՄԵՆՏԱՑՄԱՆ ՍԽԱԼ."
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ԸՆՏՐԵՔ ՁԵՐ ԸՆՏՐՈՒԹՅՈՒՆԸ"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "ՍԵՐՎԵՐԻ ՎԵՐԱԴԱՐՁՎԱԾ ՍԽԱԼ."
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Select"
+msgstr "Ընտրել"
+
+msgid "Services Player Reference type"
+msgstr "Ծառայություններ խաղացողի տեղեկանքի տեսակը"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Սահմանեք գաղտնաբառ - էլփոստով հարցրեք tivustream@gmail.com հասցեին"
+
+msgid "Set the path Movie folder"
+msgstr "Սահմանեք ուղին Ֆիլմի պանակը"
+
+msgid "Set the path to the Cache folder"
+msgstr "Սահմանեք Քեշի թղթապանակի ուղին"
+
+msgid "Settings saved correctly!"
+msgstr "Կարգավորումները ճիշտ են պահվել:"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "ՀՕԿ-ում ստեղծված ցուցակները պարունակում են հասցեներ, որոնք ազատ և ազատորեն գտնվում են\n-ում"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Թողարկված նախագծերի կառուցվածքային տեղեկատու սերվերը\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ԱՆՀԱՅՏ ՍԽԱԼ."
+
+msgid "Update"
+msgstr "Թարմացնել"
+
+msgid "Update Aborted!"
+msgstr "Թարմացումը ընդհատվեց:"
+
+msgid "You are already downloading!!!"
+msgstr "Դուք արդեն ներբեռնում եք!!!"
+
+msgid "You are not allowed!"
+msgstr "Ձեզ թույլ չեն տալիս:"
+
+msgid "check SERVER in config"
+msgstr "ստուգեք SERVER-ը կազմաձևում"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ոչ մի հոսքի/հոսքի աղբյուր չէ։\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "դա ոչ մի հոսքի աղբյուր չէ։\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "ցանցը և պաշտպանված չէ բաժանորդագրությամբ կամ բաժանորդագրությամբ:\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "հայտնաբերվել է առցանց և պաշտպանված չէ բաժանորդագրությամբ կամ բաժանորդագրությամբ:\n"

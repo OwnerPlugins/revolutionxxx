@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Maltese <translation-team-mt@lists.sourceforge.net>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d minn %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= APPOĠĠ FUQ: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== MERĦBA ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Assolutament PROJBIT li tuża dawn il-listi mingħajr awtorizzazzjoni\n"
+
+msgid "All cache fold are empty!"
+msgstr "It-tinja kollha tal-cache huma vojta!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Huwa assolutament PROJBIT li tuża dawn il-listi mingħajr permess.\n"
+
+msgid "Back"
+msgstr "Lura"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "MA SETGĦAX JAQRA PAKKETT RTMP:"
+
+msgid "Cache folder"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Ikkanċella"
+
+msgid "Cancel execution?"
+msgstr "Ikkanċella l-eżekuzzjoni?"
+
+msgid "Choice"
+msgstr "Għażla"
+
+msgid "Choose Directory"
+msgstr "Agħżel Direttorju"
+
+msgid "Choose Directory:"
+msgstr "Agħżel Direttorju:"
+
+msgid "Close"
+msgstr "Agħlaq"
+
+msgid "Configure Service Player Reference"
+msgstr "Ikkonfigura r-Referenza tal-Plejer tas-Servizz"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Prosit! Diġà għandek l-aħħar verżjoni..."
+
+msgid "Console"
+msgstr ""
+
+msgid "DISCLAIMER: \n"
+msgstr ""
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "FAJL IMNIŻŻEL KORROTT:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Trid tinstalla l-aġġornament ( %s ) issa?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Trid tneħħi %s?"
+
+msgid "Download Failed !!"
+msgstr "Niżżel fallut !!"
+
+msgid "Download Failed!!!"
+msgstr "Niżżel fallut!!!"
+
+msgid "Download..."
+msgstr "Niżżel..."
+
+msgid "Downloading"
+msgstr "Tniżżil"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Cache vojta"
+
+msgid "Exit"
+msgstr "Ħruġ"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Fajl Niżżel..."
+
+msgid "Finished"
+msgstr "Lest"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Folder Movie Path (eż.: /media/hdd/movie), Agħfas OK - Enigma terġa 'tinħtieġ"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Aħbi/Uri"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Is-server ta' referenza strutturali għal proġetti rilaxxati\n"
+
+msgid "Install Streamlink first"
+msgstr "Installa Streamlink l-ewwel"
+
+msgid "Is Directory or file not exist"
+msgstr "Id-Direttorju jew il-fajl ma jeżistux"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Il-listi maħluqa speċifikament HOC fihom indirizzi liberament u bla ħlas\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "TWAĦĦIL TAL-FILMAT FAIL!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "JEKK JOGĦĠBOK INnota:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Film VOD biss permess jew le .ext Iffiltrat!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Inkella Uża l-Plugin tiegħi Freearhey"
+
+msgid "Personal Password"
+msgstr "Password Personali"
+
+msgid "Please select ..."
+msgstr "Jekk jogħġbok agħżel..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Agħfas Ok biex tagħżel il-folder li fih il-fajls tal-picons"
+
+msgid "Really close without saving settings?"
+msgstr "Tassew tagħlaq mingħajr ma tissejvja s-settings?"
+
+msgid "Remove"
+msgstr "Neħħi"
+
+msgid "Restart"
+msgstr "Ibda mill-ġdid"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ĦTIJIET TA' SEGMENTAZZJONI:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "AGĦŻEL L-GĦAŻLA TIEGĦEK"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "ŻBAL MINN SERVER:"
+
+msgid "Save"
+msgstr "Ħlief"
+
+msgid "Select"
+msgstr "Agħżel"
+
+msgid "Services Player Reference type"
+msgstr "Servizzi Tip ta' referenza tal-Plejer"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Issettja l-Password - staqsi bl-email lil tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Issettja l-folder tal-film tat-triq"
+
+msgid "Set the path to the Cache folder"
+msgstr "Issettja l-mogħdija għall-folder tal-Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Settings salvati b'mod korrett!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Il-listi maħluqa f'HOC fihom indirizzi misjuba liberament u liberament fuq\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Is-server ta' referenza strutturali għall-proġetti rilaxxati\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ŻBALL MHUX MAGĦRUF:"
+
+msgid "Update"
+msgstr "Aġġornament"
+
+msgid "Update Aborted!"
+msgstr "Aġġornament Abortat!"
+
+msgid "You are already downloading!!!"
+msgstr "Diġà qed tniżżel!!!"
+
+msgid "You are not allowed!"
+msgstr "M'intix permess!"
+
+msgid "check SERVER in config"
+msgstr "iċċekkja SERVER fil-konfigurazzjoni"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "mhix sors ta' xi fluss/fluss.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "mhuwiex is-sors ta' xi nixxiegħa.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "in-net u mhux protett b'abbonament jew abbonament.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "misjuba online u mhux protett b'abbonament jew abbonament.\n"

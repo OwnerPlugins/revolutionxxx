@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:03+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d z %d kB"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= PODPORA ZAPNUTA: ===========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== VÍTEJTE ===========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Absolutně ZAKÁZÁNO používat tyto seznamy bez oprávnění\n"
+
+msgid "All cache fold are empty!"
+msgstr "Všechny složky mezipaměti jsou prázdné!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Je absolutně ZAKÁZÁNO používat tyto seznamy bez povolení.\n"
+
+msgid "Back"
+msgstr "Zadní"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "NELZE ČÍST PAKET RTMP:"
+
+msgid "Cache folder"
+msgstr "Složka mezipaměti"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Cancel execution?"
+msgstr "Zrušit provedení?"
+
+msgid "Choice"
+msgstr "Výběr"
+
+msgid "Choose Directory"
+msgstr "Zvolte Adresář"
+
+msgid "Choose Directory:"
+msgstr "Vyberte adresář:"
+
+msgid "Close"
+msgstr "Blízko"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurace servisního přehrávače Reference"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "gratuluji! Už máte nejnovější verzi..."
+
+msgid "Console"
+msgstr "Utěšit"
+
+msgid "DISCLAIMER: \n"
+msgstr "ODMÍTNUTÍ ODPOVĚDNOSTI: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "STAŽENÝ SOUBOR POŠKOZENÝ:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Chcete nyní nainstalovat aktualizaci ( %s )?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Chcete odebrat %s?"
+
+msgid "Download Failed !!"
+msgstr "Stahování se nezdařilo!!"
+
+msgid "Download Failed!!!"
+msgstr "Stahování se nezdařilo!!!"
+
+msgid "Download..."
+msgstr "Stáhnout..."
+
+msgid "Downloading"
+msgstr "Stahování"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "dvb(1)"
+
+msgid "Empty Cache"
+msgstr "Prázdná mezipaměť"
+
+msgid "Exit"
+msgstr "Výstup"
+
+msgid "Exteplayer3(5002)"
+msgstr "Extemper3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "Soubor stažen..."
+
+msgid "Finished"
+msgstr "Hotovo"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Cesta k filmu (např.: /media/hdd/movie), stiskněte OK - je vyžadován restart Enigmy"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Skrýt/Zobrazit"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Strukturální referenční server pro vydané projekty\n"
+
+msgid "Install Streamlink first"
+msgstr "Nejprve nainstalujte Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Adresář nebo soubor neexistuje"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Seznamy vytvořené speciálně HOC obsahují adresy volně a zdarma\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "STAHOVÁNÍ FILMU SE NEZDALO!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "POZOR:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Pouze VOD film povolen nebo ne .ext Filtrováno!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Jinak použijte můj plugin Freearhey"
+
+msgid "Personal Password"
+msgstr "Osobní heslo"
+
+msgid "Please select ..."
+msgstr "Vyberte prosím..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Stisknutím tlačítka Ok vyberte složku obsahující soubory s ikonami"
+
+msgid "Really close without saving settings?"
+msgstr "Opravdu zavřít bez uložení nastavení?"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Restart"
+msgstr "Restartujte"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "CHYBA SEGMENTACE:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "VYBERTE SI SVOU VOLBU"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "CHYBA VRÁCENÁ SERVER:"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "Services Player Reference type"
+msgstr "Typ reference přehrávače služeb"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Nastavit heslo – zeptejte se e-mailem na tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Nastavte cestu složky Film"
+
+msgid "Set the path to the Cache folder"
+msgstr "Nastavte cestu ke složce Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Nastavení uloženo správně!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Seznamy vytvořené na HOC obsahují adresy volně a volně nalezené na\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Vydán strukturální referenční server pro projekty\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "NEZNÁMÁ CHYBA:"
+
+msgid "Update"
+msgstr "Aktualizovat"
+
+msgid "Update Aborted!"
+msgstr "Aktualizace zrušena!"
+
+msgid "You are already downloading!!!"
+msgstr "Už stahujete!!!"
+
+msgid "You are not allowed!"
+msgstr "Nemáte povoleno!"
+
+msgid "check SERVER in config"
+msgstr "zkontrolujte SERVER v konfiguraci"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "není zdrojem žádného proudu/toku.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "není zdrojem žádného proudu.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "síť a nejsou chráněny předplatným nebo předplatným.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "nalezen online a není chráněn předplatným nebo předplatným.\n"

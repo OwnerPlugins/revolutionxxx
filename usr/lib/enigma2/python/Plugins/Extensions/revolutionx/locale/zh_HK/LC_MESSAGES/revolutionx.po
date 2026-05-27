@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-HK\n"
+"Language: zh-HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d 字節，共 %d 字節"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+WWW.TIVUSSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= 支援：==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "========歡迎==========\n"
+
+msgid "========================================\n"
+msgstr "===============================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "未經授權絕對禁止使用此清單\n"
+
+msgid "All cache fold are empty!"
+msgstr "所有快取資料夾都是空的！"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "未經許可絕對禁止使用這些清單。 \n"
+
+msgid "Back"
+msgstr "後退"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "無法讀取 RTMP 封包："
+
+msgid "Cache folder"
+msgstr "快取資料夾"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel execution?"
+msgstr "取消執行？"
+
+msgid "Choice"
+msgstr "選擇"
+
+msgid "Choose Directory"
+msgstr "選擇目錄"
+
+msgid "Choose Directory:"
+msgstr "選擇目錄："
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Configure Service Player Reference"
+msgstr "配置服務播放器參考"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "恭喜！您已經擁有最新版本..."
+
+msgid "Console"
+msgstr "安慰"
+
+msgid "DISCLAIMER: \n"
+msgstr "免責聲明：\n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "下載的檔案已損壞："
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "您想立即安裝更新 (%s) 嗎？"
+
+msgid "Do you want to remove %s ?"
+msgstr "您想刪除 %s 嗎？"
+
+msgid "Download Failed !!"
+msgstr "下載失敗！ ！"
+
+msgid "Download Failed!!!"
+msgstr "下載失敗！ ！ ！"
+
+msgid "Download..."
+msgstr "下載..."
+
+msgid "Downloading"
+msgstr "正在下載"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr "數位音訊(1)"
+
+msgid "Empty Cache"
+msgstr "清空快取"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Exteplayer3(5002)"
+msgstr "外部播放器3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "文件已下載..."
+
+msgid "Finished"
+msgstr "完成的"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "資料夾電影路徑（例如：/media/hdd/movie），按確定 - 需要重新啟動 Enigma"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "隱藏/顯示"
+
+msgid "IPTV(4097)"
+msgstr "網路電視(4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "已發布項目的結構參考伺服器\n"
+
+msgid "Install Streamlink first"
+msgstr "首先安裝 Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "目錄或檔案是否不存在"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "專門創建的 HOC 清單包含自由且免費的地址\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "電影下載失敗！"
+
+msgid "Movie"
+msgstr "電影"
+
+msgid "NOTA BENE:\n"
+msgstr "請注意：\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "僅允許 VOD 電影或不允許 .ext 過濾！ ！ ！"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "否則使用我的插件 Freearhey"
+
+msgid "Personal Password"
+msgstr "個人密碼"
+
+msgid "Please select ..."
+msgstr "請選擇..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "按下「確定」選擇包含圖示檔案的資料夾"
+
+msgid "Really close without saving settings?"
+msgstr "真的關閉而不儲存設定嗎？"
+
+msgid "Remove"
+msgstr "消除"
+
+msgid "Restart"
+msgstr "重新啟動"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "分段錯誤："
+
+msgid "SELECT YOUR CHOICE"
+msgstr "選擇您的選擇"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "伺服器回傳錯誤："
+
+msgid "Save"
+msgstr "節省"
+
+msgid "Select"
+msgstr "選擇"
+
+msgid "Services Player Reference type"
+msgstr "服務播放器參考類型"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "設定密碼 - 透過電子郵件詢問 tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "設定電影資料夾路徑"
+
+msgid "Set the path to the Cache folder"
+msgstr "設定快取資料夾的路徑"
+
+msgid "Settings saved correctly!"
+msgstr "設定已正確儲存！"
+
+msgid "Streamlink(5002)"
+msgstr "流連(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "在 HOC 建立的清單包含可以自由找到的位址\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "已發布項目的結構參考伺服器\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "未知錯誤："
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Aborted!"
+msgstr "更新中止！"
+
+msgid "You are already downloading!!!"
+msgstr "你已經在下載了！ ！ ！"
+
+msgid "You are not allowed!"
+msgstr "你不被允許！"
+
+msgid "check SERVER in config"
+msgstr "檢查配置中的伺服器"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "不是任何流/流的來源。 \n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "它不是任何流的來源。 \n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "網路且不受訂閱或訂閱保護。 \n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "在線發現的且不受訂閱或訂閱保護。 \n"

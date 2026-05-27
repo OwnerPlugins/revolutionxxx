@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:35+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Mongolian <openmn-translation@lists.sourceforge.net>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d кБайтаас %d"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ДЭМЖИЖ БАЙНА: =========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== тавтай морилно уу =========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Энэ жагсаалтыг зөвшөөрөлгүйгээр ашиглахыг БҮТЭН ХОРИГЛОНО\n"
+
+msgid "All cache fold are empty!"
+msgstr "Бүх кэш хавтас хоосон байна!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Эдгээр жагсаалтыг зөвшөөрөлгүйгээр ашиглахыг БҮРТГҮЙ ХОРИГЛОНО.\n"
+
+msgid "Back"
+msgstr "Буцах"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP багцыг УНШИЖ чадсангүй:"
+
+msgid "Cache folder"
+msgstr "Кэш хавтас"
+
+msgid "Cancel"
+msgstr "Цуцлах"
+
+msgid "Cancel execution?"
+msgstr "Гүйцэтгэлийг цуцлах уу?"
+
+msgid "Choice"
+msgstr "Сонголт"
+
+msgid "Choose Directory"
+msgstr "Лавлахыг сонгоно уу"
+
+msgid "Choose Directory:"
+msgstr "Лавлахыг сонгоно уу:"
+
+msgid "Close"
+msgstr "Хаах"
+
+msgid "Configure Service Player Reference"
+msgstr "Үйлчилгээний тоглуулагчийн лавлагааг тохируулах"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Баяр хүргэе! Танд хамгийн сүүлийн хувилбар байгаа..."
+
+msgid "Console"
+msgstr "Консол"
+
+msgid "DISCLAIMER: \n"
+msgstr "АНХААРУУЛГА: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ТАТСАН ФАЙЛ ГАМХАРСАН:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Та одоо шинэчлэлтийг ( %s ) суулгахыг хүсэж байна уу?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Та %s-г устгахыг хүсэж байна уу?"
+
+msgid "Download Failed !!"
+msgstr "Татаж чадсангүй!!"
+
+msgid "Download Failed!!!"
+msgstr "Татаж чадсангүй!!!"
+
+msgid "Download..."
+msgstr "Татаж авах..."
+
+msgid "Downloading"
+msgstr "Татаж авч байна"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Хоосон кэш"
+
+msgid "Exit"
+msgstr "Гарах"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Татаж авсан файл..."
+
+msgid "Finished"
+msgstr "Дууслаа"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Киноны зам хавтас (жишээ нь: /media/hdd/movie), OK дарна уу - Оньсого дахин эхлүүлэх шаардлагатай"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Нуух/Үзүүлэх"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Гарсан төслүүдийн бүтцийн лавлах сервер\n"
+
+msgid "Install Streamlink first"
+msgstr "Эхлээд Streamlink суулгана уу"
+
+msgid "Is Directory or file not exist"
+msgstr "Лавлах эсвэл файл байхгүй байна уу"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "HOC тусгайлан үүсгэсэн жагсаалтууд нь хаягийг чөлөөтэй, үнэ төлбөргүй агуулна\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "КИНО ТАТАЖ АВАЛТ БОЛЛОО!"
+
+msgid "Movie"
+msgstr "Кино"
+
+msgid "NOTA BENE:\n"
+msgstr "АНХААРНА УУ:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Зөвхөн VOD киног зөвшөөрсөн эсвэл үгүй ​​.ext шүүсэн!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Үгүй бол миний Freearhey Plugin-г ашиглаарай"
+
+msgid "Personal Password"
+msgstr "Хувийн нууц үг"
+
+msgid "Please select ..."
+msgstr "Сонгоно уу ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Ok товчийг дарж пикон файлуудыг агуулсан хавтсыг сонгоно уу"
+
+msgid "Really close without saving settings?"
+msgstr "Тохиргоог хадгалахгүйгээр үнэхээр хаах уу?"
+
+msgid "Remove"
+msgstr "Устгах"
+
+msgid "Restart"
+msgstr "Дахин эхлүүлэх"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ХЭСЭГЧИЛГЭЭНИЙ БУРУУ:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "СОНГОЛТОО СОНГООРОЙ"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "СЕРВЕР БУЦСАН АЛДАА:"
+
+msgid "Save"
+msgstr "Хадгалах"
+
+msgid "Select"
+msgstr "Сонго"
+
+msgid "Services Player Reference type"
+msgstr "Үйлчилгээний Тоглогчийн лавлагааны төрөл"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Нууц үг тохируулах - tivustream@gmail.com руу имэйлээр асуу"
+
+msgid "Set the path Movie folder"
+msgstr "Киноны хавтсыг тохируулах"
+
+msgid "Set the path to the Cache folder"
+msgstr "Cache хавтас руу орох замыг тохируулна уу"
+
+msgid "Settings saved correctly!"
+msgstr "Тохиргоог зөв хадгалсан!"
+
+msgid "Streamlink(5002)"
+msgstr "Дамжуулах холбоос(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC дээр үүсгэсэн жагсаалтууд нь\n дээр чөлөөтэй, чөлөөтэй олдох хаягуудыг агуулна"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Төслийн бүтцийн лавлах серверийг гаргасан\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "Мэдэгдэхгүй алдаа:"
+
+msgid "Update"
+msgstr "Шинэчлэх"
+
+msgid "Update Aborted!"
+msgstr "Шинэчлэлтийг зогсоосон!"
+
+msgid "You are already downloading!!!"
+msgstr "Та аль хэдийн татаж байна!!!"
+
+msgid "You are not allowed!"
+msgstr "Чамайг зөвшөөрөхгүй!"
+
+msgid "check SERVER in config"
+msgstr "тохиргооноос SERVER-г шалгана уу"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ямар ч урсгал/урсгалын эх үүсвэр биш.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "энэ нь ямар ч урсгалын эх сурвалж биш юм.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "сүлжээ бөгөөд захиалга эсвэл захиалгаар хамгаалагдаагүй.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "Онлайнаар олдсон бөгөөд захиалга эсвэл захиалгаар хамгаалагдаагүй.\n"

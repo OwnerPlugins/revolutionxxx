@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kurdish <translation-team-ku (at) ferheng.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d ji %d kByte"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= PIŞTGIRÎ: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== PÊXWAZIN ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "TÊKÎ QEDEXE YE ku ev lîsteyan bê destûr bikar bîne\n"
+
+msgid "All cache fold are empty!"
+msgstr "Hemû qatên cache vala ne!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Bê destûr bikaranîna van lîsteyan QEDEXE YE.\n"
+
+msgid "Back"
+msgstr "Paş"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "NIKARIN PAKETA RTMP bixwîne:"
+
+msgid "Cache folder"
+msgstr "Peldanka cache"
+
+msgid "Cancel"
+msgstr "Bişûndekirin"
+
+msgid "Cancel execution?"
+msgstr "îdamê betal bike?"
+
+msgid "Choice"
+msgstr "Helbijartî"
+
+msgid "Choose Directory"
+msgstr "Peldanka hilbijêrin"
+
+msgid "Choose Directory:"
+msgstr "Peldanka hilbijêrin:"
+
+msgid "Close"
+msgstr "Nêzîkî"
+
+msgid "Configure Service Player Reference"
+msgstr "Veavakirina Servîsa Player Reference"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Pîroz be! Berê te guhertoya herî dawî heye..."
+
+msgid "Console"
+msgstr "Konsolê"
+
+msgid "DISCLAIMER: \n"
+msgstr "BİXWÎNE: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "PÊŞA DAXÎTÎ XEŞTÎ:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Tu dixwazî ​​nûvekirina ( %s ) niha saz bikî?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Tu dixwazî ​​%s jê bikî?"
+
+msgid "Download Failed !!"
+msgstr "Daxistin Biserneket !!"
+
+msgid "Download Failed!!!"
+msgstr ""
+
+msgid "Download..."
+msgstr "Daxistin..."
+
+msgid "Downloading"
+msgstr "Daxistin"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Cache vala"
+
+msgid "Exit"
+msgstr "Derî"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Pelê hat daxistin..."
+
+msgid "Finished"
+msgstr "Qediya"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Riya Fîlmê Peldanka (mînak: /media/hdd/fîlm), OK bitikîne - Enigma ji nû ve dest pê dike"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Veşêre / Nîşan bide"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Pêşkêşkara referansa avahîsaziyê ya ji bo projeyên berdan\n"
+
+msgid "Install Streamlink first"
+msgstr "Pêşî Streamlink saz bikin"
+
+msgid "Is Directory or file not exist"
+msgstr "Derhêner an pel tune ye"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Lîsteyên ku bi taybetî HOC hatine afirandin navnîşanên belaş û bêpere hene\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "DAXISTINA FÎMÊ TÊK BÛ!"
+
+msgid "Movie"
+msgstr "Fîlm"
+
+msgid "NOTA BENE:\n"
+msgstr "BİXWÎNE BİXWÎNE:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Tenê VOD Fîlma destûr e an na .ext Parzkirî!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Wekî din Plugina min Freearhey bikar bînin"
+
+msgid "Personal Password"
+msgstr "Şîfreya Kesane"
+
+msgid "Please select ..."
+msgstr "Ji kerema xwe hilbijêrin ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Ok bikirtînin da ku peldanka ku pelên pîkonan vedihewîne hilbijêrin"
+
+msgid "Really close without saving settings?"
+msgstr "Bi rastî bêyî tomarkirina mîhengan bigire?"
+
+msgid "Remove"
+msgstr "Dûrxistin"
+
+msgid "Restart"
+msgstr ""
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ŞÊŞA SEGMENTÊ:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "HILBIJARTINA XWE HILBIJARTIN"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "ÇEŞTÎ VEGERA SERVER:"
+
+msgid "Save"
+msgstr "Rizgarkirin"
+
+msgid "Select"
+msgstr "Neqandin"
+
+msgid "Services Player Reference type"
+msgstr "Xizmetên Player Reference type"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Şîfreyê bicîh bikin - bi e-nameyê ji tivustream@gmail.com bipirsin"
+
+msgid "Set the path Movie folder"
+msgstr "Rêya Peldanka Fîlmê saz bikin"
+
+msgid "Set the path to the Cache folder"
+msgstr "Rêya peldanka Cache saz bikin"
+
+msgid "Settings saved correctly!"
+msgstr "Mîhengên rast hatine tomarkirin!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Lîsteyên ku li HOC-ê hatine çêkirin navnîşanên ku bi serbestî û bi serbestî li ser têne dîtin hene\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Pêşkêşkara referansa avahîsaziyê ya ji bo projeyên hatine berdan\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ÇEWTIYA NASANÎ:"
+
+msgid "Update"
+msgstr "Nûvekirin"
+
+msgid "Update Aborted!"
+msgstr "Nûvekirin hate betal kirin!"
+
+msgid "You are already downloading!!!"
+msgstr "Hûn jixwe dakêşin!!!"
+
+msgid "You are not allowed!"
+msgstr "Destûr nayê dayîn!"
+
+msgid "check SERVER in config"
+msgstr "SERVER di mîhengê de kontrol bikin"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ne çavkaniya tu herik/herikekê ye.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ew ne çavkaniya tu herikekê ye.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "net û bi abonetî an jî abonetiyê nayê parastin.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "li serhêl hatiye dîtin û bi abonetî an jî abonetiyê nayê parastin.\n"

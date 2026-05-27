@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:56+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <tamil@systemreboot.net>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d / %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ஆதரவு: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== வரவேற்கிறோம் ==========\n"
+
+msgid "========================================\n"
+msgstr "==========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "அங்கீகாரம் இல்லாமல் இந்தப் பட்டியலைப் பயன்படுத்துவது முற்றிலும் தடைசெய்யப்பட்டுள்ளது\n"
+
+msgid "All cache fold are empty!"
+msgstr "அனைத்து கேச் மடிப்புகளும் காலியாக உள்ளன!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "அனுமதியின்றி இந்தப் பட்டியல்களைப் பயன்படுத்துவது முற்றிலும் தடைசெய்யப்பட்டுள்ளது.\n"
+
+msgid "Back"
+msgstr "மீண்டும்"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP பாக்கெட்டைப் படிக்க முடியவில்லை:"
+
+msgid "Cache folder"
+msgstr "கேச் கோப்புறை"
+
+msgid "Cancel"
+msgstr "ரத்து செய்"
+
+msgid "Cancel execution?"
+msgstr "செயல்படுத்துவதை ரத்து செய்யவா?"
+
+msgid "Choice"
+msgstr "தேர்வு"
+
+msgid "Choose Directory"
+msgstr "கோப்பகத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Choose Directory:"
+msgstr "கோப்பகத்தைத் தேர்வுசெய்க:"
+
+msgid "Close"
+msgstr "மூடு"
+
+msgid "Configure Service Player Reference"
+msgstr "சர்வீஸ் பிளேயர் குறிப்பை உள்ளமைக்கவும்"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "வாழ்த்துகள்! உங்களிடம் ஏற்கனவே சமீபத்திய பதிப்பு உள்ளது..."
+
+msgid "Console"
+msgstr "பணியகம்"
+
+msgid "DISCLAIMER: \n"
+msgstr "மறுப்பு: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "பதிவிறக்கம் செய்யப்பட்ட கோப்பு சிதைந்துள்ளது:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "புதுப்பிப்பை (%s) இப்போது நிறுவ விரும்புகிறீர்களா?"
+
+msgid "Do you want to remove %s ?"
+msgstr "%s ஐ அகற்ற விரும்புகிறீர்களா?"
+
+msgid "Download Failed !!"
+msgstr "பதிவிறக்கம் தோல்வி!!"
+
+msgid "Download Failed!!!"
+msgstr "பதிவிறக்கம் தோல்வி!!!"
+
+msgid "Download..."
+msgstr "பதிவிறக்கம்..."
+
+msgid "Downloading"
+msgstr "பதிவிறக்குகிறது"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "ட்ரீம்ஓஎஸ் ஜிஸ்ட்ரீமர்(8193)"
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "காலி கேச்"
+
+msgid "Exit"
+msgstr "வெளியேறு"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "கோப்பு பதிவிறக்கம் செய்யப்பட்டது..."
+
+msgid "Finished"
+msgstr "முடிந்தது"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "கோப்புறை மூவி பாதை (எ.கா.: /media/hdd/movie), சரி அழுத்தவும் - எனிக்மா மறுதொடக்கம் தேவை"
+
+msgid "Gstreamer(5001)"
+msgstr "ஜிஸ்ட்ரீமர்(5001)"
+
+msgid "Hide/Show"
+msgstr "மறை/காட்டு"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "வெளியிடப்பட்ட திட்டங்களுக்கான கட்டமைப்பு குறிப்பு சேவையகம்\n"
+
+msgid "Install Streamlink first"
+msgstr "முதலில் Streamlink ஐ நிறுவவும்"
+
+msgid "Is Directory or file not exist"
+msgstr "கோப்பகம் அல்லது கோப்பு இல்லை"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "குறிப்பாக HOC உருவாக்கப்பட்ட பட்டியல்கள் இலவசமாகவும் இலவசமாகவும் முகவரிகளைக் கொண்டிருக்கின்றன\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "திரைப்படப் பதிவிறக்கம் தோல்வியடைந்தது!"
+
+msgid "Movie"
+msgstr "திரைப்படம்"
+
+msgid "NOTA BENE:\n"
+msgstr "தயவுசெய்து கவனிக்கவும்:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD திரைப்படம் மட்டுமே அனுமதிக்கப்படுகிறது அல்லது அனுமதிக்கப்படவில்லை .ext வடிகட்டப்பட்டது!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "இல்லையெனில் எனது செருகுநிரல் Freearhey ஐப் பயன்படுத்தவும்"
+
+msgid "Personal Password"
+msgstr "தனிப்பட்ட கடவுச்சொல்"
+
+msgid "Please select ..."
+msgstr "தயவுசெய்து தேர்ந்தெடுக்கவும்..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "பிகான்கள் கோப்புகளைக் கொண்ட கோப்புறையைத் தேர்ந்தெடுக்க சரி என்பதை அழுத்தவும்"
+
+msgid "Really close without saving settings?"
+msgstr "அமைப்புகளைச் சேமிக்காமல் உண்மையில் மூடவா?"
+
+msgid "Remove"
+msgstr "அகற்று"
+
+msgid "Restart"
+msgstr "மறுதொடக்கம்"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "பிரிவு பிழை:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "உங்கள் விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "சர்வர் திரும்பிய பிழை:"
+
+msgid "Save"
+msgstr "சேமிக்கவும்"
+
+msgid "Select"
+msgstr "தேர்ந்தெடு"
+
+msgid "Services Player Reference type"
+msgstr "சேவைகள் பிளேயர் குறிப்பு வகை"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "கடவுச்சொல்லை அமைக்கவும் - tivustream@gmail.com க்கு மின்னஞ்சல் மூலம் கேட்கவும்"
+
+msgid "Set the path Movie folder"
+msgstr "பாதை மூவி கோப்புறையை அமைக்கவும்"
+
+msgid "Set the path to the Cache folder"
+msgstr "கேச் கோப்புறைக்கு பாதையை அமைக்கவும்"
+
+msgid "Settings saved correctly!"
+msgstr "அமைப்புகள் சரியாகச் சேமிக்கப்பட்டன!"
+
+msgid "Streamlink(5002)"
+msgstr "ஸ்ட்ரீம்லிங்க்(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC இல் உருவாக்கப்பட்ட பட்டியல்களில் முகவரிகள் சுதந்திரமாகவும் இலவசமாகவும் உள்ளன\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "வெளியிடப்பட்ட திட்டங்களுக்கான கட்டமைப்பு குறிப்பு சேவையகம்\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "அறியப்படாத பிழை:"
+
+msgid "Update"
+msgstr "புதுப்பிக்கவும்"
+
+msgid "Update Aborted!"
+msgstr "புதுப்பிப்பு நிறுத்தப்பட்டது!"
+
+msgid "You are already downloading!!!"
+msgstr "நீங்கள் ஏற்கனவே பதிவிறக்கம் செய்கிறீர்கள்!!!"
+
+msgid "You are not allowed!"
+msgstr "உங்களுக்கு அனுமதி இல்லை!"
+
+msgid "check SERVER in config"
+msgstr "கட்டமைப்பில் சேவையகத்தை சரிபார்க்கவும்"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "எந்த நீரோடை/ஓட்டத்திற்கும் ஆதாரமாக இல்லை.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "அது எந்த நீரோட்டத்திற்கும் ஆதாரம் அல்ல.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "நிகரமானது மற்றும் சந்தா அல்லது சந்தா மூலம் பாதுகாக்கப்படவில்லை.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "ஆன்லைனில் கண்டறியப்பட்டது மற்றும் சந்தா அல்லது சந்தா மூலம் பாதுகாக்கப்படவில்லை.\n"

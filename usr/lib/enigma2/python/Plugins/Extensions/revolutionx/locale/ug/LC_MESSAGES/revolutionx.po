@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:03+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uighur\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "% d نىڭ% d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+ WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG + \ n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= قوللاش: ========== \ n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== WELCOME ========== \ n"
+
+msgid "========================================\n"
+msgstr "======================================== \ n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "بۇ تىزىملىكلەرنى ئىجازەتسىز ئىشلىتىش چەكلەنگەن \ n"
+
+msgid "All cache fold are empty!"
+msgstr "بارلىق غەملەك قاتلىمى قۇرۇق!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "بۇ تىزىملىكلەرنى رۇخسەتسىز ئىشلىتىش تامامەن چەكلەنگەن. \ N."
+
+msgid "Back"
+msgstr "قايتىش"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP سومكىسىنى ئوقۇيالمايسىز:"
+
+msgid "Cache folder"
+msgstr "ساقلىغۇچ قىسقۇچ"
+
+msgid "Cancel"
+msgstr "بىكار قىلىش"
+
+msgid "Cancel execution?"
+msgstr "ئىجرا قىلىشنى ئەمەلدىن قالدۇرامسىز؟"
+
+msgid "Choice"
+msgstr "تاللاش"
+
+msgid "Choose Directory"
+msgstr "مۇندەرىجىنى تاللاڭ"
+
+msgid "Choose Directory:"
+msgstr "مۇندەرىجىنى تاللاڭ:"
+
+msgid "Close"
+msgstr "تاقاش"
+
+msgid "Configure Service Player Reference"
+msgstr "مۇلازىمەت قويغۇچ پايدىلىنىشىنى تەڭشەش"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "مۇبارەك بولسۇن! سىزدە ئەڭ يېڭى نەشرى بار ..."
+
+msgid "Console"
+msgstr ""
+
+msgid "DISCLAIMER: \n"
+msgstr "DISCLAIMER: \ n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "چۈشۈرۈلگەن ھۆججەتلەر:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ھازىر يېڭىلاش (% s) نى قاچىلىماقچىمۇ؟"
+
+msgid "Do you want to remove %s ?"
+msgstr "% S نى ئۆچۈرمەكچىمۇ؟"
+
+msgid "Download Failed !!"
+msgstr "چۈشۈرۈش مەغلۇب بولدى !!"
+
+msgid "Download Failed!!!"
+msgstr "چۈشۈرۈش مەغلۇب بولدى !!!"
+
+msgid "Download..."
+msgstr "چۈشۈرۈش ..."
+
+msgid "Downloading"
+msgstr "چۈشۈرۈش"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb (1)"
+
+msgid "Empty Cache"
+msgstr "بوش كەش"
+
+msgid "Exit"
+msgstr "چىقىش"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "ھۆججەت چۈشۈرۈلدى ..."
+
+msgid "Finished"
+msgstr "تاماملاندى"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "ھۆججەت قىسقۇچ كىنو يولى (مەسىلەن: / media / hdd / movie) ، OK نى بېسىڭ - Enigma نى قايتا قوزغىتىش تەلەپ قىلىنىدۇ"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "يوشۇرۇش / كۆرسىتىش"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "ئېلان قىلىنغان تۈرلەرنىڭ قۇرۇلما پايدىلىنىش مۇلازىمىتىرى \ n"
+
+msgid "Install Streamlink first"
+msgstr "ئالدى بىلەن Streamlink نى قاچىلاڭ"
+
+msgid "Is Directory or file not exist"
+msgstr "مۇندەرىجە ياكى ھۆججەت مەۋجۇت ئەمەس"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "مەخسۇس HOC قۇرغان تىزىملىكتە ئادرېسلار ھەقسىز ۋە ھەقسىز"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "كىنو چۈشۈرۈش مەغلۇب بولدى!"
+
+msgid "Movie"
+msgstr ""
+
+msgid "NOTA BENE:\n"
+msgstr "ئەسكەرتىش: \ n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "پەقەت VOD فىلىمى رۇخسەت قىلىنغان ياكى رۇخسەت قىلىنمىغان."
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "بولمىسا مېنىڭ قىستۇرما Freearhey نى ئىشلىتىڭ"
+
+msgid "Personal Password"
+msgstr "شەخسىي پارول"
+
+msgid "Please select ..."
+msgstr "تاللاڭ ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Ok كۇنۇپكىسىنى بېسىپ رەسىملىك ​​ھۆججەتلەرنى ئۆز ئىچىگە ئالغان ھۆججەت قىسقۇچنى تاللاڭ"
+
+msgid "Really close without saving settings?"
+msgstr "تەڭشەكلەرنى ساقلىماي راستىنلا تاقامسىز؟"
+
+msgid "Remove"
+msgstr "ئۆچۈرۈڭ"
+
+msgid "Restart"
+msgstr "قايتا قوزغىتىڭ"
+
+msgid "SEGMENTATION FAULT:"
+msgstr ""
+
+msgid "SELECT YOUR CHOICE"
+msgstr "تاللىشىڭىزنى تاللاڭ"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "مۇلازىمەتچى قايتىپ كەلگەن خاتالىق:"
+
+msgid "Save"
+msgstr "ساقلاش"
+
+msgid "Select"
+msgstr "تاللاڭ"
+
+msgid "Services Player Reference type"
+msgstr "مۇلازىمەت قويغۇچ پايدىلىنىش تىپى"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "پارول بەلگىلەڭ - tivustream@gmail.com غا ئېلخەت ئارقىلىق سوراڭ"
+
+msgid "Set the path Movie folder"
+msgstr "يول ھۆججەت قىسقۇچىنى بەلگىلەڭ"
+
+msgid "Set the path to the Cache folder"
+msgstr "Cache ھۆججەت قىسقۇچىغا يول بەلگىلەڭ"
+
+msgid "Settings saved correctly!"
+msgstr "تەڭشەكلەر توغرا ساقلاندى!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC دا قۇرۇلغان تىزىملىكتە ئەركىن ۋە ئەركىن تېپىلغان ئادرېسلار بار"
+
+msgid "The structural reference server for projects released\n"
+msgstr "ئېلان قىلىنغان تۈرلەرنىڭ قۇرۇلما پايدىلىنىش مۇلازىمىتىرى \ n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "نامەلۇم خاتالىق:"
+
+msgid "Update"
+msgstr "يېڭىلاش"
+
+msgid "Update Aborted!"
+msgstr "يېڭىلانغان ئەمەلدىن قالدۇرۇلدى!"
+
+msgid "You are already downloading!!!"
+msgstr "ئاللىبۇرۇن چۈشۈرۈۋاتىسىز !!!"
+
+msgid "You are not allowed!"
+msgstr "رۇخسەت قىلىنمايدۇ!"
+
+msgid "check SERVER in config"
+msgstr "سەپلىمىسىدىكى SERVER نى تەكشۈرۈڭ"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ھېچقانداق ئېقىن / ئېقىننىڭ مەنبەسى ئەمەس. \ n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ئۇ ھېچقانداق ئېقىننىڭ مەنبەسى ئەمەس. \ n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "تور ۋە مۇشتەرىلىك ياكى مۇشتەرىلىك بىلەن قوغدالمايدۇ. \ n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "توردا تېپىلدى ، مۇشتەرىلىك ياكى مۇشتەرىلىك بىلەن قوغدالمىدى. \ n"

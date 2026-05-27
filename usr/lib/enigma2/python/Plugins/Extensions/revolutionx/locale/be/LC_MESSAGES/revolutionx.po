@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:59+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Belarusian <debian-l10n-belarusian@lists.debian.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d з %d кбайт"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ПАДТРЫМКА НА: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== ВІТАЕМ ==========\n"
+
+msgid "========================================\n"
+msgstr "==========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Катэгарычна ЗАБАРОНЕНА выкарыстоўваць гэтыя спісы без дазволу\n"
+
+msgid "All cache fold are empty!"
+msgstr "Усе кэшы пустыя!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Катэгарычна ЗАБАРОНЕНА выкарыстоўваць гэтыя спісы без дазволу.\n"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "НЕ МОЖА ПРАЧЫТАЦЬ ПАКЕТ RTMP:"
+
+msgid "Cache folder"
+msgstr "Тэчка кэша"
+
+msgid "Cancel"
+msgstr "Адмяніць"
+
+msgid "Cancel execution?"
+msgstr "Адмяніць выкананне?"
+
+msgid "Choice"
+msgstr "Выбар"
+
+msgid "Choose Directory"
+msgstr "Выберыце Каталог"
+
+msgid "Choose Directory:"
+msgstr "Выберыце каталог:"
+
+msgid "Close"
+msgstr "Блізка"
+
+msgid "Configure Service Player Reference"
+msgstr "Наладзьце даведку пра прайгравальнік службы"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Віншую! У вас ужо ёсць апошняя версія..."
+
+msgid "Console"
+msgstr "Кансоль"
+
+msgid "DISCLAIMER: \n"
+msgstr "АДМОВА АД АДКАЗНАСЦІ: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "СПАМПУВАНЫ ФАЙЛ ПАКАРУЖАНЫ:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Вы хочаце ўсталяваць абнаўленне ( %s ) зараз?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Вы хочаце выдаліць %s?"
+
+msgid "Download Failed !!"
+msgstr "Памылка спампоўкі!!"
+
+msgid "Download Failed!!!"
+msgstr "Памылка спампоўкі!!!"
+
+msgid "Download..."
+msgstr "Спампаваць..."
+
+msgid "Downloading"
+msgstr "Ідзе загрузка"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "DVB (1)"
+
+msgid "Empty Cache"
+msgstr "Ачысціць кэш"
+
+msgid "Exit"
+msgstr "Выхад"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Файл спампаваны..."
+
+msgid "Finished"
+msgstr "Скончана"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Папка Шлях да фільма (напрыклад: /media/hdd/movie), націсніце OK - патрабуецца перазапуск Enigma"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Схаваць/паказаць"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Структурны эталонны сервер для выпушчаных праектаў\n"
+
+msgid "Install Streamlink first"
+msgstr "Спачатку ўсталюйце Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Дырэкторыя або файл не існуюць"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Спісы, створаныя спецыяльна для HOC, утрымліваюць адрасы свабодна і бясплатна\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "СПАМПУВАННЕ ФІЛЬМА НЕ ПАДАЛОША!"
+
+msgid "Movie"
+msgstr "Фільм"
+
+msgid "NOTA BENE:\n"
+msgstr "УВАГА:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Дазволены толькі фільмы VOD або не .ext Filtered!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "У адваротным выпадку выкарыстоўвайце мой убудова Freearhey"
+
+msgid "Personal Password"
+msgstr "Асабісты пароль"
+
+msgid "Please select ..."
+msgstr "Калі ласка, абярыце..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Націсніце Ok, каб выбраць папку з файламі picons"
+
+msgid "Really close without saving settings?"
+msgstr "Сапраўды закрыць без захавання налад?"
+
+msgid "Remove"
+msgstr "Выдаліць"
+
+msgid "Restart"
+msgstr "Перазапуск"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ПАМЫЛКА СЕГМЕНТАЦЫІ:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ВЫБЕРЫ СВОЙ ВЫБАР"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "ПАМЫЛКА СЕРВЕРА:"
+
+msgid "Save"
+msgstr "Захаваць"
+
+msgid "Select"
+msgstr "Выберыце"
+
+msgid "Services Player Reference type"
+msgstr "Паслугі Тып даведкі прайгравальніка"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Усталюйце пароль - запытайце па электроннай пошце tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Усталюйце шлях да папкі Movie"
+
+msgid "Set the path to the Cache folder"
+msgstr "Задайце шлях да тэчцы Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Налады захаваны правільна!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Спісы, створаныя ў HOC, утрымліваюць адрасы, якія можна свабодна знайсці на\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Выпушчаны структурны эталонны сервер для праектаў\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "НЕВЯДОМАЯ ПАМЫЛКА:"
+
+msgid "Update"
+msgstr "Абнаўленне"
+
+msgid "Update Aborted!"
+msgstr "Абнаўленне спынена!"
+
+msgid "You are already downloading!!!"
+msgstr "Вы ўжо спампоўваеце!!!"
+
+msgid "You are not allowed!"
+msgstr "Вам не дазволена!"
+
+msgid "check SERVER in config"
+msgstr "праверце СЕРВЕР у канфігурацыі"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "не з'яўляецца крыніцай ніякай плыні/плыні.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "гэта не крыніца ніякай плыні.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "сеткі і не абаронены падпіскай або падпіскай.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "знойдзены ў інтэрнэце і не абаронены падпіскай або падпіскай.\n"

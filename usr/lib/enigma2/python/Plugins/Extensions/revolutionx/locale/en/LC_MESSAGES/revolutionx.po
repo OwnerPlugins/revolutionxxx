@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:07+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d of %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "=======     SUPPORT ON:   ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "========       WELCOME     ==========\n"
+
+msgid "========================================\n"
+msgstr "========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Absolutely PROHIBITED to use this lists without authorization\n"
+
+msgid "All cache fold are empty!"
+msgstr "All cache fold are empty!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "COULD NOT READ RTMP PACKET:"
+
+msgid "Cache folder"
+msgstr "Cache folder"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cancel execution?"
+msgstr "Cancel execution?"
+
+msgid "Choice"
+msgstr "Choice"
+
+msgid "Choose Directory"
+msgstr "Choose Directory"
+
+msgid "Choose Directory:"
+msgstr "Choose Directory:"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Configure Service Player Reference"
+msgstr "Configure Service Player Reference"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Congrats! You already have the latest version..."
+
+msgid "Console"
+msgstr "Console"
+
+msgid "DISCLAIMER: \n"
+msgstr "DISCLAIMER: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "DOWNLOADED FILE CORRUPTED:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Do you want to install update ( %s ) now?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Do you want to remove %s ?"
+
+msgid "Download Failed !!"
+msgstr "Download Failed !!"
+
+msgid "Download Failed!!!"
+msgstr "Download Failed!!!"
+
+msgid "Download..."
+msgstr "Download..."
+
+msgid "Downloading"
+msgstr "Downloading"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer(8193)"
+
+msgid "Dvb(1)"
+msgstr "Dvb(1)"
+
+msgid "Empty Cache"
+msgstr "Empty Cache"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "File Downloaded ..."
+
+msgid "Finished"
+msgstr "Finished"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer(5001)"
+
+msgid "Hide/Show"
+msgstr "Hide/Show"
+
+msgid "IPTV(4097)"
+msgstr "IPTV(4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Il server di riferimento strutturale ai progetti rilasciati\n"
+
+msgid "Install Streamlink first"
+msgstr "Install Streamlink first"
+
+msgid "Is Directory or file not exist"
+msgstr "Is Directory or file not exist"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "MOVIE DOWNLOAD FAILED!"
+
+msgid "Movie"
+msgstr "Movie"
+
+msgid "NOTA BENE:\n"
+msgstr "NOTA BENE:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Only VOD Movie allowed or not .ext Filtered!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Otherwise Use my Plugin Freearhey"
+
+msgid "Personal Password"
+msgstr "Personal Password"
+
+msgid "Please select ..."
+msgstr "Please select ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Press Ok to select the folder containing the picons files"
+
+msgid "Really close without saving settings?"
+msgstr "Really close without saving settings?"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Restart"
+msgstr "Restart"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTATION FAULT:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "SELECT YOUR CHOICE"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVER RETURNED ERROR:"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Services Player Reference type"
+msgstr "Services Player Reference type"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Set Password - ask by email to tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Set the path Movie folder"
+
+msgid "Set the path to the Cache folder"
+msgstr "Set the path to the Cache folder"
+
+msgid "Settings saved correctly!"
+msgstr "Settings saved correctly!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "The lists created at HOC contain addresses freely and freely found on\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "The structural reference server for projects released\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "UNKNOWN ERROR:"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update Aborted!"
+msgstr "Update Aborted!"
+
+msgid "You are already downloading!!!"
+msgstr "You are already downloading!!!"
+
+msgid "You are not allowed!"
+msgstr "You are not allowed!"
+
+msgid "check SERVER in config"
+msgstr "check SERVER in config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "is not a source of any stream/flow.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "non e' fonte di alcun stream/flusso.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "the net and not protected by subscription or subscription.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"

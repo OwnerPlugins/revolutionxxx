@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:14+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d de %d kBeit"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "====== TACAÍOCHT AR: =========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======= FÁILTE =========\n"
+
+msgid "========================================\n"
+msgstr "================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Go hiomlán TOSCAIR na liostaí seo a úsáid gan údarú\n"
+
+msgid "All cache fold are empty!"
+msgstr "Tá gach fillte taisce folamh!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Tá sé toirmiscthe go hiomlán na liostaí seo a úsáid gan chead.\n"
+
+msgid "Back"
+msgstr "Ar ais"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "Níorbh fhéidir paicéad RTMP a léamh:"
+
+msgid "Cache folder"
+msgstr "Fillteán taisce"
+
+msgid "Cancel"
+msgstr "Cealaigh"
+
+msgid "Cancel execution?"
+msgstr "Cealaigh an fhorghníomhú?"
+
+msgid "Choice"
+msgstr "Rogha"
+
+msgid "Choose Directory"
+msgstr "Roghnaigh Eolaire"
+
+msgid "Choose Directory:"
+msgstr "Roghnaigh Eolaire:"
+
+msgid "Close"
+msgstr "Dún"
+
+msgid "Configure Service Player Reference"
+msgstr "Cumraigh Tagairt Imreoir Seirbhíse"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Comhghairdeachas! Tá an leagan is déanaí agat cheana féin..."
+
+msgid "Console"
+msgstr "Consól"
+
+msgid "DISCLAIMER: \n"
+msgstr "SÉANADH: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "COMHAD Íoslódáilte truaillithe:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ar mhaith leat nuashonrú ( % s ) a shuiteáil anois?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Ar mhaith leat %s a bhaint ?"
+
+msgid "Download Failed !!"
+msgstr "Theip ar Íoslódáil!!"
+
+msgid "Download Failed!!!"
+msgstr "Theip ar Íoslódáil!!!"
+
+msgid "Download..."
+msgstr "Íosluchtaigh..."
+
+msgid "Downloading"
+msgstr "Ag íosluchtú"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr "dvb(1)"
+
+msgid "Empty Cache"
+msgstr "Taisce Folamh"
+
+msgid "Exit"
+msgstr "Scoir"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Comhad Íosluchtaithe..."
+
+msgid "Finished"
+msgstr "Críochnaithe"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Fillteán Conair Scannán (m.sh.: /media/hdd/movie), Brúigh OK - Enigma atosú ag teastáil"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Folaigh/Taispeáin"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "An freastalaí tagartha struchtúrach do thionscadail eisithe\n"
+
+msgid "Install Streamlink first"
+msgstr "Suiteáil Streamlink ar dtús"
+
+msgid "Is Directory or file not exist"
+msgstr "Nach bhfuil Eolaire nó comhad ann"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Sna liostaí a cruthaíodh go sonrach HOC tá seoltaí atá saor agus saor in aisce\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "Theip ar Íoslódáil Scannán!"
+
+msgid "Movie"
+msgstr "Scannán"
+
+msgid "NOTA BENE:\n"
+msgstr "TABHAIR FAOI DEARA:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Scannán VOD amháin a cheadaítear nó nach bhfuil .ext Scagtha!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Seachas sin Úsáid mo Bhreiseán Freearhey"
+
+msgid "Personal Password"
+msgstr "Pasfhocal Pearsanta"
+
+msgid "Please select ..."
+msgstr "Roghnaigh le do thoil ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Brúigh OK chun an fillteán ina bhfuil na comhaid picons a roghnú"
+
+msgid "Really close without saving settings?"
+msgstr "Dún i ndáiríre gan socruithe a shábháil?"
+
+msgid "Remove"
+msgstr "Bain"
+
+msgid "Restart"
+msgstr "Atosaigh"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "LUCHT DEARASCÁIL:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ROGHNAIGH DO ROGHA"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "EARRÁID AR AIS TUAIRISCEADH:"
+
+msgid "Save"
+msgstr "Sábháil"
+
+msgid "Select"
+msgstr "Roghnaigh"
+
+msgid "Services Player Reference type"
+msgstr "Seinnteoir Seirbhísí Cineál tagartha"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Socraigh Pasfhocal - iarr ar ríomhphost chuig tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Socraigh an fillteán Scannán cosán"
+
+msgid "Set the path to the Cache folder"
+msgstr "Socraigh an cosán go dtí an fillteán Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Socruithe sábháilte i gceart!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Sna liostaí a cruthaíodh ag HOC tá seoltaí atá le fáil go héasca ar\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "An freastalaí tagartha struchtúrach do thionscadail eisithe\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "EARRÁID ANAIS:"
+
+msgid "Update"
+msgstr "Nuashonrú"
+
+msgid "Update Aborted!"
+msgstr "Tobscoireadh an Nuashonrú!"
+
+msgid "You are already downloading!!!"
+msgstr "Tá tú ag íoslódáil cheana féin!!!"
+
+msgid "You are not allowed!"
+msgstr "Níl cead agat!"
+
+msgid "check SERVER in config"
+msgstr "seiceáil SERVER i config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "nach foinse sruth/sreafa ar bith é.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ní foinse sruth ar bith é.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "an glan agus níl sé cosanta ag síntiús nó suibscríbhinn.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "le fáil ar líne agus níl sé cosanta ag síntiús nó síntiús.\n"

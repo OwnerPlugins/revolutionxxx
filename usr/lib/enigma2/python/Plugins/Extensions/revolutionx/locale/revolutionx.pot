@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ekekaz@gmail.com [lululla]\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "%d of %d kBytes"
+msgstr ""
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr ""
+
+msgid "========       WELCOME     ==========\n"
+msgstr ""
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr ""
+
+msgid "All cache fold are empty!"
+msgstr ""
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr ""
+
+msgid "Cache folder"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel execution?"
+msgstr ""
+
+msgid "Choice"
+msgstr ""
+
+msgid "Choose Directory"
+msgstr ""
+
+msgid "Choose Directory:"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Configure Service Player Reference"
+msgstr ""
+
+msgid "Congrats! You already have the latest version..."
+msgstr ""
+
+msgid "Console"
+msgstr ""
+
+msgid "DISCLAIMER: \n"
+msgstr ""
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr ""
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr ""
+
+msgid "Do you want to remove %s ?"
+msgstr ""
+
+msgid "Download Failed !!"
+msgstr ""
+
+msgid "Download Failed!!!"
+msgstr ""
+
+msgid "Download..."
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr ""
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr ""
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr ""
+
+msgid "Install Streamlink first"
+msgstr ""
+
+msgid "Is Directory or file not exist"
+msgstr ""
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr ""
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr ""
+
+msgid "Movie"
+msgstr ""
+
+msgid "NOTA BENE:\n"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr ""
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr ""
+
+msgid "Personal Password"
+msgstr ""
+
+msgid "Please select ..."
+msgstr ""
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr ""
+
+msgid "Really close without saving settings?"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "SEGMENTATION FAULT:"
+msgstr ""
+
+msgid "SELECT YOUR CHOICE"
+msgstr ""
+
+msgid "SERVER RETURNED ERROR:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr ""
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr ""
+
+msgid "Set the path Movie folder"
+msgstr ""
+
+msgid "Set the path to the Cache folder"
+msgstr ""
+
+msgid "Settings saved correctly!"
+msgstr ""
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr ""
+
+msgid "The structural reference server for projects released\n"
+msgstr ""
+
+msgid "UNKNOWN ERROR:"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update Aborted!"
+msgstr ""
+
+msgid "You are already downloading!!!"
+msgstr ""
+
+msgid "You are not allowed!"
+msgstr ""
+
+msgid "check SERVER in config"
+msgstr ""
+
+msgid "is not a source of any stream/flow.\n"
+msgstr ""
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr ""
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr ""
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr ""

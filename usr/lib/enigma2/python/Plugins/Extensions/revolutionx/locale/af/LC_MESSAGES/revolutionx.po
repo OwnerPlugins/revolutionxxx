@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:55+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d van %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ONDERSTEUNING AAN: ===========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== WELKOM ===========\n"
+
+msgid "========================================\n"
+msgstr "============================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Absoluut VERBOD om hierdie lyste sonder magtiging te gebruik\n"
+
+msgid "All cache fold are empty!"
+msgstr "Alle kasvou is leeg!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Dit is absoluut VERBOD om hierdie lyste sonder toestemming te gebruik.\n"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "KON NIE RTMP-PAKKET LEES NIE:"
+
+msgid "Cache folder"
+msgstr "Cache-lêergids"
+
+msgid "Cancel"
+msgstr "Kanselleer"
+
+msgid "Cancel execution?"
+msgstr "Kanselleer uitvoering?"
+
+msgid "Choice"
+msgstr "Keuse"
+
+msgid "Choose Directory"
+msgstr "Kies Gids"
+
+msgid "Choose Directory:"
+msgstr "Kies gids:"
+
+msgid "Close"
+msgstr "Maak toe"
+
+msgid "Configure Service Player Reference"
+msgstr "Stel diensspelerverwysing op"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Geluk! Jy het reeds die nuutste weergawe..."
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "DISCLAIMER: \n"
+msgstr "VRYWARING: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "AFGELAAI LêER BESKORUP:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Wil jy nou opdatering ( %s ) installeer?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Wil jy %s verwyder?"
+
+msgid "Download Failed !!"
+msgstr "Aflaai het misluk!!"
+
+msgid "Download Failed!!!"
+msgstr "Aflaai het misluk!!!"
+
+msgid "Download..."
+msgstr "Laai af..."
+
+msgid "Downloading"
+msgstr "Laai tans af"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Leë kas"
+
+msgid "Exit"
+msgstr "Verlaat"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Lêer afgelaai ..."
+
+msgid "Finished"
+msgstr "Klaar"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Folder Movie Path (bv.: /media/hdd/movie), Druk OK - Enigma herbegin vereis"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Versteek/Wys"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Die strukturele verwysingsbediener vir vrygestelde projekte\n"
+
+msgid "Install Streamlink first"
+msgstr "Installeer eers Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Is Gids of lêer nie bestaan ​​nie"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Die lyste wat spesifiek HOC geskep is, bevat adresse gratis en gratis\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "FILM AFLAAI HET MISLUUK!"
+
+msgid "Movie"
+msgstr "Fliek"
+
+msgid "NOTA BENE:\n"
+msgstr "LET WEL:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Slegs VOD-fliek toegelaat of nie .ext gefiltreer nie!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Andersins Gebruik my Plugin Freearhey"
+
+msgid "Personal Password"
+msgstr "Persoonlike wagwoord"
+
+msgid "Please select ..."
+msgstr "Kies asseblief..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Druk Ok om die vouer te kies wat die picons-lêers bevat"
+
+msgid "Really close without saving settings?"
+msgstr "Regtig toemaak sonder om instellings te stoor?"
+
+msgid "Remove"
+msgstr "Verwyder"
+
+msgid "Restart"
+msgstr "Herbegin"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTASIEFOUT:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "KIES JOU KEUSE"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "FOUT VOOR TERUGGEKEERDE bediener:"
+
+msgid "Save"
+msgstr "Stoor"
+
+msgid "Select"
+msgstr "Kies"
+
+msgid "Services Player Reference type"
+msgstr "Dienste Speler Verwysing tipe"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Stel wagwoord - vra per e-pos na tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Stel die pad Movie-lêergids"
+
+msgid "Set the path to the Cache folder"
+msgstr "Stel die pad na die Cache-lêergids"
+
+msgid "Settings saved correctly!"
+msgstr "Instellings is korrek gestoor!"
+
+msgid "Streamlink(5002)"
+msgstr "Stroomskakel (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Die lyste wat by HOC geskep is, bevat adresse wat vrylik en vrylik gevind kan word op\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Die strukturele verwysingsbediener vir projekte wat vrygestel is\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "ONBEKENDE FOUT:"
+
+msgid "Update"
+msgstr "Dateer op"
+
+msgid "Update Aborted!"
+msgstr "Opdatering afgelas!"
+
+msgid "You are already downloading!!!"
+msgstr "Jy laai reeds af!!!"
+
+msgid "You are not allowed!"
+msgstr "Jy word nie toegelaat nie!"
+
+msgid "check SERVER in config"
+msgstr "kontroleer SERVER in config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "is nie 'n bron van enige stroom/vloei nie.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "dit is nie die bron van enige stroom nie.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "die net en nie deur intekening of intekening beskerm nie.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "aanlyn gevind en nie deur intekening of intekening beskerm nie.\n"

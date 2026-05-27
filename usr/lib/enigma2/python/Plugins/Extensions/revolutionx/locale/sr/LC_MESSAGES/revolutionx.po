@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:52+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%д од %д кбајта"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr "+ВВВ.ТИВУСТРЕАМ.ЦОМ - ВВВ.ЦОРВОБОИС.ОРГ+\н"
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ПОДРШКА УКЉУЧЕНА: ===========\н"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== ДОБРОДОШЛИ ============\н"
+
+msgid "========================================\n"
+msgstr "==========================================\н"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Апсолутно ЗАБРАЊЕНО користити ове листе без овлашћења\н"
+
+msgid "All cache fold are empty!"
+msgstr "Сви кеш преклопници су празни!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Апсолутно је ЗАБРАЊЕНО користити ове листе без дозволе.\н"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "НИЈЕ МОГАО ПРОЧИТАТИ РТМП ПАКЕТ:"
+
+msgid "Cache folder"
+msgstr "Кеш фолдер"
+
+msgid "Cancel"
+msgstr "Откажи"
+
+msgid "Cancel execution?"
+msgstr "Отказати извршење?"
+
+msgid "Choice"
+msgstr "Избор"
+
+msgid "Choose Directory"
+msgstr "Изаберите Именик"
+
+msgid "Choose Directory:"
+msgstr "Изаберите именик:"
+
+msgid "Close"
+msgstr "Затвори"
+
+msgid "Configure Service Player Reference"
+msgstr "Конфигуришите референцу за сервисни плејер"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Цонгратс! Већ имате најновију верзију..."
+
+msgid "Console"
+msgstr "Конзола"
+
+msgid "DISCLAIMER: \n"
+msgstr "ОДДРИЦАЊЕ ОДГОВОРНОСТИ: \н"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ПРЕУЗЕТА ДАТОТЕКА ОШТЕЋЕНА:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Да ли желите да инсталирате ажурирање ( %с ) сада?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Да ли желите да уклоните %с?"
+
+msgid "Download Failed !!"
+msgstr "Преузимање није успело!!"
+
+msgid "Download Failed!!!"
+msgstr "Преузимање није успело!!!"
+
+msgid "Download..."
+msgstr "Преузми..."
+
+msgid "Downloading"
+msgstr "Преузимање"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "ДреамОС ГСтреамер(8193)"
+
+msgid "Dvb(1)"
+msgstr "Двб(1)"
+
+msgid "Empty Cache"
+msgstr "Емпти Цацхе"
+
+msgid "Exit"
+msgstr "Изађи"
+
+msgid "Exteplayer3(5002)"
+msgstr "Ектеплаиер3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "Фајл преузет..."
+
+msgid "Finished"
+msgstr "Завршено"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Путања до фасцикле филма (нпр.: /медиа/хдд/мовие), притисните ОК - потребно је поновно покретање Енигме"
+
+msgid "Gstreamer(5001)"
+msgstr "Гстреамер(5001)"
+
+msgid "Hide/Show"
+msgstr "Сакриј/Прикажи"
+
+msgid "IPTV(4097)"
+msgstr "ИПТВ(4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Структурни референтни сервер за објављене пројекте\н"
+
+msgid "Install Streamlink first"
+msgstr "Прво инсталирајте Стреамлинк"
+
+msgid "Is Directory or file not exist"
+msgstr "Да ли директоријум или датотека не постоји"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Листе креиране посебно ХОЦ садрже адресе слободно и бесплатно\н"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ПРЕУЗИМАЊЕ ФИЛМОВА НЕУСПЕШНО!"
+
+msgid "Movie"
+msgstr "Филм"
+
+msgid "NOTA BENE:\n"
+msgstr "НАПОМЕНА:\н"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Дозвољен или не само ВОД филм .ект Филтеред!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "У супротном користите мој додатак Фрееархеи"
+
+msgid "Personal Password"
+msgstr "Персонал Пассворд"
+
+msgid "Please select ..."
+msgstr "Молимо изаберите..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Притисните Ок да бисте изабрали фасциклу која садржи датотеке са сликама"
+
+msgid "Really close without saving settings?"
+msgstr "Стварно затворите без чувања подешавања?"
+
+msgid "Remove"
+msgstr "Уклони"
+
+msgid "Restart"
+msgstr "Поново покрени"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ГРЕШКА СЕГМЕНТАЦИЈЕ:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ИЗАБЕРИТЕ СВОЈ ИЗБОР"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "СЕРВЕР ЈЕ ВРАЋАО ГРЕШКУ:"
+
+msgid "Save"
+msgstr "Сачувај"
+
+msgid "Select"
+msgstr "Изаберите"
+
+msgid "Services Player Reference type"
+msgstr "Сервицес Плаиер Тип референце"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Поставите лозинку - питајте е-поштом на тивустреам@гмаил.цом"
+
+msgid "Set the path Movie folder"
+msgstr "Подесите путању фолдера Филм"
+
+msgid "Set the path to the Cache folder"
+msgstr "Поставите путању до фасцикле Кеш"
+
+msgid "Settings saved correctly!"
+msgstr "Подешавања су исправно сачувана!"
+
+msgid "Streamlink(5002)"
+msgstr "Стреамлинк(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Листе креиране у ХОЦ-у садрже адресе које се слободно и слободно налазе на\н"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Објављен структурални референтни сервер за пројекте\н"
+
+msgid "UNKNOWN ERROR:"
+msgstr "НЕПОЗНАТА ГРЕШКА:"
+
+msgid "Update"
+msgstr "Ажурирај"
+
+msgid "Update Aborted!"
+msgstr "Ажурирање је прекинуто!"
+
+msgid "You are already downloading!!!"
+msgstr "Већ преузимате!!!"
+
+msgid "You are not allowed!"
+msgstr "Није вам дозвољено!"
+
+msgid "check SERVER in config"
+msgstr "проверите СЕРВЕР у конфигурацији"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "није извор било каквог тока/тока.\н"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "није извор ниједног тока.\н"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "мреже и није заштићен претплатом или претплатом.\н"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "пронађено на мрежи и није заштићено претплатом или претплатом.\н"

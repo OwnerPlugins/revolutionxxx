@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:12+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d / %d kilotavua"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= TUKI: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== TERVETULOA ==========\n"
+
+msgid "========================================\n"
+msgstr "==========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Näiden luetteloiden käyttö ilman lupaa ON TÄYSIN KIELLETTY\n"
+
+msgid "All cache fold are empty!"
+msgstr "Kaikki välimuistin kansi ovat tyhjiä!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Näiden listojen käyttö ilman lupaa on TÄYSIN KIELLETTY.\n"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP-PAKETTIA EI VOI LUKEA:"
+
+msgid "Cache folder"
+msgstr "Välimuistikansio"
+
+msgid "Cancel"
+msgstr "Peruuttaa"
+
+msgid "Cancel execution?"
+msgstr "Peruutetaanko suoritus?"
+
+msgid "Choice"
+msgstr "Valinta"
+
+msgid "Choose Directory"
+msgstr "Valitse Hakemisto"
+
+msgid "Choose Directory:"
+msgstr "Valitse hakemisto:"
+
+msgid "Close"
+msgstr "Lähellä"
+
+msgid "Configure Service Player Reference"
+msgstr "Määritä Service Playerin viite"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Onnittelut! Sinulla on jo uusin versio..."
+
+msgid "Console"
+msgstr "Konsoli"
+
+msgid "DISCLAIMER: \n"
+msgstr "VASTUUVAPAUSLAUSEKE: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "LADATTU TIEDOSTO VÄÄRINTYNYT:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Haluatko asentaa päivityksen ( %s ) nyt?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Haluatko poistaa %s?"
+
+msgid "Download Failed !!"
+msgstr "Lataus epäonnistui!!"
+
+msgid "Download Failed!!!"
+msgstr "Lataus epäonnistui!!!"
+
+msgid "Download..."
+msgstr "Lataa..."
+
+msgid "Downloading"
+msgstr "Ladataan"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Tyhjennä välimuisti"
+
+msgid "Exit"
+msgstr "Poistu"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "Tiedosto ladattu..."
+
+msgid "Finished"
+msgstr "Valmis"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Kansion elokuvapolku (esim.: /media/hdd/movie), paina OK - Enigma-uudelleenkäynnistys vaaditaan"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hide/Show"
+msgstr "Piilota/Näytä"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Rakenteellinen viitepalvelin julkaistuille projekteille\n"
+
+msgid "Install Streamlink first"
+msgstr "Asenna Streamlink ensin"
+
+msgid "Is Directory or file not exist"
+msgstr "Onko hakemistoa tai tiedostoa ei ole olemassa"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Erityisesti HOC:lle luodut listat sisältävät osoitteita vapaasti ja maksutta\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ELOKUVAN LATAUS EPÄONNISTUI!"
+
+msgid "Movie"
+msgstr "Elokuva"
+
+msgid "NOTA BENE:\n"
+msgstr "HUOMAA:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Vain VOD-elokuva sallittu tai ei .ext Filtered!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Muussa tapauksessa käytä lisäosaani Freearhey"
+
+msgid "Personal Password"
+msgstr "Henkilökohtainen salasana"
+
+msgid "Please select ..."
+msgstr "Ole hyvä ja valitse..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Paina Ok valitaksesi picon-tiedostot sisältävän kansion"
+
+msgid "Really close without saving settings?"
+msgstr "Suljetko todella tallentamatta asetuksia?"
+
+msgid "Remove"
+msgstr "Poistaa"
+
+msgid "Restart"
+msgstr "Käynnistä uudelleen"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTOINTIVIKA:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "VALITSE VALINTASI"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "PALVELIN PALAUTETTU VIRHE:"
+
+msgid "Save"
+msgstr "Tallentaa"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "Services Player Reference type"
+msgstr "Palvelut Playerin viitetyyppi"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Aseta salasana - kysy sähköpostitse osoitteeseen tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Aseta polku Elokuvakansio"
+
+msgid "Set the path to the Cache folder"
+msgstr "Aseta polku välimuistikansioon"
+
+msgid "Settings saved correctly!"
+msgstr "Asetukset tallennettu oikein!"
+
+msgid "Streamlink(5002)"
+msgstr "Suoratoistolinkki (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC:ssa luodut listat sisältävät osoitteita, jotka ovat vapaasti ja vapaasti löydettävissä\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Projektien rakenteellinen viitepalvelin julkaistu\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "TUNTEMATON VIRHE:"
+
+msgid "Update"
+msgstr "Päivittää"
+
+msgid "Update Aborted!"
+msgstr "Päivitys keskeytetty!"
+
+msgid "You are already downloading!!!"
+msgstr "Olet jo lataamassa!!!"
+
+msgid "You are not allowed!"
+msgstr "Sinua ei sallita!"
+
+msgid "check SERVER in config"
+msgstr "tarkista PALVELIN asetuksista"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ei ole minkään virran/virran lähde.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "se ei ole minkään virran lähde.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "verkkoon, eikä se ole suojattu tilauksella tai tilauksella.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "löytyy verkosta, eikä sitä ole suojattu tilauksella tai tilauksella.\n"

@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:57+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic <(nothing)>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d من %d كيلو بايت"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= الدعم قيد التشغيل: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== مرحبًا =========\n"
+
+msgid "========================================\n"
+msgstr "\n=============================================================="
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "يُمنع تمامًا استخدام هذه القوائم بدون تصريح\n"
+
+msgid "All cache fold are empty!"
+msgstr "كل طيات ذاكرة التخزين المؤقت فارغة!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "يُمنع تمامًا استخدام هذه القوائم بدون إذن.\n"
+
+msgid "Back"
+msgstr "خلف"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "لا يمكن قراءة حزمة RTMP:"
+
+msgid "Cache folder"
+msgstr "مجلد ذاكرة التخزين المؤقت"
+
+msgid "Cancel"
+msgstr "يلغي"
+
+msgid "Cancel execution?"
+msgstr "إلغاء التنفيذ؟"
+
+msgid "Choice"
+msgstr "خيار"
+
+msgid "Choose Directory"
+msgstr "اختر الدليل"
+
+msgid "Choose Directory:"
+msgstr "اختر الدليل:"
+
+msgid "Close"
+msgstr "يغلق"
+
+msgid "Configure Service Player Reference"
+msgstr "تكوين مرجع مشغل الخدمة"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "تهاني! لديك بالفعل الإصدار الأخير ..."
+
+msgid "Console"
+msgstr "وحدة التحكم"
+
+msgid "DISCLAIMER: \n"
+msgstr "إخلاء المسؤولية: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "الملف الذي تم تنزيله تالف:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "هل تريد تثبيت التحديث ( %s ) الآن؟"
+
+msgid "Do you want to remove %s ?"
+msgstr "هل تريد إزالة %s؟"
+
+msgid "Download Failed !!"
+msgstr "فشل التحميل!!"
+
+msgid "Download Failed!!!"
+msgstr "فشل التحميل!!!"
+
+msgid "Download..."
+msgstr "تحميل..."
+
+msgid "Downloading"
+msgstr "جارٍ التنزيل"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "دريم او اس جي ستريمر(8193)"
+
+msgid "Dvb(1)"
+msgstr "دي في بي(1)"
+
+msgid "Empty Cache"
+msgstr "ذاكرة التخزين المؤقت فارغة"
+
+msgid "Exit"
+msgstr "مخرج"
+
+msgid "Exteplayer3(5002)"
+msgstr "اكستبلاير3(5002)"
+
+msgid "File Downloaded ..."
+msgstr "تم تنزيل الملف..."
+
+msgid "Finished"
+msgstr "انتهى"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "مسار فيلم المجلد (على سبيل المثال: /media/hdd/movie)، اضغط على OK - يلزم إعادة تشغيل Enigma"
+
+msgid "Gstreamer(5001)"
+msgstr "جي ستريمر(5001)"
+
+msgid "Hide/Show"
+msgstr "إخفاء/إظهار"
+
+msgid "IPTV(4097)"
+msgstr "البث التلفزيوني عبر الانترنت(4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "الخادم المرجعي البنيوي للمشاريع التي تم إصدارها\n"
+
+msgid "Install Streamlink first"
+msgstr "قم بتثبيت Streamlink أولاً"
+
+msgid "Is Directory or file not exist"
+msgstr "هل الدليل أو الملف غير موجود"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "تحتوي القوائم التي تم إنشاؤها خصيصًا لـ HOC على عناوين مجانية ومجانية\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "فشل تنزيل الفيلم!"
+
+msgid "Movie"
+msgstr "فيلم"
+
+msgid "NOTA BENE:\n"
+msgstr "الرجاء ملاحظة:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "يُسمح فقط بفيلم VOD أم لا. تمت تصفيته !!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "بخلاف ذلك استخدم البرنامج المساعد Freearhey"
+
+msgid "Personal Password"
+msgstr "كلمة المرور الشخصية"
+
+msgid "Please select ..."
+msgstr "الرجاء التحديد..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "اضغط على "موافق" لتحديد المجلد الذي يحتوي على ملفات picons"
+
+msgid "Really close without saving settings?"
+msgstr "إغلاق حقا دون حفظ الإعدادات؟"
+
+msgid "Remove"
+msgstr "يزيل"
+
+msgid "Restart"
+msgstr "إعادة تشغيل"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "خطأ التقسيم:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "حدد اختيارك"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "خطأ في إرجاع الخادم:"
+
+msgid "Save"
+msgstr "يحفظ"
+
+msgid "Select"
+msgstr "يختار"
+
+msgid "Services Player Reference type"
+msgstr "نوع مرجع مشغل الخدمات"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "قم بتعيين كلمة المرور - اسأل عبر البريد الإلكتروني إلى tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "قم بتعيين مسار مجلد الفيلم"
+
+msgid "Set the path to the Cache folder"
+msgstr "قم بتعيين المسار إلى مجلد ذاكرة التخزين المؤقت"
+
+msgid "Settings saved correctly!"
+msgstr "تم حفظ الإعدادات بشكل صحيح!"
+
+msgid "Streamlink(5002)"
+msgstr "ستريملينك(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "تحتوي القوائم التي تم إنشاؤها في HOC على عناوين يمكن العثور عليها بحرية وعلى\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "الخادم المرجعي البنيوي للمشاريع التي تم إصدارها\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "خطأ غير معروف:"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Update Aborted!"
+msgstr "تم إحباط التحديث!"
+
+msgid "You are already downloading!!!"
+msgstr "أنت تقوم بالتحميل بالفعل !!!"
+
+msgid "You are not allowed!"
+msgstr "غير مسموح لك!"
+
+msgid "check SERVER in config"
+msgstr "تحقق من الخادم في التكوين"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ليس مصدراً لأي دفق/تدفق.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "وهو ليس مصدر أي دفق.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "الشبكة وغير محمية بالاشتراك أو الاشتراك.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "تم العثور عليه عبر الإنترنت وغير محمي بواسطة الاشتراك أو الاشتراك.\n"

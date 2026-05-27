@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:05+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Urdu <jessbody@gmail.com>\n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d میں سے %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= سپورٹ آن: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== خوش آمدید ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "اجازت کے بغیر اس فہرست کو استعمال کرنے کی مکمل ممانعت ہے۔"
+
+msgid "All cache fold are empty!"
+msgstr "تمام کیشے فولڈ خالی ہیں!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "ان فہرستوں کو بغیر اجازت استعمال کرنا قطعی طور پر ممنوع ہے۔\n"
+
+msgid "Back"
+msgstr "پیچھے"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP پیکٹ نہیں پڑھ سکا:"
+
+msgid "Cache folder"
+msgstr "کیشے فولڈر"
+
+msgid "Cancel"
+msgstr "منسوخ کریں۔"
+
+msgid "Cancel execution?"
+msgstr "پھانسی منسوخ کریں؟"
+
+msgid "Choice"
+msgstr "انتخاب"
+
+msgid "Choose Directory"
+msgstr "ڈائرکٹری کا انتخاب کریں۔"
+
+msgid "Choose Directory:"
+msgstr "ڈائرکٹری کا انتخاب کریں:"
+
+msgid "Close"
+msgstr "بند"
+
+msgid "Configure Service Player Reference"
+msgstr "سروس پلیئر کا حوالہ ترتیب دیں۔"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "مبارک ہو! آپ کے پاس پہلے سے ہی تازہ ترین ورژن ہے..."
+
+msgid "Console"
+msgstr "کنسول"
+
+msgid "DISCLAIMER: \n"
+msgstr "دستبرداری: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ڈاؤن لوڈ فائل کرپٹڈ:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "کیا آپ ابھی اپ ڈیٹ (%s) انسٹال کرنا چاہتے ہیں؟"
+
+msgid "Do you want to remove %s ?"
+msgstr "کیا آپ %s کو ہٹانا چاہتے ہیں؟"
+
+msgid "Download Failed !!"
+msgstr "ڈاؤن لوڈ ناکام !!"
+
+msgid "Download Failed!!!"
+msgstr "ڈاؤن لوڈ ناکام!!!"
+
+msgid "Download..."
+msgstr "ڈاؤن لوڈ کریں..."
+
+msgid "Downloading"
+msgstr "ڈاؤن لوڈ ہو رہا ہے۔"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "خالی کیش"
+
+msgid "Exit"
+msgstr "باہر نکلیں۔"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "فائل ڈاؤن لوڈ ہو گئی..."
+
+msgid "Finished"
+msgstr "ختم"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "فولڈر مووی پاتھ (جیسے: /media/hdd/movie)، OK دبائیں - Enigma دوبارہ شروع کرنا ضروری ہے"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "چھپائیں/دکھائیں۔"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "جاری کردہ پروجیکٹس کے لیے ساختی حوالہ سرور\n"
+
+msgid "Install Streamlink first"
+msgstr "پہلے Streamlink انسٹال کریں۔"
+
+msgid "Is Directory or file not exist"
+msgstr "کیا ڈائریکٹری یا فائل موجود نہیں ہے۔"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "خاص طور پر HOC کی بنائی گئی فہرستوں میں پتے آزادانہ اور بلا معاوضہ ہوتے ہیں۔"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "مووی ڈاؤن لوڈ ناکام!"
+
+msgid "Movie"
+msgstr "فلم"
+
+msgid "NOTA BENE:\n"
+msgstr "براہ کرم نوٹ کریں:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "صرف VOD فلم کی اجازت ہے یا نہیں .ext فلٹر شدہ!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "بصورت دیگر میرا پلگ ان Freearhey استعمال کریں۔"
+
+msgid "Personal Password"
+msgstr "ذاتی پاس ورڈ"
+
+msgid "Please select ..."
+msgstr "براہ کرم منتخب کریں..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "پکنز فائلوں پر مشتمل فولڈر کو منتخب کرنے کے لیے اوکے کو دبائیں۔"
+
+msgid "Really close without saving settings?"
+msgstr "سیٹنگز کو محفوظ کیے بغیر واقعی بند کریں؟"
+
+msgid "Remove"
+msgstr "ہٹا دیں۔"
+
+msgid "Restart"
+msgstr "دوبارہ شروع کریں۔"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "تقسیم کی غلطی:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "اپنی پسند کا انتخاب کریں۔"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "سرور نے خرابی واپس کردی:"
+
+msgid "Save"
+msgstr "محفوظ کریں۔"
+
+msgid "Select"
+msgstr "منتخب کریں۔"
+
+msgid "Services Player Reference type"
+msgstr "سروسز پلیئر ریفرنس کی قسم"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "پاس ورڈ سیٹ کریں - tivustream@gmail.com پر ای میل کے ذریعے پوچھیں۔"
+
+msgid "Set the path Movie folder"
+msgstr "پاتھ مووی فولڈر سیٹ کریں۔"
+
+msgid "Set the path to the Cache folder"
+msgstr "کیشے فولڈر کا راستہ سیٹ کریں۔"
+
+msgid "Settings saved correctly!"
+msgstr "ترتیبات کو صحیح طریقے سے محفوظ کیا گیا ہے!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC پر بنائی گئی فہرستوں میں پتے آزادانہ اور آزادانہ طور پر پائے جاتے ہیں\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "جاری کردہ پروجیکٹس کے لیے ساختی حوالہ سرور\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "نامعلوم خرابی:"
+
+msgid "Update"
+msgstr "اپڈیٹ کریں۔"
+
+msgid "Update Aborted!"
+msgstr "اپ ڈیٹ روک دیا گیا!"
+
+msgid "You are already downloading!!!"
+msgstr "آپ پہلے ہی ڈاؤن لوڈ کر رہے ہیں !!!"
+
+msgid "You are not allowed!"
+msgstr "آپ کو اجازت نہیں ہے!"
+
+msgid "check SERVER in config"
+msgstr "ترتیب میں سرور کو چیک کریں۔"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "کسی سلسلہ/بہاؤ کا ذریعہ نہیں ہے۔\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "یہ کسی بھی سلسلے کا ذریعہ نہیں ہے۔\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "نیٹ اور سبسکرپشن یا سبسکرپشن سے محفوظ نہیں ہے۔\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "آن لائن پایا اور سبسکرپشن یا سبسکرپشن سے محفوظ نہیں ہے۔\n"

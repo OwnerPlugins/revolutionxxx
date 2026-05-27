@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:08+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Yiddish\n"
+"Language: yi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d פון %d קילאבייט"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= שטיצן אויף: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== ברוכים הבאים ==========\n"
+
+msgid "========================================\n"
+msgstr "========================================="
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "אַבסאָלוט פּראָוכיבאַטאַד צו נוצן די רשימות אָן דערלויבעניש\n"
+
+msgid "All cache fold are empty!"
+msgstr "אַלע קאַש פאַרלייגן זענען ליידיק!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "עס איז לעגאַמרע פאַרבאָטן צו נוצן די רשימות אָן דערלויבעניש.\n"
+
+msgid "Back"
+msgstr "צוריק"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "קען נישט לייענען RTMP פּאַקאַט:"
+
+msgid "Cache folder"
+msgstr "קאַש טעקע"
+
+msgid "Cancel"
+msgstr "באָטל מאַכן"
+
+msgid "Cancel execution?"
+msgstr "באָטל מאַכן דורכפירונג?"
+
+msgid "Choice"
+msgstr "ברירה"
+
+msgid "Choose Directory"
+msgstr "קלייַבן Directory"
+
+msgid "Choose Directory:"
+msgstr "קלייַבן Directory:"
+
+msgid "Close"
+msgstr "נאָענט"
+
+msgid "Configure Service Player Reference"
+msgstr "קאַנפיגיער סערוויס שפּילער רעפערענץ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "מאַזל - טאָוו! איר האָט שוין די לעצטע ווערסיע ..."
+
+msgid "Console"
+msgstr "קאַנסאָול"
+
+msgid "DISCLAIMER: \n"
+msgstr "אָפּלייקענונג: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "דאַונלאָודיד טעקע פארדארבן:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "צי איר ווילן צו ינסטאַלירן דערהייַנטיקן (%s) איצט?"
+
+msgid "Do you want to remove %s ?"
+msgstr "צי איר ווילן צו באַזייַטיקן %s?"
+
+msgid "Download Failed !!"
+msgstr "אראפקאפיע ניט אַנדערש !!"
+
+msgid "Download Failed!!!"
+msgstr "אראפקאפיע ניט אַנדערש!!!"
+
+msgid "Download..."
+msgstr "אראפקאפיע..."
+
+msgid "Downloading"
+msgstr "דאַונלאָודינג"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr "DreamOS GStreamer (8193)"
+
+msgid "Dvb(1)"
+msgstr "דווב (1)"
+
+msgid "Empty Cache"
+msgstr "ליידיק קאַש"
+
+msgid "Exit"
+msgstr "אַרויסגאַנג"
+
+msgid "Exteplayer3(5002)"
+msgstr "עקסטעפּלייַער 3 (5002)"
+
+msgid "File Downloaded ..."
+msgstr "טעקע דאַונלאָודיד ..."
+
+msgid "Finished"
+msgstr "פאַרטיק"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "טעקע פֿילם דרך (למשל: / מידיאַ/hdd/movie), דריקן OK - עניגמאַ ריסטאַרט פארלאנגט"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "באַהאַלטן / ווייַזן"
+
+msgid "IPTV(4097)"
+msgstr "IPTV (4097)"
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "די סטראַקטשעראַל רעפֿערענץ סערווער פֿאַר פריי פּראַדזשעקס\n"
+
+msgid "Install Streamlink first"
+msgstr "ינסטאַלירן Streamlink ערשטער"
+
+msgid "Is Directory or file not exist"
+msgstr "איז Directory אָדער טעקע ניט עקסיסטירן"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "די רשימות באשאפן ספּאַסיפיקלי HOC אַנטהאַלטן אַדרעסעס פריי און פריי\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "פֿילם דאַונלאָוד ניט אַנדערש!"
+
+msgid "Movie"
+msgstr "פֿילם"
+
+msgid "NOTA BENE:\n"
+msgstr "ביטע טאָן:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "בלויז VOD פֿילם ערלויבט אָדער ניט. עקסט פילטערד!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "אַנדערש ניצן מיין פּלוגין Freearhey"
+
+msgid "Personal Password"
+msgstr "פערזענלעכע שפּריכוואָרט"
+
+msgid "Please select ..."
+msgstr "ביטע אויסקלייַבן ..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "דרוק Ok צו סעלעקטירן דעם טעקע מיט די פּיקאָנס טעקעס"
+
+msgid "Really close without saving settings?"
+msgstr "טאַקע נאָענט אָן שפּאָרן סעטטינגס?"
+
+msgid "Remove"
+msgstr "אַראָפּנעמען"
+
+msgid "Restart"
+msgstr "ריסטאַרט"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "סעגמענטאַטיאָן שולד:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "אויסקלייַבן דיין ברירה"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVER RETURED ERROR:"
+
+msgid "Save"
+msgstr "היט"
+
+msgid "Select"
+msgstr "אויסקלייַבן"
+
+msgid "Services Player Reference type"
+msgstr "סערוויס שפּילער רעפערענץ טיפּ"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "שטעלן פּאַראָל - פרעגן דורך E- בריוו צו tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "שטעלן דעם דרך פֿילם טעקע"
+
+msgid "Set the path to the Cache folder"
+msgstr "שטעלן דעם דרך צו די קאַש טעקע"
+
+msgid "Settings saved correctly!"
+msgstr "סעטטינגס געראטעוועט ריכטיק!"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "די רשימות באשאפן אין HOC אַנטהאַלטן אַדרעסעס פרילי און פריי געפֿונען אויף\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "די סטראַקטשעראַל רעפֿערענץ סערווער פֿאַר פּראַדזשעקס פריי\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "אומבאַקאַנט טעות:"
+
+msgid "Update"
+msgstr "דערהייַנטיקן"
+
+msgid "Update Aborted!"
+msgstr "דערהייַנטיקן אַבאָרטיד!"
+
+msgid "You are already downloading!!!"
+msgstr "איר זענט שוין דאַונלאָודינג!!!"
+
+msgid "You are not allowed!"
+msgstr "איר זענט נישט ערלויבט!"
+
+msgid "check SERVER in config"
+msgstr "טשעק SERVER אין קאָנפיג"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "איז נישט אַ מקור פון קיין טייַך / לויפן.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "עס איז נישט דער מקור פון קיין טייַך.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "די נעץ און ניט פּראָטעקטעד דורך אַבאָנעמענט אָדער אַבאָנעמענט.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "געפונען אָנליין און ניט פּראָטעקטעד דורך אַבאָנעמענט אָדער אַבאָנעמענט.\n"

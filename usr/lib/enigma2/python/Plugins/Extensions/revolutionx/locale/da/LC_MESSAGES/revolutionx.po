@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:05+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d af %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= SUPPORT TIL: ===========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== VELKOMMEN ===========\n"
+
+msgid "========================================\n"
+msgstr "===========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Absolut FORBUDT at bruge disse lister uden tilladelse\n"
+
+msgid "All cache fold are empty!"
+msgstr "Alle cachefolder er tomme!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Det er absolut FORBUDT at bruge disse lister uden tilladelse.\n"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "KUNNE IKKE LÆSE RTMP-PAKKEN:"
+
+msgid "Cache folder"
+msgstr "Cache mappe"
+
+msgid "Cancel"
+msgstr "Ophæve"
+
+msgid "Cancel execution?"
+msgstr "Vil du annullere udførelsen?"
+
+msgid "Choice"
+msgstr "Valg"
+
+msgid "Choose Directory"
+msgstr "Vælg Directory"
+
+msgid "Choose Directory:"
+msgstr "Vælg bibliotek:"
+
+msgid "Close"
+msgstr "Tæt"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurer Service Player Reference"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Tillykke! Du har allerede den seneste version..."
+
+msgid "Console"
+msgstr "Konsol"
+
+msgid "DISCLAIMER: \n"
+msgstr "ANSVARSFRASKRIVELSE: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "DOWNLOADET FIL ØDSAT:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Vil du installere opdatering ( %s ) nu?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Vil du fjerne %s?"
+
+msgid "Download Failed !!"
+msgstr "Download mislykkedes!!"
+
+msgid "Download Failed!!!"
+msgstr "Download mislykkedes!!!"
+
+msgid "Download..."
+msgstr ""
+
+msgid "Downloading"
+msgstr "Downloader"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Tøm cache"
+
+msgid "Exit"
+msgstr "Udgang"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Fil downloadet..."
+
+msgid "Finished"
+msgstr "Færdig"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Mappe Filmsti (f.eks.: /media/hdd/movie), Tryk på OK - Enigma genstart påkrævet"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Skjul/Vis"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Den strukturelle referenceserver for frigivne projekter\n"
+
+msgid "Install Streamlink first"
+msgstr "Installer Streamlink først"
+
+msgid "Is Directory or file not exist"
+msgstr "Findes mappe eller fil ikke"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Listerne oprettet specifikt HOC indeholder adresser gratis og gratis\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "DOWNLOAD AF FILM FEJLLET!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "BEMÆRK VENLIGST:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Kun VOD-film tilladt eller ej .ext filtreret!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Ellers Brug mit Plugin Freearhey"
+
+msgid "Personal Password"
+msgstr "Personlig adgangskode"
+
+msgid "Please select ..."
+msgstr "Vælg venligst..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Tryk på Ok for at vælge den mappe, der indeholder picons-filerne"
+
+msgid "Really close without saving settings?"
+msgstr "Virkelig lukke uden at gemme indstillinger?"
+
+msgid "Remove"
+msgstr "Fjerne"
+
+msgid "Restart"
+msgstr "Genstart"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "SEGMENTATIONSFEJL:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "VÆLG DIT VALG"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "SERVER RETURERET FEJL:"
+
+msgid "Save"
+msgstr "Spare"
+
+msgid "Select"
+msgstr "Vælge"
+
+msgid "Services Player Reference type"
+msgstr ""
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Indstil adgangskode - spørg via e-mail til tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Indstil stien Filmmappen"
+
+msgid "Set the path to the Cache folder"
+msgstr "Indstil stien til Cache-mappen"
+
+msgid "Settings saved correctly!"
+msgstr "Indstillinger gemt korrekt!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Listerne oprettet på HOC indeholder adresser frit og frit fundet på\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Den strukturelle referenceserver for frigivne projekter\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "UKENDT FEJL:"
+
+msgid "Update"
+msgstr "Opdatering"
+
+msgid "Update Aborted!"
+msgstr "Opdatering afbrudt!"
+
+msgid "You are already downloading!!!"
+msgstr "Du downloader allerede!!!"
+
+msgid "You are not allowed!"
+msgstr "Du har ikke lov!"
+
+msgid "check SERVER in config"
+msgstr "tjek SERVER i config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "er ikke en kilde til nogen strøm/strøm.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "det er ikke kilden til nogen strøm.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "nettet og ikke beskyttet af abonnement eller abonnement.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "fundet online og ikke beskyttet af abonnement eller abonnement.\n"

@@ -1,0 +1,249 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:48+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d din %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= SUPORT ACTIVAT: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== Bine ați venit ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Utilizarea acestor liste fără autorizație este absolut INTERZISĂ\n"
+
+msgid "All cache fold are empty!"
+msgstr "Toate paginile cache sunt goale!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Este absolut INTERZIS să folosiți aceste liste fără permisiune.\n"
+
+msgid "Back"
+msgstr "Spate"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "NU S-A PUTEA CITIRE PACHETUL RTMP:"
+
+msgid "Cache folder"
+msgstr "Dosarul cache"
+
+msgid "Cancel"
+msgstr "Anula"
+
+msgid "Cancel execution?"
+msgstr "Anulați execuția?"
+
+msgid "Choice"
+msgstr "Alegere"
+
+msgid "Choose Directory"
+msgstr "Alegeți Director"
+
+msgid "Choose Directory:"
+msgstr "Alegeți directorul:"
+
+msgid "Close"
+msgstr "Aproape"
+
+msgid "Configure Service Player Reference"
+msgstr "Configurați Referința Playerului Service"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Felicitari! Ai deja cea mai recentă versiune..."
+
+msgid "Console"
+msgstr "Consolă"
+
+msgid "DISCLAIMER: \n"
+msgstr ""
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "FIȘIER DESCARCAT CORUPT:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Doriți să instalați actualizarea ( %s ) acum?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Doriți să eliminați %s?"
+
+msgid "Download Failed !!"
+msgstr "Descărcarea eșuată!!"
+
+msgid "Download Failed!!!"
+msgstr "Descărcarea eșuată!!!"
+
+msgid "Download..."
+msgstr "Descărcați..."
+
+msgid "Downloading"
+msgstr "Descărcarea"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Goliți memoria cache"
+
+msgid "Exit"
+msgstr "Ieșire"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Fișier descărcat..."
+
+msgid "Finished"
+msgstr "Terminat"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Folder Movie Cale (de ex.: /media/hdd/movie), apăsați OK - Este necesară repornirea Enigma"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Ascunde/Afișează"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Serverul de referință structural pentru proiectele lansate\n"
+
+msgid "Install Streamlink first"
+msgstr "Instalați mai întâi Streamlink"
+
+msgid "Is Directory or file not exist"
+msgstr "Directorul sau fișierul nu există"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Listele create special HOC conțin adrese în mod liber și gratuit\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "DESCĂRCAREA FILMULUI EȘUT!"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "NOTA BENE:\n"
+msgstr "Vă rugăm să rețineți:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Numai filmul VOD este permis sau nu .ext filtrat!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "În caz contrar, folosiți pluginul meu Freearhey"
+
+msgid "Personal Password"
+msgstr "Parolă personală"
+
+msgid "Please select ..."
+msgstr "Vă rugăm să selectați..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Apăsați Ok pentru a selecta folderul care conține fișierele picoane"
+
+msgid "Really close without saving settings?"
+msgstr "Chiar se închide fără a salva setările?"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "Restart"
+msgstr "Repornire"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "DEFECT DE SEGMENTARE:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "SELECTAȚI ALEGEREA DVS"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "EROARE RETURNATĂ DE SERVER:"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Select"
+msgstr "Selecta"
+
+msgid "Services Player Reference type"
+msgstr "Servicii Tip de referință pentru jucător"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Setați parola - cereți prin e-mail la tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Setați calea folderului Film"
+
+msgid "Set the path to the Cache folder"
+msgstr "Setați calea către folderul Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Setările au fost salvate corect!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Listele create la HOC conțin adrese găsite liber și liber pe\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Serverul de referință structural pentru proiecte lansat\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "EROARE NECUNOSCUT:"
+
+msgid "Update"
+msgstr "Actualizare"
+
+msgid "Update Aborted!"
+msgstr "Actualizare a fost anulată!"
+
+msgid "You are already downloading!!!"
+msgstr "Descarci deja!!!"
+
+msgid "You are not allowed!"
+msgstr "Nu ai voie!"
+
+msgid "check SERVER in config"
+msgstr "verificați SERVER în config"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "nu este o sursă de flux/curgere.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "nu este sursa niciunui flux.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "net și neprotejat prin abonament sau abonament.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "găsit online și nu este protejat prin abonament sau abonament.\n"

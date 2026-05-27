@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:27+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kazakh <(nothing)>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d/ %d кбайт"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= ҚОЛДАУ ҚОСУЛЫ: =========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== ҚОШ КЕЛДІҢІЗ ==========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "Бұл тізімдерді рұқсатсыз пайдалануға мүлде ТЫЙЫМ САЛЫНАДЫ\n"
+
+msgid "All cache fold are empty!"
+msgstr "Барлық кэш жинағы бос!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "Бұл тізімдерді рұқсатсыз пайдалануға мүлде ТЫЙЫМ САЛЫНАДЫ.\n"
+
+msgid "Back"
+msgstr "Артқа"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP ПАКЕТІН ОҚЫМАДЫ:"
+
+msgid "Cache folder"
+msgstr "Кэш қалтасы"
+
+msgid "Cancel"
+msgstr "Болдырмау"
+
+msgid "Cancel execution?"
+msgstr "Орындаудан бас тарту керек пе?"
+
+msgid "Choice"
+msgstr "Таңдау"
+
+msgid "Choose Directory"
+msgstr "Каталог таңдаңыз"
+
+msgid "Choose Directory:"
+msgstr "Каталогты таңдаңыз:"
+
+msgid "Close"
+msgstr "Жабу"
+
+msgid "Configure Service Player Reference"
+msgstr "Қызмет ойнатқышының анықтамасын конфигурациялаңыз"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Құттықтаймыз! Сізде соңғы нұсқа әлдеқашан бар..."
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "DISCLAIMER: \n"
+msgstr "БАС ТАРТУ: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "ЖҮКТЕП АЛЫНҒАН ФАЙЛ БҰЗЫЛҒАН:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Жаңартуды ( %s ) қазір орнатқыңыз келе ме?"
+
+msgid "Do you want to remove %s ?"
+msgstr "%s жою керек пе?"
+
+msgid "Download Failed !!"
+msgstr "Жүктеп алу сәтсіз аяқталды !!"
+
+msgid "Download Failed!!!"
+msgstr "Жүктеп алу сәтсіз аяқталды!!!"
+
+msgid "Download..."
+msgstr "Жүктеп алу..."
+
+msgid "Downloading"
+msgstr "Жүктеп алынуда"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Бос кэш"
+
+msgid "Exit"
+msgstr "Шығу"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Файл жүктелді..."
+
+msgid "Finished"
+msgstr "Аяқталды"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Қалтаның фильм жолы (мысалы: /media/hdd/movie), OK түймесін басыңыз - Enigma қайта іске қосылуы қажет"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Жасыру/көрсету"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Шығарылған жобаларға арналған құрылымдық анықтамалық сервер\n"
+
+msgid "Install Streamlink first"
+msgstr "Алдымен Streamlink орнатыңыз"
+
+msgid "Is Directory or file not exist"
+msgstr "Каталог немесе файл жоқ"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Арнайы HOC жасалған тізімдер мекенжайларды еркін және тегін қамтиды\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "ФИЛЬМЕНІ ЖҮКТЕП АЛУ СӘТсіз аяқталды!"
+
+msgid "Movie"
+msgstr "Фильм"
+
+msgid "NOTA BENE:\n"
+msgstr "НАЗАР АУДАРЫҢЫЗ:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Тек VOD фильміне рұқсат етілген немесе жоқ .ext сүзгіленген!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Әйтпесе, менің Freearhey плагинімді пайдаланыңыз"
+
+msgid "Personal Password"
+msgstr "Жеке құпия сөз"
+
+msgid "Please select ..."
+msgstr "таңдаңыз..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Пикондар файлдары бар қалтаны таңдау үшін Ok түймесін басыңыз"
+
+msgid "Really close without saving settings?"
+msgstr "Параметрлерді сақтамай шынымен жабу керек пе?"
+
+msgid "Remove"
+msgstr "Жою"
+
+msgid "Restart"
+msgstr "Қайтадан қосу"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "СЕГМЕНТАЦИЯЛЫҚ ҚАТЕЛІК:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ТАҢДАУЫҢЫЗДЫ ТАҢДАҢЫЗ"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "СЕРВЕР ҚАЙТАРУ ҚАТЕСІ:"
+
+msgid "Save"
+msgstr "Сақтау"
+
+msgid "Select"
+msgstr "таңдаңыз"
+
+msgid "Services Player Reference type"
+msgstr "Қызметтер ойнатқышының анықтамалық түрі"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Құпия сөзді орнату - tivustream@gmail.com электрондық поштасы арқылы сұраңыз"
+
+msgid "Set the path Movie folder"
+msgstr "Жол фильмі қалтасын орнатыңыз"
+
+msgid "Set the path to the Cache folder"
+msgstr "Кэш қалтасына жолды орнатыңыз"
+
+msgid "Settings saved correctly!"
+msgstr "Параметрлер дұрыс сақталды!"
+
+msgid "Streamlink(5002)"
+msgstr "Ағынды сілтеме(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC-те жасалған тізімдер\n мекенжайында еркін және еркін табылған мекенжайларды қамтиды"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Жобаларға арналған құрылымдық анықтамалық сервер\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "БЕЛГІСІЗ ҚАТЕ:"
+
+msgid "Update"
+msgstr "Жаңарту"
+
+msgid "Update Aborted!"
+msgstr "Жаңарту тоқтатылды!"
+
+msgid "You are already downloading!!!"
+msgstr "Жүктеп алып жатырсыз!!!"
+
+msgid "You are not allowed!"
+msgstr "Сізге рұқсат етілмейді!"
+
+msgid "check SERVER in config"
+msgstr "конфигурацияда СЕРВЕРді тексеріңіз"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "ешқандай ағынның/ағынның көзі емес.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ол ешқандай ағынның көзі емес.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "желі және жазылым немесе жазылым арқылы қорғалмаған.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "желіде табылған және жазылым немесе жазылым арқылы қорғалмаған.\n"

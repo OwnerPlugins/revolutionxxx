@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:55+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Swahili <(nothing)>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d kati ya kBytes %d"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= MSAADA KWA: ===========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== KARIBU ===========\n"
+
+msgid "========================================\n"
+msgstr ""
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "IMEPIGWA MARUFUKU KABISA kutumia orodha hizi bila idhini\n"
+
+msgid "All cache fold are empty!"
+msgstr "Mkunjo wote wa akiba ni tupu!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "NI HARAMU kabisa kutumia orodha hizi bila ruhusa.\n"
+
+msgid "Back"
+msgstr "Nyuma"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "HAIKUWEZA KUSOMA RTMP PACKET:"
+
+msgid "Cache folder"
+msgstr "Folda ya akiba"
+
+msgid "Cancel"
+msgstr "Ghairi"
+
+msgid "Cancel execution?"
+msgstr "Ungependa kughairi utekelezaji?"
+
+msgid "Choice"
+msgstr "Chaguo"
+
+msgid "Choose Directory"
+msgstr "Chagua Saraka"
+
+msgid "Choose Directory:"
+msgstr "Chagua Saraka:"
+
+msgid "Close"
+msgstr "Funga"
+
+msgid "Configure Service Player Reference"
+msgstr "Sanidi Rejeleo la Kicheza Huduma"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Hongera! Tayari una toleo jipya zaidi..."
+
+msgid "Console"
+msgstr ""
+
+msgid "DISCLAIMER: \n"
+msgstr "KANUSHO: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "FAILI ILIYOPAKUA IMEHARIBIKA:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Je, ungependa kusakinisha sasisho ( %s ) sasa?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Je, ungependa kuondoa %s ?"
+
+msgid "Download Failed !!"
+msgstr "Imeshindwa Kupakua !!"
+
+msgid "Download Failed!!!"
+msgstr "Imeshindwa Kupakua!!!"
+
+msgid "Download..."
+msgstr "Pakua..."
+
+msgid "Downloading"
+msgstr "Inapakua"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Cache tupu"
+
+msgid "Exit"
+msgstr "Utgång"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Faili Imepakuliwa ..."
+
+msgid "Finished"
+msgstr "Imekamilika"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Njia ya Filamu ya Folda (km.: /media/hdd/movie), Bonyeza Sawa - Kuanzisha upya kwa mafumbo kunahitajika."
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Ficha/Onyesha"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Seva ya kumbukumbu ya muundo kwa miradi iliyotolewa\n"
+
+msgid "Install Streamlink first"
+msgstr "Sakinisha Streamlink kwanza"
+
+msgid "Is Directory or file not exist"
+msgstr "Je, Saraka au faili haipo"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Orodha zilizoundwa mahususi HOC zina anwani bila malipo na bila malipo\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "KUPAKUA FILAMU IMESHINDWA!"
+
+msgid "Movie"
+msgstr "Filamu"
+
+msgid "NOTA BENE:\n"
+msgstr "TAFADHALI KUMBUKA:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Filamu ya VOD pekee ndiyo inayoruhusiwa au la .ext Imechujwa!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Vinginevyo Tumia programu-jalizi yangu Freearhey"
+
+msgid "Personal Password"
+msgstr "Nenosiri la Kibinafsi"
+
+msgid "Please select ..."
+msgstr "Tafadhali chagua..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Bonyeza Sawa ili kuchagua folda iliyo na faili za picha"
+
+msgid "Really close without saving settings?"
+msgstr "Je, ungependa kufunga bila kuhifadhi mipangilio?"
+
+msgid "Remove"
+msgstr "Ondoa"
+
+msgid "Restart"
+msgstr "Anzisha upya"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "KOSA LA Mgawanyo:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "CHAGUA UCHAGUZI WAKO"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "HITILAFU ILIYOREJESHA SEVA:"
+
+msgid "Save"
+msgstr "Hifadhi"
+
+msgid "Select"
+msgstr "Chagua"
+
+msgid "Services Player Reference type"
+msgstr "Aina ya Marejeleo ya Kichezaji cha Huduma"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Weka Nenosiri - uliza kwa barua pepe kwa tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Weka folda ya Filamu ya njia"
+
+msgid "Set the path to the Cache folder"
+msgstr "Weka njia kwenye folda ya Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Mipangilio imehifadhiwa kwa usahihi!"
+
+msgid "Streamlink(5002)"
+msgstr "Kiunga cha mkondo(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Orodha zilizoundwa kwenye HOC zina anwani bila malipo na bila malipo kwenye\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Seva ya kumbukumbu ya miundo ya miradi iliyotolewa\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "KOSA LISILOJULIKANA:"
+
+msgid "Update"
+msgstr "Sasisha"
+
+msgid "Update Aborted!"
+msgstr "Usasishaji Umeghairiwa!"
+
+msgid "You are already downloading!!!"
+msgstr "Tayari unapakua!!!"
+
+msgid "You are not allowed!"
+msgstr "Huruhusiwi!"
+
+msgid "check SERVER in config"
+msgstr "angalia SERVER katika usanidi"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "si chanzo cha mtiririko/mtiririko wowote.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "sio chanzo cha mtiririko wowote.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "mtandao na hailindwi na usajili au usajili.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "inapatikana mtandaoni na haijalindwa na usajili au usajili.\n"

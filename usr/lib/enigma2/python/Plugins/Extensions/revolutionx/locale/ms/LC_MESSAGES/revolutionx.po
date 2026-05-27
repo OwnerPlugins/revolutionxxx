@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malay <translation-team-ms@lists.sourceforge.net>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d daripada %d kBytes"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= SOKONGAN PADA: ==========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======== SELAMAT DATANG ===========\n"
+
+msgid "========================================\n"
+msgstr "==========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "DILARANG sama sekali untuk menggunakan senarai ini tanpa kebenaran\n"
+
+msgid "All cache fold are empty!"
+msgstr "Semua lipatan cache kosong!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "DILARANG sama sekali untuk menggunakan senarai ini tanpa kebenaran.\n"
+
+msgid "Back"
+msgstr "belakang"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "TIDAK BOLEH MEMBACA PAKET RTMP:"
+
+msgid "Cache folder"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Cancel execution?"
+msgstr "Batalkan pelaksanaan?"
+
+msgid "Choice"
+msgstr "Pilihan"
+
+msgid "Choose Directory"
+msgstr "Pilih Direktori"
+
+msgid "Choose Directory:"
+msgstr "Pilih Direktori:"
+
+msgid "Close"
+msgstr "tutup"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurasi Rujukan Pemain Perkhidmatan"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "tahniah! Anda sudah mempunyai versi terkini..."
+
+msgid "Console"
+msgstr "Konsol"
+
+msgid "DISCLAIMER: \n"
+msgstr "PENAFIAN: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "FAIL YANG DIMUAT TURUN DIROSAK:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Adakah anda mahu memasang kemas kini ( %s ) sekarang?"
+
+msgid "Do you want to remove %s ?"
+msgstr "Adakah anda mahu mengalih keluar %s ?"
+
+msgid "Download Failed !!"
+msgstr "Muat turun Gagal !!"
+
+msgid "Download Failed!!!"
+msgstr "Muat turun Gagal!!!"
+
+msgid "Download..."
+msgstr "Muat turun..."
+
+msgid "Downloading"
+msgstr "Memuat turun"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "Cache Kosong"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "Fail Dimuat Turun..."
+
+msgid "Finished"
+msgstr "Selesai"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "Laluan Filem Folder (cth.: /media/hdd/movie), Tekan OK - Enigma restart diperlukan"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "Sembunyi/Tunjukkan"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "Pelayan rujukan struktur untuk projek yang dikeluarkan\n"
+
+msgid "Install Streamlink first"
+msgstr "Pasang Streamlink dahulu"
+
+msgid "Is Directory or file not exist"
+msgstr "Adakah Direktori atau fail tidak wujud"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "Senarai yang dibuat khusus HOC mengandungi alamat secara bebas dan percuma\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "MUAT TURUN FILEM GAGAL!"
+
+msgid "Movie"
+msgstr "Filem"
+
+msgid "NOTA BENE:\n"
+msgstr "SILA AMBIL PERHATIAN:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Hanya Filem VOD dibenarkan atau tidak .ext Ditapis!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "Jika tidak, Gunakan Plugin Freearhey saya"
+
+msgid "Personal Password"
+msgstr "Kata Laluan Peribadi"
+
+msgid "Please select ..."
+msgstr "Sila pilih..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "Tekan Ok untuk memilih folder yang mengandungi fail picons"
+
+msgid "Really close without saving settings?"
+msgstr "Benar-benar tutup tanpa menyimpan tetapan?"
+
+msgid "Remove"
+msgstr "Alih keluar"
+
+msgid "Restart"
+msgstr "Mulakan semula"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "KESALAHAN SEGMENTASI:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "PILIH PILIHAN ANDA"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "RALAT PEMULANGAN SERVER:"
+
+msgid "Save"
+msgstr "Jimat"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Services Player Reference type"
+msgstr "Jenis Rujukan Pemain Perkhidmatan"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "Tetapkan Kata Laluan - tanya melalui e-mel ke tivustream@gmail.com"
+
+msgid "Set the path Movie folder"
+msgstr "Tetapkan laluan folder Filem"
+
+msgid "Set the path to the Cache folder"
+msgstr "Tetapkan laluan ke folder Cache"
+
+msgid "Settings saved correctly!"
+msgstr "Tetapan disimpan dengan betul!"
+
+msgid "Streamlink(5002)"
+msgstr "Pautan strim(5002)"
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "Senarai yang dibuat di HOC mengandungi alamat yang didapati secara bebas dan bebas di\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "Pelayan rujukan struktur untuk projek yang dikeluarkan\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "RALAT TIDAK DIKENALI:"
+
+msgid "Update"
+msgstr "Kemas kini"
+
+msgid "Update Aborted!"
+msgstr "Kemas Kini Dibatalkan!"
+
+msgid "You are already downloading!!!"
+msgstr "Anda sudah memuat turun!!!"
+
+msgid "You are not allowed!"
+msgstr "Anda tidak dibenarkan!"
+
+msgid "check SERVER in config"
+msgstr "semak SERVER dalam konfigurasi"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "bukan sumber mana-mana aliran/aliran.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "ia bukan sumber mana-mana aliran.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "internet dan tidak dilindungi oleh langganan atau langganan.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "ditemui dalam talian dan tidak dilindungi oleh langganan atau langganan.\n"

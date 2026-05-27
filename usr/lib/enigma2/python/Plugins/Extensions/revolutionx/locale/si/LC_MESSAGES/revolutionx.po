@@ -1,0 +1,248 @@
+# revolutionx translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: revolutionx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:49+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Sinhala\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d of %d kBytes"
+msgstr "%d kBytes %d"
+
+msgid "+WWW.TIVUSTREAM.COM - WWW.CORVOBOYS.ORG+\n"
+msgstr ""
+
+msgid "=======     SUPPORT ON:   ==========\n"
+msgstr "======= සහාය: =========\n"
+
+msgid "========       WELCOME     ==========\n"
+msgstr "======= සාදරයෙන් පිළිගනිමු ==========\n"
+
+msgid "========================================\n"
+msgstr "=========================================\n"
+
+msgid "Absolutely PROHIBITED to use this lists without authorization\n"
+msgstr "අවසරයකින් තොරව මෙම ලැයිස්තු භාවිතා කිරීම සපුරා තහනම්\n"
+
+msgid "All cache fold are empty!"
+msgstr "සියලුම හැඹිලි ෆෝල්ට් හිස්!"
+
+msgid "Assolutamente VIETATO utilizzare queste liste senza autorizzazione.\n"
+msgstr "අවසරයකින් තොරව මෙම ලැයිස්තු භාවිතා කිරීම සපුරා තහනම්ය.\n"
+
+msgid "Back"
+msgstr "ආපසු"
+
+msgid "COULD NOT READ RTMP PACKET:"
+msgstr "RTMP පැකට්ටුව කියවිය නොහැකි විය:"
+
+msgid "Cache folder"
+msgstr "හැඹිලි ෆෝල්ඩරය"
+
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+msgid "Cancel execution?"
+msgstr "ක්‍රියාත්මක කිරීම අවලංගු කරන්නද?"
+
+msgid "Choice"
+msgstr "තේරීම"
+
+msgid "Choose Directory"
+msgstr "නාමාවලිය තෝරන්න"
+
+msgid "Choose Directory:"
+msgstr "නාමාවලිය තෝරන්න:"
+
+msgid "Close"
+msgstr "වසන්න"
+
+msgid "Configure Service Player Reference"
+msgstr "සේවා ක්‍රීඩක යොමුව වින්‍යාස කරන්න"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "සුභ පැතුම්! ඔබට දැනටමත් නවතම අනුවාදය ඇත..."
+
+msgid "Console"
+msgstr "කොන්සෝලය"
+
+msgid "DISCLAIMER: \n"
+msgstr "වියාචනය: \n"
+
+msgid "DOWNLOADED FILE CORRUPTED:"
+msgstr "බාගත කළ ගොනුව දූෂිතයි:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ඔබට දැන් යාවත්කාලීන (%s ) ස්ථාපනය කිරීමට අවශ්‍යද?"
+
+msgid "Do you want to remove %s ?"
+msgstr "ඔබට %s ඉවත් කිරීමට අවශ්‍යද?"
+
+msgid "Download Failed !!"
+msgstr "බාගත කිරීම අසාර්ථකයි !!"
+
+msgid "Download Failed!!!"
+msgstr "බාගැනීම අසාර්ථකයි!!!"
+
+msgid "Download..."
+msgstr "බාගන්න..."
+
+msgid "Downloading"
+msgstr "බාගත කිරීම"
+
+msgid "DreamOS GStreamer(8193)"
+msgstr ""
+
+msgid "Dvb(1)"
+msgstr ""
+
+msgid "Empty Cache"
+msgstr "හිස් හැඹිලිය"
+
+msgid "Exit"
+msgstr "පිටවෙන්න"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "File Downloaded ..."
+msgstr "ගොනුව බාගත කර ඇත ..."
+
+msgid "Finished"
+msgstr "අවසන්"
+
+msgid "Folder Movie Path (eg.: /media/hdd/movie), Press OK - Enigma restart required"
+msgstr "ෆෝල්ඩර චිත්‍රපට මාර්ගය (උදා: /media/hdd/movie), හරි ඔබන්න - Enigma නැවත ආරම්භ කිරීම අවශ්‍යයි"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hide/Show"
+msgstr "සඟවන්න/පෙන්වන්න"
+
+msgid "IPTV(4097)"
+msgstr ""
+
+msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
+msgstr "නිකුත් කරන ලද ව්‍යාපෘති සඳහා ව්‍යුහාත්මක යොමු සේවාදායකය\n"
+
+msgid "Install Streamlink first"
+msgstr "මුලින්ම Streamlink ස්ථාපනය කරන්න"
+
+msgid "Is Directory or file not exist"
+msgstr "නාමාවලිය හෝ ගොනුව නොපවතී"
+
+msgid "Le liste create ad HOC contengono indirizzi liberamente e gratuitamente\n"
+msgstr "විශේෂයෙන් HOC සාදන ලද ලැයිස්තු වල නොමිලේ සහ නොමිලේ ලිපින අඩංගු වේ\n"
+
+msgid "MOVIE DOWNLOAD FAILED!"
+msgstr "චිත්‍රපට බාගත කිරීම අසාර්ථක විය!"
+
+msgid "Movie"
+msgstr "චිත්රපටය"
+
+msgid "NOTA BENE:\n"
+msgstr "කරුණාකර සටහන් කරන්න:\n"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD චිත්‍රපටයට පමණක් අවසර හෝ නැත .ext ෆිල්ටර් කර ඇත!!!"
+
+msgid "Otherwise Use my Plugin Freearhey"
+msgstr "එසේ නොමැතිනම් මගේ Plugin Freearhey භාවිතා කරන්න"
+
+msgid "Personal Password"
+msgstr "පුද්ගලික මුරපදය"
+
+msgid "Please select ..."
+msgstr "කරුණාකර තෝරන්න..."
+
+msgid "Press Ok to select the folder containing the picons files"
+msgstr "picons ගොනු අඩංගු ෆෝල්ඩරය තේරීමට Ok ඔබන්න"
+
+msgid "Really close without saving settings?"
+msgstr "සැකසීම් සුරැකීමෙන් තොරව ඇත්තටම වසන්නද?"
+
+msgid "Remove"
+msgstr "ඉවත් කරන්න"
+
+msgid "Restart"
+msgstr "යළි අරඹන්න"
+
+msgid "SEGMENTATION FAULT:"
+msgstr "ඛණ්ඩනය කිරීමේ දෝෂය:"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "ඔබේ තේරීම තෝරන්න"
+
+msgid "SERVER RETURNED ERROR:"
+msgstr "සේවාදායකය ආපසු ලබා දුන් දෝෂය:"
+
+msgid "Save"
+msgstr "සුරකින්න"
+
+msgid "Select"
+msgstr "තෝරන්න"
+
+msgid "Services Player Reference type"
+msgstr "සේවා ක්‍රීඩක විමර්ශන වර්ගය"
+
+msgid "Set Password - ask by email to tivustream@gmail.com"
+msgstr "මුරපදය සකසන්න - විද්‍යුත් තැපෑලෙන් tivustream@gmail.com වෙත විමසන්න"
+
+msgid "Set the path Movie folder"
+msgstr "මාර්ගය චිත්‍රපට ෆෝල්ඩරය සකසන්න"
+
+msgid "Set the path to the Cache folder"
+msgstr "හැඹිලි ෆෝල්ඩරය වෙත මාර්ගය සකසන්න"
+
+msgid "Settings saved correctly!"
+msgstr "සැකසීම් නිවැරදිව සුරකින ලදි!"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The lists created at HOC contain addresses freely and freely found on\n"
+msgstr "HOC හි සාදන ලද ලැයිස්තු වල නිදහසේ සහ නිදහසේ සොයා ගත හැකි ලිපින අඩංගු වේ\n"
+
+msgid "The structural reference server for projects released\n"
+msgstr "නිකුත් කරන ලද ව්‍යාපෘති සඳහා ව්‍යුහාත්මක යොමු සේවාදායකය\n"
+
+msgid "UNKNOWN ERROR:"
+msgstr "නොදන්නා දෝෂය:"
+
+msgid "Update"
+msgstr "යාවත්කාලීන කරන්න"
+
+msgid "Update Aborted!"
+msgstr "යාවත්කාලීන කිරීම නවත්වන ලදී!"
+
+msgid "You are already downloading!!!"
+msgstr "ඔබ දැනටමත් බාගත කරමින් සිටී!!!"
+
+msgid "You are not allowed!"
+msgstr "ඔබට අවසර නැත!"
+
+msgid "check SERVER in config"
+msgstr "වින්‍යාසය තුළ SERVER පරීක්ෂා කරන්න"
+
+msgid "is not a source of any stream/flow.\n"
+msgstr "කිසිදු ප්‍රවාහයක/ප්‍රවාහයක ප්‍රභවයක් නොවේ.\n"
+
+msgid "non e' fonte di alcun stream/flusso.\n"
+msgstr "එය කිසිදු ප්‍රවාහයක මූලාශ්‍රය නොවේ.\n"
+
+msgid "the net and not protected by subscription or subscription.\n"
+msgstr "ශුද්ධ සහ දායකත්වයෙන් හෝ දායකත්වයෙන් ආරක්ෂා නොවේ.\n"
+
+msgid "trovati in rete e non protetti da sottoscrizione o abbonamento.\n"
+msgstr "සබැඳිව සොයාගත් අතර දායකත්වයෙන් හෝ දායකත්වයෙන් ආරක්ෂා කර නොමැත.\n"
