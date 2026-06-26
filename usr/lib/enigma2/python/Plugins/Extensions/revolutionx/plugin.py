@@ -10,20 +10,6 @@
 Info http://t.me/tivustream
 '''
 from __future__ import print_function
-from . import (
-    _,
-    logdata,
-    paypal,
-    # isDreamOS,
-    # getversioninfo,
-    installer_url,
-    developer_url,
-)
-from .resolver import Utils
-from .resolver import html_conv
-from .resolver.Console import Console as xConsole
-from .resolver.Utils import b64decoder
-from .resolver.AspectManager import AspectManager
 from Components.AVSwitch import AVSwitch
 from Components.ActionMap import ActionMap
 from Components.Button import Button
@@ -36,7 +22,6 @@ from Components.MultiContent import (
 from Components.Pixmap import Pixmap
 from Components.ProgressBar import ProgressBar
 from Components.ServiceEventTracker import (ServiceEventTracker, InfoBarBase)
-from Components.Sources.Progress import Progress
 from Components.Sources.StaticText import StaticText
 from Components.Task import (Task, Condition, Job, job_manager)
 from Components.config import (
@@ -93,6 +78,21 @@ import six
 import sys
 import time
 from . import __version__
+from . import (
+    _,
+    logdata,
+    paypal,
+    # isDreamOS,
+    # getversioninfo,
+    installer_url,
+    developer_url,
+)
+from .resolver import Utils
+from .resolver import html_conv
+from .resolver.Console import Console as xConsole
+from .resolver.Utils import b64decoder
+from .resolver.AspectManager import AspectManager
+
 global nextmodule, search, pngori, Path_Movies
 
 PY3 = False

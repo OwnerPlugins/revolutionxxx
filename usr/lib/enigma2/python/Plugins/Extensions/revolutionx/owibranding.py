@@ -54,8 +54,9 @@ def validate_certificate(cert, key):
 
 def get_random():
     try:
-        def xor(a, b): return ''.join(chr(ord(c) ^ ord(d))
-                                      for c, d in zip(a, b * 100))
+        def xor(a, b):
+            return ''.join(chr(ord(c) ^ ord(d))
+                           for c, d in zip(a, b * 100))
         random = os.urandom(8)
         x = str(time())[-8:]
         result = xor(random, x)
@@ -72,10 +73,10 @@ def bin2long(s):
         pass
 
 
-def long2bin(l):
+def long2bin(lz):
     res = ""
     for byte in list(range(128)):
-        res += chr((l >> (1024 - (byte + 1) * 8)) & 0xff)
+        res += chr((lz >> (1024 - (byte + 1) * 8)) & 0xff)
     return res
 
 
