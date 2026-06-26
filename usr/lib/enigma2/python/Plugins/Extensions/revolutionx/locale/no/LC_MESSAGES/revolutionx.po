@@ -114,7 +114,7 @@ msgid "Exit"
 msgstr "Gå"
 
 msgid "Exteplayer3(5002)"
-msgstr ""
+msgstr "Exteplayer3 (5002)"
 
 msgid "File Downloaded ..."
 msgstr "Fil lastet ned ..."

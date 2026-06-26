@@ -155,7 +155,7 @@ msgid "NOTA BENE:\n"
 msgstr "OHARRA:\n"
 
 msgid "Only VOD Movie allowed or not .ext Filtered!!!"
-msgstr ""
+msgstr "VOD filma bakarrik onartzen da edo ez .ext iragazkia!!!"
 
 msgid "Otherwise Use my Plugin Freearhey"
 msgstr "Bestela, erabili nire plugina Freearhey"

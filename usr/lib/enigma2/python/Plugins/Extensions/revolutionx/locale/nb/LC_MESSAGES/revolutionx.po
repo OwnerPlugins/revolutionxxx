@@ -114,7 +114,7 @@ msgid "Exit"
 msgstr "Gå"
 
 msgid "Exteplayer3(5002)"
-msgstr ""
+msgstr "Exteplayer3 (5002)"
 
 msgid "File Downloaded ..."
 msgstr "Fil lastet ned ..."
@@ -219,7 +219,7 @@ msgid "The structural reference server for projects released\n"
 msgstr "Den strukturelle referanseserveren for utgitte prosjekter\n"
 
 msgid "UNKNOWN ERROR:"
-msgstr ""
+msgstr "UKJENT FEIL:"
 
 msgid "Update"
 msgstr "Oppdater"
