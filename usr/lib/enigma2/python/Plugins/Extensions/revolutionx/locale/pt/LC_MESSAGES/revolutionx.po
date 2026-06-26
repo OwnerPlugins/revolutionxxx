@@ -132,7 +132,7 @@ msgid "Hide/Show"
 msgstr "Ocultar/Mostrar"
 
 msgid "IPTV(4097)"
-msgstr ""
+msgstr "IPTV (4097)"
 
 msgid "Il server di riferimento strutturale ai progetti rilasciati\n"
 msgstr "O servidor de referência estrutural para projetos lançados\n"
