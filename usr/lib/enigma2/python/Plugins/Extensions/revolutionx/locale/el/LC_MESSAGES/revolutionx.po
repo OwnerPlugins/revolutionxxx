@@ -105,7 +105,7 @@ msgid "DreamOS GStreamer(8193)"
 msgstr "DreamOS GStreamer (8193)"
 
 msgid "Dvb(1)"
-msgstr ""
+msgstr "Dvb (1)"
 
 msgid "Empty Cache"
 msgstr "Κενή προσωρινή μνήμη"
