@@ -2039,15 +2039,8 @@ class Bits(object):
         length = len(hexstring)
         if length % 2:
             hexstring += '0'
-        try:
-            try:
-                data = bytearray.fromhex(hexstring)
-            except TypeError:
-                # Python 2.6 needs a unicode string (a bug). 2.7 and 3.x work
-                # fine.
-                data = bytearray.fromhex(unicode(hexstring))
-        except ValueError:
-            raise CreationError("Invalid symbol in hex initialiser.")
+
+        data = bytearray.fromhex(hexstring)
         self._setbytes_unsafe(data, length * 4, 0)
 
     def _readhex(self, length, start):
