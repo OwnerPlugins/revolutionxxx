@@ -209,7 +209,7 @@ msgid "Settings saved correctly!"
 msgstr "تنظیمات به درستی ذخیره شد!"
 
 msgid "Streamlink(5002)"
-msgstr ""
+msgstr "Streamlink (5002)"
 
 msgid "The lists created at HOC contain addresses freely and freely found on\n"
 msgstr "فهرست‌های ایجاد شده در HOC حاوی آدرس‌هایی هستند که آزادانه و آزادانه در\n یافت می‌شوند"
