@@ -78,7 +78,7 @@ msgid "Console"
 msgstr "Consolă"
 
 msgid "DISCLAIMER: \n"
-msgstr ""
+msgstr "DECLINAREA RESPONSABILITĂȚII: \n"
 
 msgid "DOWNLOADED FILE CORRUPTED:"
 msgstr "FIȘIER DESCARCAT CORUPT:"

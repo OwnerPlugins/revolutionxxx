@@ -102,7 +102,7 @@ msgid "Downloading"
 msgstr "Laster ned"
 
 msgid "DreamOS GStreamer(8193)"
-msgstr ""
+msgstr "DreamOS GStreamer (8193)"
 
 msgid "Dvb(1)"
 msgstr ""
